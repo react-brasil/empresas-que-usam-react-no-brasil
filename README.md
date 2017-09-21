@@ -14,6 +14,7 @@ Entria | https://entria.com.br/ |
 Globo.com | http://globo.com.br/ | 
 Ilegra.com | http://ilegra.com/ | 
 Loldesign | http://www.loldesign.com.br | 
+Ministério Público do Estado do Rio de Janeiro | http://apps.mprj.mp.br/sistema/inloco/ | [GeoServer](http://geoserver.org/), [Leaflet](http://leafletjs.com/), [Chart.js](http://www.chartjs.org/), [Intro.js](http://introjs.com/)
 MixBR Games | http://www.mixbrgames.com/ | 
 Monkey Exchange | https://www.monkey.exchange/ | 
 NG Informática | http://ngi.com.br | 
