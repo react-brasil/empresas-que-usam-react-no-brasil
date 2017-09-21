@@ -21,7 +21,7 @@ OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga
 Pipefy | https://pipefy.com | 
 Quanto | https://www.contaquanto.com.br/ | 
 Segware | http://www.segware.com.br |
-Studio Sol | https://www.studiosol.com.br/ | 
+Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
 Vérios Investimentos | https://www.verios.com.br/ | 
 Welearn | https://br.welearnit.co | 
 Zimp | https://zimp.me/ | 
