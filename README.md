@@ -4,6 +4,7 @@
 
 Nome | Website | Tecnologias Relacionadas
 ------------ | ------- | ------------
+AMARO | https://amaro.com/ | Redux, RxJS
 App2Sales | http://app2sales.com | 
 BovControl | https://www.bovcontrol.com | 
 Catho   | https://www.catho.com.br | 
