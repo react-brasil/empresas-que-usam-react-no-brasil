@@ -14,7 +14,7 @@ Entria | https://entria.com.br/ |
 Globo.com | http://globo.com.br/ | 
 Ilegra.com | http://ilegra.com/ | 
 Loldesign | http://www.loldesign.com.br | 
-MixBR Games | http://www.mixbrgames.com/ | 
+MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
 Monkey Exchange | https://www.monkey.exchange/ | 
 NG Informática | http://ngi.com.br | 
 OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga 
