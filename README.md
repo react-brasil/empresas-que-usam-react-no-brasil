@@ -5,6 +5,7 @@
 Nome | Website
 ------------ | -------
 BovControl   | https://www.bovcontrol.com
+Catho   | https://www.catho.com.br
 Easynvest | https://easynvest.com.br/
 EcompJr   | http://ecompjr.com.br/
 Entria | https://entria.com.br/
