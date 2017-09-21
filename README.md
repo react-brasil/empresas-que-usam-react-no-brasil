@@ -8,11 +8,12 @@ AMARO | https://amaro.com/ | Redux, RxJS
 App2Sales | http://app2sales.com |
 BovControl | https://www.bovcontrol.com |
 Catho   | https://www.catho.com.br |
-ConvergenceWorks | http://convergence.works |
+ConvergenceWorks | http://convergence.works | 
 Easynvest | https://easynvest.com.br/ |
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Globo.com | http://globo.com.br/ |
+Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled components, CSS Modules
 Ilegra | http://ilegra.com/ |
 Loldesign | http://www.loldesign.com.br |
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
