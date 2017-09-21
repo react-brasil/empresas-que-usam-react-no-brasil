@@ -4,10 +4,12 @@
 
 Nome | Website
 ------------ | -------
-BovControl   | https://www.bovcontrol.com
+App2Sales | http://app2sales.com
+BovControl | https://www.bovcontrol.com
 Catho   | https://www.catho.com.br
+ConvergenceWorks | http://convergence.works
 Easynvest | https://easynvest.com.br/
-EcompJr   | http://ecompjr.com.br/
+EcompJr | http://ecompjr.com.br/
 Entria | https://entria.com.br/
 Globo.com | https://globo.com.br/
 Monkey Exchange | https://www.monkey.exchange/
