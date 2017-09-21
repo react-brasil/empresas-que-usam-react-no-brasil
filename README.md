@@ -16,6 +16,7 @@ Loldesign | http://www.loldesign.com.br
 MixBR Games | http://www.mixbrgames.com/
 Monkey Exchange | https://www.monkey.exchange/
 NG Informática | http://ngi.com.br
+OneMarket | https://onemarket.com.br
 Pipefy | https://pipefy.com
 Quanto | https://www.contaquanto.com.br/
 Studio Sol | https://www.studiosol.com.br/
