@@ -13,7 +13,7 @@ Easynvest | https://easynvest.com.br/ |
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Globo.com | http://globo.com.br/ |
-Ilegra.com | http://ilegra.com/ |
+Ilegra | http://ilegra.com/ |
 Loldesign | http://www.loldesign.com.br |
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
 Monkey Exchange | https://www.monkey.exchange/ |
