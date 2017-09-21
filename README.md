@@ -2,7 +2,7 @@
 
 > OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/blob/master/CONTRIBUTING.md)
 
-Nome | Website | Tecnologias
+Nome | Website | Tecnologias Relacionadas
 ------------ | ------- | ------------
 App2Sales | http://app2sales.com | 
 BovControl | https://www.bovcontrol.com | 
