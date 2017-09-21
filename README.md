@@ -16,4 +16,4 @@ Pipefy | https://pipefy.com
 Quanto | https://www.contaquanto.com.br/
 Welearn | https://br.welearnit.co
 Zimp | https://zimp.me/
-Zup IT Innovatin | http://www.zup.com.br/
+Zup IT Innovation | http://www.zup.com.br/
