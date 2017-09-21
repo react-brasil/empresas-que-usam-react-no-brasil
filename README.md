@@ -11,7 +11,7 @@ ConvergenceWorks | http://convergence.works
 Easynvest | https://easynvest.com.br/
 EcompJr | http://ecompjr.com.br/
 Entria | https://entria.com.br/
-Globo.com | https://globo.com.br/
+Globo.com | http://globo.com.br/
 Ilegra.com | http://ilegra.com/
 Loldesign | http://www.loldesign.com.br
 MixBR Games | http://www.mixbrgames.com/
