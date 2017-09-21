@@ -14,5 +14,6 @@ Monkey Exchange | https://www.monkey.exchange/
 NG Informática | http://ngi.com.br
 Pipefy | https://pipefy.com
 Quanto | https://www.contaquanto.com.br/
+Studio Sol | https://www.studiosol.com.br/
 Welearn | https://br.welearnit.co
 Zimp | https://zimp.me/
