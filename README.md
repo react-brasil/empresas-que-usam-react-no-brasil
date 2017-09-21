@@ -6,6 +6,7 @@ Nome | Website
 ------------ | -------
 App2Sales | http://app2sales.com
 BovControl | https://www.bovcontrol.com
+Catho   | https://www.catho.com.br
 ConvergenceWorks | http://convergence.works
 Easynvest | https://easynvest.com.br/
 EcompJr | http://ecompjr.com.br/
