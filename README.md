@@ -2,8 +2,8 @@
 
 Nome | Website
 ------------ | -------
-Quanto | https://www.contaquanto.com.br/
-Entria | https://entria.com.br/
-Zimp | https://zimp.me/
-NG Informática | http://ngi.com.br
-BovControl | https://www.bovcontrol.com
+BovControl   | https://www.bovcontrol.com
+Entria       | https://entria.com.br/
+NG Informtica | http://ngi.com.br
+Quanto       | https://www.contaquanto.com.br/
+Zimp         | https://zimp.me/
