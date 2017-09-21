@@ -16,7 +16,7 @@ Globo.com | http://globo.com.br/ |
 Grifo | http://gri.fo/ | Jest, Redux, React Native
 Home Team | https://hometeam.com.br/ | React, Redux
 Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled components, CSS Modules
-Ilegra | http://ilegra.com/ |
+Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
 Loldesign | http://www.loldesign.com.br |
 Ministério Público do Estado do Rio de Janeiro | http://apps.mprj.mp.br/sistema/inloco/ | [GeoServer](http://geoserver.org/), [Leaflet](http://leafletjs.com/), [Chart.js](http://www.chartjs.org/), [Intro.js](http://introjs.com/)
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
