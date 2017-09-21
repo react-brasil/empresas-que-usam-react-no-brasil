@@ -32,3 +32,4 @@ Vindi | https://vindi.com.br/ | Redux, Saga
 Welearn | https://br.welearnit.co |
 Zimp | https://zimp.me/ |
 Zup IT Innovation | http://www.zup.com.br/ | GraphQL, Redux, MobX, Apollo, Saga, Styled Components
+CARGOBR | https://cargobr.com/ | McFly
