@@ -12,4 +12,5 @@ Globo.com | https://globo.com.br/
 NG Informática | http://ngi.com.br
 Pipefy | https://pipefy.com
 Quanto | https://www.contaquanto.com.br/
+Welearn | https://br.welearnit.co
 Zimp | https://zimp.me/
