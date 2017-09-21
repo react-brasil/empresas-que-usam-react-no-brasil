@@ -17,7 +17,7 @@ Loldesign | http://www.loldesign.com.br |
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
 Monkey Exchange | https://www.monkey.exchange/ | 
 NG Informática | http://ngi.com.br | 
-OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga 
+OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
 Pipefy | https://pipefy.com | 
 Quanto | https://www.contaquanto.com.br/ | 
 Segware | http://www.segware.com.br |
