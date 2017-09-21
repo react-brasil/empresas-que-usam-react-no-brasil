@@ -1,5 +1,7 @@
 # Empresas que usam React no Brasil
 
-Nome | Website | Tecnologias
+Nome | Website
 ------------ | ------- | ------------ 
-Quanto | https://www.contaquanto.com.br/ | React, React Native, GraphQL, Relay, NodeJS
+Entria | https://entria.com.br/
+Quanto | https://www.contaquanto.com.br/
+Zimp | https://zimp.me/
