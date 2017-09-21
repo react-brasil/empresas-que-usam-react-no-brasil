@@ -15,7 +15,7 @@ Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Globo.com | http://globo.com.br/ |
 Home Team | https://hometeam.com.br/ | React, Redux
 Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled components, CSS Modules
-Ilegra | http://ilegra.com/ |
+Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
 Loldesign | http://www.loldesign.com.br |
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
 Monkey Exchange | https://www.monkey.exchange/ |
