@@ -6,6 +6,7 @@ Nome | Website
 ------------ | -------
 BovControl   | https://www.bovcontrol.com
 Easynvest | https://easynvest.com.br/
+EcompJr   | http://ecompjr.com.br/
 Entria | https://entria.com.br/
 Globo.com | https://globo.com.br/
 NG Informática | http://ngi.com.br
