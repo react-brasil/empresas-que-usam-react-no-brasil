@@ -21,3 +21,4 @@ Quanto | https://www.contaquanto.com.br/
 Studio Sol | https://www.studiosol.com.br/
 Welearn | https://br.welearnit.co
 Zimp | https://zimp.me/
+Zup IT Innovation | http://www.zup.com.br/
