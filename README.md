@@ -18,6 +18,7 @@ Monkey Exchange | https://www.monkey.exchange/
 NG Informática | http://ngi.com.br
 Pipefy | https://pipefy.com
 Quanto | https://www.contaquanto.com.br/
+Segware | http://www.segware.com.br
 Studio Sol | https://www.studiosol.com.br/
 Vérios Investimentos | https://www.verios.com.br/
 Welearn | https://br.welearnit.co
