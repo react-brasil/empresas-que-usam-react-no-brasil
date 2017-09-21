@@ -10,6 +10,7 @@ Easynvest | https://easynvest.com.br/
 EcompJr   | http://ecompjr.com.br/
 Entria | https://entria.com.br/
 Globo.com | https://globo.com.br/
+MixBR Games | http://www.mixbrgames.com/
 Monkey Exchange | https://www.monkey.exchange/
 NG Informática | http://ngi.com.br
 Pipefy | https://pipefy.com
