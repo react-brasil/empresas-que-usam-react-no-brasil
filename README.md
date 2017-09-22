@@ -39,5 +39,6 @@ Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
 Vérios Investimentos | https://www.verios.com.br/ |
 Vindi | https://vindi.com.br/ | Redux, Saga
 Welearn | https://br.welearnit.co |
+Yube | http://www.yube.com.br/ | React, JSS, Apollo/GraphQL, Jest, Enzyme
 Zimp | https://zimp.me/ |
 Zup IT Innovation | http://www.zup.com.br/ | GraphQL, Redux, MobX, Apollo, Saga, Styled Components
