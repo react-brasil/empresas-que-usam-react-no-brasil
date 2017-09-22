@@ -23,7 +23,7 @@ MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
 Monkey Exchange | https://www.monkey.exchange/ |
 NG Informática | http://ngi.com.br |
 OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
-Pipefy | https://pipefy.com |
+Pipefy | https://pipefy.com | GraphQL, React, React Native
 Quanto | https://www.contaquanto.com.br/ |
 Segware | http://www.segware.com.br |
 Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
