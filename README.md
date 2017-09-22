@@ -7,7 +7,7 @@ Nome | Website | Tecnologias Relacionadas
 AMARO | https://amaro.com/ | Redux, RxJS
 App2Sales | http://app2sales.com |
 Bíblia Online | https://www.bibliaonline.com.br | [Redux](http://redux.js.org/), [Saga](https://redux-saga.js.org/), [Material-UI](https://material-ui-1dab0.firebaseapp.com/getting-started/installation/), [Jss](http://cssinjs.org/), [Jest](https://facebook.github.io/jest/), [Flow](https://flow.org/)
-BovControl | https://www.bovcontrol.com |
+BovControl | https://bovcontrol.com | Redux, Saga, MobX
 CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
 ConvergenceWorks | http://convergence.works | 
@@ -30,7 +30,7 @@ Monkey Exchange | https://www.monkey.exchange/ |
 NG Informática | http://ngi.com.br | Redux, MongoDB, Ramda, Functional Programming
 OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
 Pipefy | https://pipefy.com |
-Quanto | https://www.contaquanto.com.br/ |
+QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 Segware | http://www.segware.com.br |
 Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
 Vérios Investimentos | https://www.verios.com.br/ |
