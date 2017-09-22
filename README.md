@@ -15,6 +15,7 @@ Easynvest | https://easynvest.com.br/ |
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Globo.com | http://globo.com.br/ |
+GreenMile | http://greenmile.com/ | Redux, Jest, Saga
 Grifo | http://gri.fo/ | Jest, Redux, React Native
 Hi Platform | https://www.hiplatform.com | Jest, Redux, React
 Home Team | https://hometeam.com.br/ | React, Redux
