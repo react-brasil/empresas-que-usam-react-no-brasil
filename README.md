@@ -6,6 +6,7 @@ Nome | Website | Tecnologias Relacionadas
 ------------ | ------- | ------------
 AMARO | https://amaro.com/ | Redux, RxJS
 App2Sales | http://app2sales.com |
+Bíblia Online | https://www.bibliaonline.com.br | [Redux](http://redux.js.org/), [Saga](https://redux-saga.js.org/), [Material-UI](https://material-ui-1dab0.firebaseapp.com/getting-started/installation/), [Jss](http://cssinjs.org/), [Jest](https://facebook.github.io/jest/), [Flow](https://flow.org/)
 BovControl | https://www.bovcontrol.com |
 CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
