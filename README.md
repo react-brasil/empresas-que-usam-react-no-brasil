@@ -24,6 +24,7 @@ Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled c
 Icarus Tech | http://icarustech.com.br | React, Redux
 Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
 Intuitech | http://www.intuite.ch | Redux, React Native, React
+JP7 | https://www.jp7.com.br | React, React Native, Redux, GraphQL
 Loldesign | http://www.loldesign.com.br |
 Ministério Público do Estado do Rio de Janeiro | http://apps.mprj.mp.br/sistema/inloco/ | [GeoServer](http://geoserver.org/), [Leaflet](http://leafletjs.com/), [Chart.js](http://www.chartjs.org/), [Intro.js](http://introjs.com/)
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
