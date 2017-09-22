@@ -12,7 +12,7 @@ BovControl | https://bovcontrol.com | Redux, Saga, MobX
 CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
 ConvergenceWorks | http://convergence.works | 
-Easynvest | https://easynvest.com.br/ |
+Easynvest | https://easynvest.com.br/ | Jest, React, Redux, ReduxForm, Ducks, Styled Components
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Globo.com | http://globo.com.br/ |
