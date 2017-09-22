@@ -7,6 +7,7 @@ Nome | Website | Tecnologias Relacionadas
 AMARO | https://amaro.com/ | Redux, RxJS
 App2Sales | http://app2sales.com |
 BovControl | https://www.bovcontrol.com |
+CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
 ConvergenceWorks | http://convergence.works | 
 Easynvest | https://easynvest.com.br/ |
