@@ -5,13 +5,13 @@
 Nome | Website | Tecnologias Relacionadas
 ------------ | ------- | ------------
 AMARO | https://amaro.com/ | Redux, RxJS
-App2Sales | http://app2sales.com |
+App2Sales | http://app2sales.com | React Native, Redux, Sagas
 BeeTech | https://www.beetech.global | Jest, React, Redux, Functional Programming, Styled Components
 Bíblia Online | https://www.bibliaonline.com.br | [Isomorphic](http://isomorphic.net/javascript), [Redux](http://redux.js.org/), [Saga](https://redux-saga.js.org/), [Material-UI](https://material-ui-1dab0.firebaseapp.com/getting-started/installation/), [Jss](http://cssinjs.org/), [Jest](https://facebook.github.io/jest/), [Flow](https://flow.org/)
 BovControl | https://bovcontrol.com | Redux, Saga, MobX
 CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
-ConvergenceWorks | http://convergence.works | 
+ConvergenceWorks | http://convergence.works | React Native, Redux, Sagas, Ignite
 Easynvest | https://easynvest.com.br/ | Jest, React, Redux, ReduxForm, Ducks, Styled Components
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
