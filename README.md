@@ -20,6 +20,7 @@ Grifo | http://gri.fo/ | Jest, Redux, React Native
 Hi Platform | https://www.hiplatform.com | Jest, Redux, React
 Home Team | https://hometeam.com.br/ | React, Redux
 Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled components, CSS Modules
+Icarus Tech | http://icarustech.com.br | React, Redux
 Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
 Intuitech | http://www.intuite.ch | Redux, React Native, React
 Loldesign | http://www.loldesign.com.br |
