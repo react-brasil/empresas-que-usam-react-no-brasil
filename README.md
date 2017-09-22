@@ -6,25 +6,32 @@ Nome | Website | Tecnologias Relacionadas
 ------------ | ------- | ------------
 AMARO | https://amaro.com/ | Redux, RxJS
 App2Sales | http://app2sales.com |
-BovControl | https://www.bovcontrol.com |
+BeeTech | https://www.beetech.global | Jest, React, Redux, Functional Programming, Styled Components
+Bíblia Online | https://www.bibliaonline.com.br | [Redux](http://redux.js.org/), [Saga](https://redux-saga.js.org/), [Material-UI](https://material-ui-1dab0.firebaseapp.com/getting-started/installation/), [Jss](http://cssinjs.org/), [Jest](https://facebook.github.io/jest/), [Flow](https://flow.org/)
+BovControl | https://bovcontrol.com | Redux, Saga, MobX
+CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
 ConvergenceWorks | http://convergence.works | 
-Easynvest | https://easynvest.com.br/ |
+Easynvest | https://easynvest.com.br/ | Jest, React, Redux, ReduxForm, Ducks, Styled Components
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Globo.com | http://globo.com.br/ |
+GreenMile | http://greenmile.com/ | Redux, Jest, Saga
 Grifo | http://gri.fo/ | Jest, Redux, React Native
+Hi Platform | https://www.hiplatform.com | Jest, Redux, React
 Home Team | https://hometeam.com.br/ | React, Redux
 Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled components, CSS Modules
+Icarus Tech | http://icarustech.com.br | React, Redux
 Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
+Intuitech | http://www.intuite.ch | Redux, React Native, React
 Loldesign | http://www.loldesign.com.br |
 Ministério Público do Estado do Rio de Janeiro | http://apps.mprj.mp.br/sistema/inloco/ | [GeoServer](http://geoserver.org/), [Leaflet](http://leafletjs.com/), [Chart.js](http://www.chartjs.org/), [Intro.js](http://introjs.com/)
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
 Monkey Exchange | https://www.monkey.exchange/ |
-NG Informática | http://ngi.com.br |
+NG Informática | http://ngi.com.br | Redux, MongoDB, Ramda, Functional Programming
 OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
 Pipefy | https://pipefy.com | GraphQL, React, React Native
-Quanto | https://www.contaquanto.com.br/ |
+QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 Segware | http://www.segware.com.br |
 Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
 Vérios Investimentos | https://www.verios.com.br/ |
