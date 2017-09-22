@@ -12,6 +12,7 @@ ConvergenceWorks | http://convergence.works |
 Easynvest | https://easynvest.com.br/ |
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
+Fred | https://fredbots.com/ |
 Globo.com | http://globo.com.br/ |
 Grifo | http://gri.fo/ | Jest, Redux, React Native
 Hi Platform | https://www.hiplatform.com | Jest, Redux, React
