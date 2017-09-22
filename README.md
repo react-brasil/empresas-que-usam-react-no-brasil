@@ -6,6 +6,7 @@ Nome | Website | Tecnologias Relacionadas
 ------------ | ------- | ------------
 AMARO | https://amaro.com/ | Redux, RxJS
 App2Sales | http://app2sales.com |
+BeeTech | https://www.beetech.global | Jest, React, Redux
 BovControl | https://www.bovcontrol.com |
 CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
