@@ -7,7 +7,7 @@ Nome | Website | Tecnologias Relacionadas
 AMARO | https://amaro.com/ | Redux, RxJS
 App2Sales | http://app2sales.com |
 BeeTech | https://www.beetech.global | Jest, React, Redux, Functional Programming, Styled Components
-Bíblia Online | https://www.bibliaonline.com.br | [Redux](http://redux.js.org/), [Saga](https://redux-saga.js.org/), [Material-UI](https://material-ui-1dab0.firebaseapp.com/getting-started/installation/), [Jss](http://cssinjs.org/), [Jest](https://facebook.github.io/jest/), [Flow](https://flow.org/)
+Bíblia Online | https://www.bibliaonline.com.br | [Isomorphic](http://isomorphic.net/javascript), [Redux](http://redux.js.org/), [Saga](https://redux-saga.js.org/), [Material-UI](https://material-ui-1dab0.firebaseapp.com/getting-started/installation/), [Jss](http://cssinjs.org/), [Jest](https://facebook.github.io/jest/), [Flow](https://flow.org/)
 BovControl | https://bovcontrol.com | Redux, Saga, MobX
 CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
