@@ -31,6 +31,7 @@ MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
 Monkey Exchange | https://www.monkey.exchange/ |
 NG Informática | http://ngi.com.br | Redux, MongoDB, Ramda, Functional Programming
 OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
+OI | http://http://oi.com.br/ | React, Redux, Reflux, Storybook
 PagSeguro | http://www.pagseguro.com.br/ | Redux, Observable, Inferno
 Pipefy | https://pipefy.com | GraphQL, React, React Native
 QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
