@@ -15,6 +15,7 @@ ConvergenceWorks | http://convergence.works | React Native, Redux, Sagas, Ignite
 Easynvest | https://easynvest.com.br/ | Jest, React, Redux, ReduxForm, Ducks, Styled Components
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
+Fractal Tecnologia | http://www.fractaltecnologia.com.br | React, Redux, Redux-thunk, Jest
 Globo.com | http://globo.com.br/ |
 GreenMile | http://greenmile.com/ | Redux, Jest, Saga
 Grifo | http://gri.fo/ | Jest, Redux, React Native
