@@ -38,6 +38,7 @@ Pipefy | https://pipefy.com | GraphQL, React, React Native
 QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 Segware | http://www.segware.com.br |
 Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
+Vagalume | https://www.vagalume.com.br/ | Redux, React Native, Jest
 Vérios Investimentos | https://www.verios.com.br/ |
 Vindi | https://vindi.com.br/ | Redux, Saga
 Welearn | https://br.welearnit.co |
