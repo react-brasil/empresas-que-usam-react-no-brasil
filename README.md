@@ -37,6 +37,7 @@ PagSeguro | http://www.pagseguro.com.br/ | Redux, Observable, Inferno
 Pipefy | https://pipefy.com | GraphQL, React, React Native
 QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 Segware | http://www.segware.com.br | React, React Native, Styled Components, RxJS
+stq digital | https://stqpublicidade.com.br/ | React, React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
 Vagalume | https://www.vagalume.com.br/ | Redux, React Native, Jest
 Vérios Investimentos | https://www.verios.com.br/ |
