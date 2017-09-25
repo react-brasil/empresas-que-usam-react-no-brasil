@@ -31,6 +31,7 @@ Ministério Público do Estado do Rio de Janeiro | http://apps.mprj.mp.br/sistem
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
 Monkey Exchange | https://www.monkey.exchange/ |
 NG Informática | http://ngi.com.br | Redux, MongoDB, Ramda, Functional Programming
+OLX | http://www.olx.com.br/ | React, Redux, Saga
 OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
 OI | http://oi.com.br/ | React, Redux, Reflux, Storybook
 PagSeguro | http://www.pagseguro.com.br/ | Redux, Observable, Inferno
@@ -42,6 +43,7 @@ Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
 Vagalume | https://www.vagalume.com.br/ | Redux, React Native, Jest
 Vérios Investimentos | https://www.verios.com.br/ |
 Vindi | https://vindi.com.br/ | Redux, Saga
+VTEX | https://pt.vtex.com/ | React, Redux
 Welearn | https://br.welearnit.co |
 Wevo | https://www.wevo.com.br | React, RxJS
 Yube | http://www.yube.com.br/ | React, JSS, Apollo/GraphQL, Jest, Enzyme
