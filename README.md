@@ -43,7 +43,7 @@ Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
 Vagalume | https://www.vagalume.com.br/ | Redux, React Native, Jest
 Vérios Investimentos | https://www.verios.com.br/ |
 Vindi | https://vindi.com.br/ | Redux, Saga
-VTEX | https://pt.vtex.com/ | React, Redux
+VTEX | https://pt.vtex.com/ | React, Redux, Apollo GraphQL, Jest, React Native
 Welearn | https://br.welearnit.co |
 Wevo | https://www.wevo.com.br | React, RxJS
 Yube | http://www.yube.com.br/ | React, JSS, Apollo/GraphQL, Jest, Enzyme
