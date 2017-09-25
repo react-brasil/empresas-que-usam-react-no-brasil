@@ -36,6 +36,7 @@ OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
 OI | http://oi.com.br/ | React, Redux, Reflux, Storybook
 PagSeguro | http://www.pagseguro.com.br/ | Redux, Observable, Inferno
 Pipefy | https://pipefy.com | GraphQL, React, React Native
+Pismo | https://pismo.io/ | React, Redux, MobX, RxJS, Jest
 QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 Segware | http://www.segware.com.br | React, React Native, Styled Components, RxJS
 stq digital | https://stqpublicidade.com.br/ | React, React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
