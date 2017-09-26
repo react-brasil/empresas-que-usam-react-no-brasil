@@ -54,6 +54,7 @@ Wevo | https://www.wevo.com.br | React, RxJS
 Yube | http://www.yube.com.br/ | React, JSS, Apollo/GraphQL, Jest, Enzyme
 Zimp | https://zimp.me/ |
 Zup IT Innovation | http://www.zup.com.br/ | GraphQL, Redux, MobX, Apollo, Saga, Styled Components
+Astrocoders | https://astrocoders.com | GraphQL, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next
 
 ## Projetos que usam React no Brasil
 
