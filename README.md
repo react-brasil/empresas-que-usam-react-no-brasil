@@ -55,6 +55,8 @@ Zup IT Innovation | http://www.zup.com.br/ | GraphQL, Redux, MobX, Apollo, Saga,
 
 ## Projetos que usam React no Brasil
 
+> Obs. Alguns projetos são de startups ainda em concepção ou incubadas dentro de empresas que podem ter potencial de virar produto independente e merecem destaque, indique o seu projeto caso se enquadre nessas situações.
+
 Nome | Link | Tecnologias | Empresa
 ------------ | ------- | ------------ | ------------
 BeerSwarm | https://beerswarm.com/ | Redux, Saga, Jest, React-Leaflet, Router, [react-leaflet-googlemutant](https://github.com/produtoreativo/react-leaflet-googlemutant) | [Produto Reativo](http://www.produtoreativo.com.br/)
