@@ -30,6 +30,7 @@ Loldesign | http://www.loldesign.com.br |
 Ministério Público do Estado do Rio de Janeiro | http://apps.mprj.mp.br/sistema/inloco/ | [GeoServer](http://geoserver.org/), [Leaflet](http://leafletjs.com/), [Chart.js](http://www.chartjs.org/), [Intro.js](http://introjs.com/)
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
 Monkey Exchange | https://www.monkey.exchange/ |
+Multiware Tecnologia | http://multiwaretecnologia.com.br | React-Native, Redux
 NG Informática | http://ngi.com.br | Redux, MongoDB, Ramda, Functional Programming
 OLX | http://www.olx.com.br/ | React, Redux, Saga
 OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
