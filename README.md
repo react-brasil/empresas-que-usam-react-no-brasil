@@ -52,3 +52,9 @@ Wevo | https://www.wevo.com.br | React, RxJS
 Yube | http://www.yube.com.br/ | React, JSS, Apollo/GraphQL, Jest, Enzyme
 Zimp | https://zimp.me/ |
 Zup IT Innovation | http://www.zup.com.br/ | GraphQL, Redux, MobX, Apollo, Saga, Styled Components
+
+## Projetos que usam React no Brasil
+
+Nome | Link | Tecnologias | Empresa
+------------ | ------- | ------------ | ------------
+BeerSwarm | https://beerswarm.com/ | Redux, Saga, Jest, React-Leaflet, Router, [react-leaflet-googlemutant](https://github.com/produtoreativo/react-leaflet-googlemutant) | [Produto Reativo](http://www.produtoreativo.com.br/)
