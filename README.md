@@ -12,6 +12,7 @@ BovControl | https://bovcontrol.com | Redux, Saga, MobX
 CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
 ConvergenceWorks | http://convergence.works | React Native, Redux, Sagas, Ignite
+datarisk.io | http://datarisk.io/ | React, Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
 Easynvest | https://easynvest.com.br/ | Jest, React, Redux, ReduxForm, Ducks, Styled Components
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
