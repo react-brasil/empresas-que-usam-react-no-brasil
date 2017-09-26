@@ -60,3 +60,4 @@ Zup IT Innovation | http://www.zup.com.br/ | GraphQL, Redux, MobX, Apollo, Saga,
 Nome | Link | Tecnologias | Empresa
 ------------ | ------- | ------------ | ------------
 BeerSwarm | https://beerswarm.com/ | Redux, Saga, Jest, React-Leaflet, Router, [react-leaflet-googlemutant](https://github.com/produtoreativo/react-leaflet-googlemutant) | [Produto Reativo](http://www.produtoreativo.com.br/)
+Storia Imóveis | https://www.storiaimoveis.com.br/ | React, Redux, Saga | [OLX Brasil](http://www.olx.com.br/)
