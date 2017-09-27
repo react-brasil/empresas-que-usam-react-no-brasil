@@ -56,7 +56,7 @@ Welearn | https://br.welearnit.co |
 Wevo | https://www.wevo.com.br | React, RxJS
 Yube | http://www.yube.com.br/ | React, JSS, Apollo/GraphQL, Jest, Enzyme
 Zimp | https://zimp.me/ |
-Zup IT Innovation | http://www.zup.com.br/ | GraphQL, Redux, MobX, Apollo, Saga, Styled Components
+Zup IT Innovation | http://www.zup.com.br/ | React, Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable
 
 
 ## Projetos que usam React no Brasil
