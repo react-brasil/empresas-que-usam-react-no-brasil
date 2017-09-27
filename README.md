@@ -27,6 +27,7 @@ Hi Platform | https://www.hiplatform.com | Jest, Redux, React
 Home Team | https://hometeam.com.br/ | React, Redux
 Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled components, CSS Modules
 Icarus Tech | http://icarustech.com.br | React, Redux
+iFood | http://ifood.com.br | React, Redux, Recompose, Ducks, Saga, Jest, Enzyme, [actionz](https://www.npmjs.com/package/actionz)
 Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
 Intuitech | http://www.intuite.ch | Redux, React Native, React
 JP7 | https://www.jp7.com.br | React, React Native, Redux, GraphQL
