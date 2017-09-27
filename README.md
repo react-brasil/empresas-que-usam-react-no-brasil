@@ -56,6 +56,7 @@ Webedia | http://webedia.com.br/ | React, Redux, Jest, GraphQL
 Welearn | https://br.welearnit.co |
 Wevo | https://www.wevo.com.br | React, RxJS
 Yube | http://www.yube.com.br/ | React, JSS, Apollo/GraphQL, Jest, Enzyme
+Zap Imóveis | https://www.zapimoveis.com.br/ | React, Redux, Jest, GraphQL
 Zimp | https://zimp.me/ |
 Zup IT Innovation | http://www.zup.com.br/ | React, Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable
 
