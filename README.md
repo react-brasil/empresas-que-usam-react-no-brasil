@@ -47,6 +47,7 @@ Rivendel | https://rivendel.com.br/ | Treinamento/consultoria aos clientes e pro
 Segware | http://www.segware.com.br | React, React Native, Styled Components, RxJS
 stq digital | https://stqpublicidade.com.br/ | React, React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
+Superplayer | https://www.superplayer.fm | React, Redux, GraphQL
 Vagalume | https://www.vagalume.com.br/ | Redux, React Native, Jest
 Vérios Investimentos | https://www.verios.com.br/ |
 Vindi | https://vindi.com.br/ | Redux, Saga
