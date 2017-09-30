@@ -42,6 +42,7 @@ NG Informática | http://ngi.com.br | Redux, MongoDB, Ramda, Functional Programm
 OLX | http://www.olx.com.br/ | React, Redux, Saga
 OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
 OI | http://oi.com.br/ | React, Redux, Reflux, Storybook
+Pagar.me | https://pagar.me/ | React, Redux, CSS Modules, Storybook
 PagSeguro | http://www.pagseguro.com.br/ | Redux, Observable, Inferno
 Pipefy | https://pipefy.com | GraphQL, React, React Native
 Pismo | https://pismo.io/ | React, Redux, MobX, RxJS, Jest
@@ -72,4 +73,5 @@ Zup IT Innovation | http://www.zup.com.br/ | React, Redux, Saga, MobX, Jest, Enz
 Nome | Link | Tecnologias | Empresa
 ------------ | ------- | ------------ | ------------
 BeerSwarm | https://beerswarm.com/ | Redux, Saga, Jest, React-Leaflet, Router, [react-leaflet-googlemutant](https://github.com/produtoreativo/react-leaflet-googlemutant) | [Produto Reativo](http://www.produtoreativo.com.br/)
+Pilot | https://github.com/pagarme/pilot | React, CSS Modules, Storybook | [Pagar.me](https://pagar.me/)
 Storia Imóveis | https://www.storiaimoveis.com.br/ | React, Redux, Saga | [OLX Brasil](http://www.olx.com.br/)
