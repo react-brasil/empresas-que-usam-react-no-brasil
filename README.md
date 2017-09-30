@@ -19,7 +19,7 @@ Easynvest | https://easynvest.com.br/ | Jest, React, Redux, ReduxForm, Ducks, St
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Fractal Tecnologia | http://www.fractaltecnologia.com.br | React, Redux, Redux-thunk, Jest
-Fred | https://fredbots.com/ | Redux, Redux Thunk
+Fred | https://fredbots.com/ | React, Redux, Redux Thunk
 GETTY/IO | https://getty.io | Redux, Apollo/GraphQL, Jest, Relay
 Globo.com | http://globo.com.br/ |
 GreenMile | http://greenmile.com/ | Redux, Jest, Saga
