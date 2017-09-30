@@ -44,6 +44,7 @@ OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
 OI | http://oi.com.br/ | React, Redux, Reflux, Storybook
 Pagar.me | https://pagar.me/ | React, Redux, CSS Modules, Storybook
 PagSeguro | http://www.pagseguro.com.br/ | Redux, Observable, Inferno
+Pague Menos | http://www.paguemenos.com.br/ | React, Redux, Saga
 Pipefy | https://pipefy.com | GraphQL, React, React Native
 Pismo | https://pismo.io/ | React, Redux, MobX, RxJS, Jest
 QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
