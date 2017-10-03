@@ -49,6 +49,7 @@ Pipefy | https://pipefy.com | GraphQL, React, React Native
 Pismo | https://pismo.io/ | React, Redux, MobX, RxJS, Jest
 QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 Rivendel | https://rivendel.com.br/ | Treinamento/consultoria aos clientes e produtos internos com Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
+Secretaria Municipal da Educação da Prefeitura de Fortaleza | http://sme.fortaleza.ce.gov.br | React, React-Native, Redux, Saga, ImmutableJS, Lodash
 Segware | http://www.segware.com.br | React, React Native, Styled Components, RxJS
 stq digital | https://stqpublicidade.com.br/ | React, React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
