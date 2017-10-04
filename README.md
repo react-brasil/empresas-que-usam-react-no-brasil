@@ -20,7 +20,7 @@ EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Fractal Tecnologia | http://www.fractaltecnologia.com.br | React, Redux, Redux-thunk, Jest
 Fred | https://fredbots.com/ | React, Redux, Redux Thunk
-GETTY/IO | https://getty.io | Redux, Apollo/GraphQL, Jest, Relay
+GETTY/IO | https://getty.io | React, React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
 Globo.com | http://globo.com.br/ |
 GreenMile | http://greenmile.com/ | Redux, Jest, Saga
 Grifo | http://gri.fo/ | Jest, Redux, React Native
