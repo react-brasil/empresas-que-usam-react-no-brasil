@@ -13,6 +13,7 @@ Bíblia Online | https://www.bibliaonline.com.br | [Isomorphic](http://isomorphi
 BovControl | https://bovcontrol.com | Redux, Saga, MobX
 CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
+CWI Software | https://www.cwi.com.br/ | React, Redux, React Native, Styled Components, Recompose
 ConvergenceWorks | http://convergence.works | React Native, Redux, Sagas, Ignite
 Dalla Soluções | http://dallasolucoes.com.br/ | React, Redux, Jest, Saga, Material-ui, CSS Modules
 datarisk.io | http://datarisk.io/ | React, Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
