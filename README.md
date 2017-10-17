@@ -62,6 +62,7 @@ Vagalume | https://www.vagalume.com.br/ | Redux, React Native, Jest
 Vérios Investimentos | https://www.verios.com.br/ |
 Vindi | https://vindi.com.br/ | Redux, Saga
 VTEX | https://pt.vtex.com/ | React, Redux, Apollo GraphQL, Jest, React Native
+Wealth Systems | http://wssim.com.br | React, Immutable
 Webedia | http://webedia.com.br/ | React, Redux, Jest, GraphQL
 Welearn | https://br.welearnit.co |
 Wevo | https://www.wevo.com.br | React, RxJS
