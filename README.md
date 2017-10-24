@@ -5,9 +5,11 @@
 Nome | Website | Tecnologias Relacionadas
 ------------ | ------- | ------------
 AMARO | https://amaro.com/ | Redux, RxJS
+App2Sales | http://app2sales.com | React Native, Redux, Sagas
+Arizona Marketing Flow | https://www.arizona.global/ | Redux, RxJS
 Astrocoders | https://astrocoders.com | GraphQL, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor
 Audora Gerencial | http://www.audora.com.br/audora/index.html | React, Redux
-App2Sales | http://app2sales.com | React Native, Redux, Sagas
+
 B2W | https://www.americanas.com.br https://www.submarino.com.br https://www.shoptime.com.br | React, React Native, Redux, Jest, Immutable
 BeeTech | https://www.beetech.global | Jest, React, Redux, Functional Programming, Styled Components
 Bíblia Online | https://www.bibliaonline.com.br | [Isomorphic](http://isomorphic.net/javascript), [Redux](http://redux.js.org/), [Saga](https://redux-saga.js.org/), [Material-UI](https://material-ui-1dab0.firebaseapp.com/getting-started/installation/), [Jss](http://cssinjs.org/), [Jest](https://facebook.github.io/jest/), [Flow](https://flow.org/)
