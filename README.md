@@ -63,6 +63,7 @@ Taller | https://taller.net.br/ | React, Redux, Redux Boot, Jest, Enzyme, GraphQ
 Vagalume | https://www.vagalume.com.br/ | Redux, React Native, Jest
 Vérios Investimentos | https://www.verios.com.br/ |
 Vindi | https://vindi.com.br/ | Redux, Saga
+VML Brasil | https://www.vml.com/brazil/ | React, Redux, Redux-thunk, Saga, Jest, Ramda
 VTEX | https://pt.vtex.com/ | React, Redux, Apollo GraphQL, Jest, React Native
 Wealth Systems | http://wssim.com.br | React, Immutable
 Webedia | http://webedia.com.br/ | React, Redux, Jest, GraphQL
