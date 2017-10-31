@@ -84,3 +84,4 @@ Nome | Link | Tecnologias | Empresa
 BeerSwarm | https://beerswarm.com/ | Redux, Saga, Jest, React-Leaflet, Router, [react-leaflet-googlemutant](https://github.com/produtoreativo/react-leaflet-googlemutant) | [Produto Reativo](http://www.produtoreativo.com.br/)
 Pilot | https://github.com/pagarme/pilot | React, CSS Modules, Storybook | [Pagar.me](https://pagar.me/)
 Storia Imóveis | https://www.storiaimoveis.com.br/ | React, Redux, Saga | [OLX Brasil](http://www.olx.com.br/)
+Rung | https://www.rung.com.br/ | Redux, MongoDB, Ramda, Functional Programming | [NG Informática](http://www.ngi.com.br/)
