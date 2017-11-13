@@ -22,6 +22,7 @@ datarisk.io | http://datarisk.io/ | Redux, Ducks, Reselect, Styled Components, M
 Easynvest | https://easynvest.com.br/ | Jest, Redux, ReduxForm, Ducks, Styled Components
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
+Evino | https://evino.com.br/ | Redux, Jest, CSS Modules
 Fractal Tecnologia | http://www.fractaltecnologia.com.br | Redux, Redux-thunk, Jest
 Fred | https://fredbots.com/ | Redux, Redux Thunk
 GETTY/IO | https://getty.io | React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
