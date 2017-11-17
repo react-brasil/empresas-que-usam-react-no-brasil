@@ -16,6 +16,7 @@ BovControl | https://bovcontrol.com | Redux, Saga, MobX
 CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
 CWI Software | https://www.cwi.com.br/ | Redux, React Native, Styled Components, Recompose
+Conpass | http://conpass.io/ | Redux, Saga, Mocha
 ConvergenceWorks | http://convergence.works | React Native, Redux, Sagas, Ignite
 Dalla Soluções | http://dallasolucoes.com.br/ | Redux, Jest, Saga, Material-ui, CSS Modules
 datarisk.io | http://datarisk.io/ | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
