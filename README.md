@@ -28,6 +28,7 @@ Easynvest | https://easynvest.com.br/ | Jest, Redux, ReduxForm, Ducks, Styled Co
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Evino | https://evino.com.br/ | Redux, Jest, CSS Modules
+Fortes Tecnologia em Sistemas | https://www.fortestecnologia.com.br | Redux, Router
 Fractal Tecnologia | http://www.fractaltecnologia.com.br | Redux, Redux-thunk, Jest
 Fred | https://fredbots.com/ | Redux, Redux Thunk
 GETTY/IO | https://getty.io | React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
