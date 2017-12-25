@@ -60,6 +60,7 @@ PagSeguro | http://www.pagseguro.com.br/ | Redux, Observable, Inferno
 Pague Menos | http://www.paguemenos.com.br/ | Redux, Saga
 Pipefy | https://pipefy.com | GraphQL, React Native
 Pismo | https://pismo.io/ | Redux, MobX, RxJS, Jest
+Printi | https://printi.com.br | Redux, RxJS
 QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 Rivendel | https://rivendel.com.br/ | Treinamento/consultoria aos clientes e produtos internos com Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
 Secretaria Municipal da Educação da Prefeitura de Fortaleza | http://sme.fortaleza.ce.gov.br | React Native, Redux, Saga, ImmutableJS, Lodash
