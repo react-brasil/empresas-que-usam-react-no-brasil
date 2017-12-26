@@ -49,7 +49,7 @@ MATERA Systems | http://www.matera.com/br/ | Redux
 Menthor | http://www.menthor.net/ | Redux, Mongo DB, elasticsearch
 Ministério Público do Estado do Rio de Janeiro | http://apps.mprj.mp.br/sistema/inloco/ | GeoServer, Leaflet, Chart.js, Intro.js
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
-Monkey Exchange | https://www.monkey.exchange/ |
+Monkey Exchange | https://www.monkey.exchange/ | Redux, MobX
 Multiware Tecnologia | http://multiwaretecnologia.com.br | React Native, Redux
 NG Informática | http://ngi.com.br | Redux, MongoDB, Ramda, Functional Programming
 OLX | http://www.olx.com.br/ | Redux, Saga
