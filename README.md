@@ -41,6 +41,7 @@ Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled c
 Icarus Tech | http://icarustech.com.br | Redux
 iFood | http://ifood.com.br | Redux, Recompose, Ducks, Saga, Jest, Enzyme, actionz
 Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
+Intelie | https://intelie.com.br | Redux, Redux Thunk,Styled Components, MobX, Jest, Enzyme, Flux
 Intuitech | http://www.intuite.ch | Redux, React Native
 JP7 | https://www.jp7.com.br | React Native, Redux, GraphQL
 Loldesign | http://www.loldesign.com.br |
