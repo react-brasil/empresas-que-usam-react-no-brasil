@@ -67,6 +67,7 @@ Rivendel | https://rivendel.com.br/ | Treinamento/consultoria aos clientes e pro
 Secretaria Municipal da Educação da Prefeitura de Fortaleza | http://sme.fortaleza.ce.gov.br | React Native, Redux, Saga, ImmutableJS, Lodash
 Segware | http://www.segware.com.br | React Native, Styled Components, RxJS
 Shawee | https://shawee.io | Redux, Apollo/GraphQL
+Som Livre | https://www.somlivre.com/ | React Native
 stq digital | https://stqpublicidade.com.br/ | React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
 Superplayer | https://www.superplayer.fm | Redux, GraphQL
