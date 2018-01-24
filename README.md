@@ -10,8 +10,8 @@ Arena | https://arena.im | React Native, Redux, Redux Observable, RxJS, Firebase
 Arizona Marketing Flow | https://www.arizona.global/ | Redux, RxJS
 Astrocoders | https://astrocoders.com | GraphQL, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor
 Audora Gerencial | http://www.audora.com.br/audora/index.html | Redux
-B2W | https://www.americanas.com.br https://www.submarino.com.br https://www.shoptime.com.br | React Native, Redux, Jest, Immutable
 Automi | https://www.automi.com.br | React, React Native, Redux
+B2W | https://www.americanas.com.br https://www.submarino.com.br https://www.shoptime.com.br | React Native, Redux, Jest, Immutable
 BeeTech | https://www.beetech.global | Jest, Redux, Functional Programming, Styled Components
 Bíblia Online | https://www.bibliaonline.com.br | Isomorphic, Redux, Saga, Material-UI, JSS, Jest, Flow
 Brasal | http://brasal.com.br | React Native, Redux, React VR
