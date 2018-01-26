@@ -33,7 +33,7 @@ Fortes Tecnologia em Sistemas | https://www.fortestecnologia.com.br | Redux, Rou
 Fractal Tecnologia | http://www.fractaltecnologia.com.br | Redux, Redux-thunk, Jest
 Fred | https://fredbots.com/ | Redux, Redux Thunk
 GETTY/IO | https://getty.io | React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
-Globo.com | http://globo.com.br/ |
+Globo.com | https://talentos.globo.com/ | React Native
 GreenMile | http://greenmile.com/ | Redux, Jest, Saga
 Grifo | http://gri.fo/ | Jest, Redux, React Native
 Hi Platform | https://www.hiplatform.com | Jest, Redux, Sagas, Styled Components, Immutable, Material-UI, Reselect
