@@ -33,6 +33,7 @@ Evino | https://evino.com.br/ | Redux, Jest, CSS Modules
 Fortes Tecnologia em Sistemas | https://www.fortestecnologia.com.br | Redux, Router
 Fractal Tecnologia | http://www.fractaltecnologia.com.br | Redux, Redux-thunk, Jest
 Fred | https://fredbots.com/ | Redux, Redux Thunk
+Geekie  | http://www.geekie.com.br/ | React Native
 GETTY/IO | https://getty.io | React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
 Globo.com | https://talentos.globo.com/ | React Native
 GreenMile | http://greenmile.com/ | Redux, Jest, Saga
