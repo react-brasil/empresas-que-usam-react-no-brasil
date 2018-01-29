@@ -91,7 +91,7 @@ Yube | http://www.yube.com.br/ | JSS, Apollo/GraphQL, Jest, Enzyme
 Zap Imóveis | https://www.zapimoveis.com.br/ | Redux, Jest, GraphQL
 Zimp | https://zimp.me/ |
 Zup IT Innovation | http://www.zup.com.br/ | Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable
-ZX Ventures | https://zx-ventures.com/ | React Native, Redux
+ZX Ventures | https://zx-ventures.com/ | React Native, Redux, GraphQL
 
 
 ## Projetos que usam React no Brasil
