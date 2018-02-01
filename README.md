@@ -47,6 +47,7 @@ Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
 Intelie | https://intelie.com.br | Redux, Redux Thunk,Styled Components, MobX, Jest, Enzyme, Flux
 Intuitech | http://www.intuite.ch | Redux, React Native
 JP7 | https://www.jp7.com.br | React Native, Redux, GraphQL
+Krush | https://www.krush.com.br/ | React Native/Redux/Flux
 Loldesign | http://www.loldesign.com.br |
 M4U | https://www.m4u.com.br/ | Redux, Saga, GraphQL, Jest, Enzyme
 MATERA Systems | http://www.matera.com/br/ | Redux
@@ -104,9 +105,3 @@ BeerSwarm | https://beerswarm.com/ | Redux, Saga, Jest, React-Leaflet, Router, [
 Pilot | https://github.com/pagarme/pilot | CSS Modules, Storybook | [Pagar.me](https://pagar.me/)
 Storia Imóveis | https://www.storiaimoveis.com.br/ | Redux, Saga | [OLX Brasil](http://www.olx.com.br/)
 Rung | https://www.rung.com.br/ | Redux, MongoDB, Ramda, Functional Programming | [NG Informática](http://www.ngi.com.br/)
-
-## Vagas
-
-Empresa | Descrição | Link
-----------------|---------------|-----------
-Empresa x | Programador React | https://www.empresa.com.br/vaga-react
