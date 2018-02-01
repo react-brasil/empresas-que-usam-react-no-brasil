@@ -14,7 +14,7 @@ Catho   | https://www.catho.com.br |
 ConvergenceWorks | http://convergence.works | 
 Easynvest | https://easynvest.com.br/ | Jest, React, Redux, ReduxForm, Ducks, Styled Components
 EcompJr | http://ecompjr.com.br/ |
-EloMilhas | elomilhas.com.br | Redux
+EloMilhas | http://elomilhas.com.br | Redux
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Globo.com | http://globo.com.br/ |
 GreenMile | http://greenmile.com/ | Redux, Jest, Saga
