@@ -28,6 +28,7 @@ datarisk.io | http://datarisk.io/ | Redux, Ducks, Reselect, Styled Components, M
 Easynvest | https://easynvest.com.br/ | Jest, Redux, ReduxForm, Ducks, Styled Components
 EBANX | https://www.ebanx.com/br/carreiras  | Redux, React Native
 EcompJr | http://ecompjr.com.br/ |
+EloMilhas | http://elomilhas.com.br | Redux
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Escalaí - Startup | http://escalai.com.br/ | React Native
 Evino | https://evino.com.br/ | Redux, Jest, CSS Modules
