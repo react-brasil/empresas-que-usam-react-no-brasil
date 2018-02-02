@@ -29,6 +29,7 @@ Easynvest | https://easynvest.com.br/ | Jest, Redux, ReduxForm, Ducks, Styled Co
 EBANX | https://www.ebanx.com/br/carreiras  | Redux, React Native
 EcompJr | http://ecompjr.com.br/ |
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
+Escalaí - Startup | http://escalai.com.br/ | React Native
 Evino | https://evino.com.br/ | Redux, Jest, CSS Modules
 Fortes Tecnologia em Sistemas | https://www.fortestecnologia.com.br | Redux, Router
 Fractal Tecnologia | http://www.fractaltecnologia.com.br | Redux, Redux-thunk, Jest
@@ -47,6 +48,7 @@ Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
 Intelie | https://intelie.com.br | Redux, Redux Thunk,Styled Components, MobX, Jest, Enzyme, Flux
 Intuitech | http://www.intuite.ch | Redux, React Native
 JP7 | https://www.jp7.com.br | React Native, Redux, GraphQL
+Krush | https://www.krush.com.br/ | React Native/Redux/Flux
 Loldesign | http://www.loldesign.com.br |
 M4U | https://www.m4u.com.br/ | Redux, Saga, GraphQL, Jest, Enzyme
 MATERA Systems | http://www.matera.com/br/ | Redux
