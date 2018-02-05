@@ -68,6 +68,7 @@ PagSeguro | http://www.pagseguro.com.br/ | Redux, Observable, Inferno
 Pague Menos | http://www.paguemenos.com.br/ | Redux, Saga
 Pipefy | https://pipefy.com | GraphQL, React Native
 Pismo | https://pismo.io/ | Redux, MobX, RxJS, Jest
+Pragmatismo.io | http://pragmatismo.io | 
 Printi | https://printi.com.br | Redux, RxJS
 QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 Requisittus | https://requisittus.com.br | Redux, Router
