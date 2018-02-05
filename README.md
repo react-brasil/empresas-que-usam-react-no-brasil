@@ -40,6 +40,7 @@ GETTY/IO | https://getty.io | React Native, Redux, Apollo/GraphQL, Jest, Relay, 
 Globo.com | https://talentos.globo.com/ | React Native
 GreenMile | http://greenmile.com/ | Redux, Jest, Saga
 Grifo | http://gri.fo/ | Jest, Redux, React Native
+Gympass | https://www.gympass.com/ | 
 Hi Platform | https://www.hiplatform.com | Jest, Redux, Sagas, Styled Components, Immutable, Material-UI, Reselect
 Home Team | https://hometeam.com.br/ | Redux
 Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled components, CSS Modules
