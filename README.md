@@ -26,7 +26,7 @@ ConvergenceWorks | http://convergence.works | React Native, Redux, Sagas, Ignite
 Daksa Marketing & Tecnologia | https://www.daksa.com.br/ | React Native, React Native Cache Store, Redux, NativeBase
 Dalla Soluções | http://dallasolucoes.com.br/ | Redux, Jest, Saga, Material-ui, CSS Modules
 datarisk.io | http://datarisk.io/ | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
-Digital Pages | http://portugues.digitalpages.com.br/
+Digital Pages | http://portugues.digitalpages.com.br/ |
 Easynvest | https://easynvest.com.br/ | Jest, Redux, ReduxForm, Ducks, Styled Components
 EBANX | https://www.ebanx.com/br/carreiras  | Redux, React Native
 EcompJr | http://ecompjr.com.br/ |
