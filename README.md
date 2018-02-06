@@ -20,11 +20,13 @@ CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
 CWI Software | https://www.cwi.com.br/ | Redux, React Native, Styled Components, Recompose
 Colaboradores | https://colaboradores.com.br/ | Redux, React Native
+Compila | http://compila.com.br/ | 
 Conpass | http://conpass.io/ | Redux, Saga, Mocha
 ConvergenceWorks | http://convergence.works | React Native, Redux, Sagas, Ignite
 Daksa Marketing & Tecnologia | https://www.daksa.com.br/ | React Native, React Native Cache Store, Redux, NativeBase
 Dalla Soluções | http://dallasolucoes.com.br/ | Redux, Jest, Saga, Material-ui, CSS Modules
 datarisk.io | http://datarisk.io/ | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
+Digital Pages | http://portugues.digitalpages.com.br/ |
 Easynvest | https://easynvest.com.br/ | Jest, Redux, ReduxForm, Ducks, Styled Components
 EBANX | https://www.ebanx.com/br/carreiras  | Redux, React Native
 EcompJr | http://ecompjr.com.br/ |
@@ -40,6 +42,7 @@ GETTY/IO | https://getty.io | React Native, Redux, Apollo/GraphQL, Jest, Relay, 
 Globo.com | https://talentos.globo.com/ | React Native
 GreenMile | http://greenmile.com/ | Redux, Jest, Saga
 Grifo | http://gri.fo/ | Jest, Redux, React Native
+Gympass | https://www.gympass.com/ | 
 Hi Platform | https://www.hiplatform.com | Jest, Redux, Sagas, Styled Components, Immutable, Material-UI, Reselect
 Home Team | https://hometeam.com.br/ | Redux
 Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled components, CSS Modules
@@ -67,6 +70,7 @@ PagSeguro | http://www.pagseguro.com.br/ | Redux, Observable, Inferno
 Pague Menos | http://www.paguemenos.com.br/ | Redux, Saga
 Pipefy | https://pipefy.com | GraphQL, React Native
 Pismo | https://pismo.io/ | Redux, MobX, RxJS, Jest
+Pragmatismo.io | http://pragmatismo.io | 
 Printi | https://printi.com.br | Redux, RxJS
 QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 Requisittus | https://requisittus.com.br | Redux, Router
