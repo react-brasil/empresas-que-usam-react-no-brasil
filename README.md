@@ -87,6 +87,7 @@ Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
 Superplayer | https://www.superplayer.fm | Redux, GraphQL
 Taller | https://taller.net.br/ | Redux, Redux Boot, Jest, Enzyme, GraphQL, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
 TOTVS | https://www.totvs.com/home | 
+Trackmob | http://www.trackmob.com.br/ | Redux, Router, React-Native
 Vagalume | https://www.vagalume.com.br/ | Redux, React Native, Jest
 Vérios Investimentos | https://www.verios.com.br/ |
 Vindi | https://vindi.com.br/ | Redux, Saga
