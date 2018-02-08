@@ -97,11 +97,12 @@ Wealth Systems | http://wssim.com.br | Immutable
 Webedia | http://webedia.com.br/ | Redux, Jest, GraphQL
 Welearn | https://br.welearnit.co |
 Wevo | https://www.wevo.com.br | RxJS
+XP Investimentos | https://www.xpi.com.br/ | Redux, Jest, React-Native
 Yube | http://www.yube.com.br/ | JSS, Apollo/GraphQL, Jest, Enzyme
 Zap Imóveis | https://www.zapimoveis.com.br/ | Redux, Jest, GraphQL
 Zimp | https://zimp.me/ |
 Zup IT Innovation | http://www.zup.com.br/ | Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable
-ZX Ventures | https://zx-ventures.com/ | React Native, Redux, GraphQL, Apollo/Relay
+ZX Ventures | https://zx-ventures.com/ | React-Native, Redux, GraphQL, Apollo/Relay
 
 
 ## Projetos que usam React no Brasil
