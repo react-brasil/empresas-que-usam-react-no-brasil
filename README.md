@@ -53,6 +53,7 @@ Intelie | https://intelie.com.br | Redux, Redux Thunk,Styled Components, MobX, J
 Intuitech | http://www.intuite.ch | Redux, React Native
 JP7 | https://www.jp7.com.br | React Native, Redux, GraphQL
 Krush | https://www.krush.com.br/ | React Native/Redux/Flux
+Laborit | http://www.laborit.com.br/ | Redux
 Loldesign | http://www.loldesign.com.br |
 M4U | https://www.m4u.com.br/ | Redux, Saga, GraphQL, Jest, Enzyme
 MATERA Systems | http://www.matera.com/br/ | Redux
