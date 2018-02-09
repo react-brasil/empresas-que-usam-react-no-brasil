@@ -23,6 +23,7 @@ Colaboradores | https://colaboradores.com.br/ | Redux, React Native
 Compila | http://compila.com.br/ | 
 Conpass | http://conpass.io/ | Redux, Saga, Mocha
 ConvergenceWorks | http://convergence.works | React Native, Redux, Sagas, Ignite
+Crave Food Systems | http://cravefood.services/ | Redux, Webpack 
 Daksa Marketing & Tecnologia | https://www.daksa.com.br/ | React Native, React Native Cache Store, Redux, NativeBase
 Dalla Soluções | http://dallasolucoes.com.br/ | Redux, Jest, Saga, Material-ui, CSS Modules
 datarisk.io | http://datarisk.io/ | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
@@ -53,6 +54,7 @@ Intelie | https://intelie.com.br | Redux, Redux Thunk,Styled Components, MobX, J
 Intuitech | http://www.intuite.ch | Redux, React Native
 JP7 | https://www.jp7.com.br | React Native, Redux, GraphQL
 Krush | https://www.krush.com.br/ | React Native/Redux/Flux
+Laborit | http://www.laborit.com.br/ | Redux
 Loldesign | http://www.loldesign.com.br |
 M4U | https://www.m4u.com.br/ | Redux, Saga, GraphQL, Jest, Enzyme
 MATERA Systems | http://www.matera.com/br/ | Redux
@@ -85,6 +87,7 @@ Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
 Superplayer | https://www.superplayer.fm | Redux, GraphQL
 Taller | https://taller.net.br/ | Redux, Redux Boot, Jest, Enzyme, GraphQL, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
 TOTVS | https://www.totvs.com/home | 
+Trackmob | http://www.trackmob.com.br/ | Redux, Router, React-Native
 Vagalume | https://www.vagalume.com.br/ | Redux, React Native, Jest
 Vérios Investimentos | https://www.verios.com.br/ |
 Vindi | https://vindi.com.br/ | Redux, Saga
@@ -94,11 +97,12 @@ Wealth Systems | http://wssim.com.br | Immutable
 Webedia | http://webedia.com.br/ | Redux, Jest, GraphQL
 Welearn | https://br.welearnit.co |
 Wevo | https://www.wevo.com.br | RxJS
+XP Investimentos | https://www.xpi.com.br/ | Redux, Jest, React-Native
 Yube | http://www.yube.com.br/ | JSS, Apollo/GraphQL, Jest, Enzyme
 Zap Imóveis | https://www.zapimoveis.com.br/ | Redux, Jest, GraphQL
 Zimp | https://zimp.me/ |
 Zup IT Innovation | http://www.zup.com.br/ | Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable
-ZX Ventures | https://zx-ventures.com/ | React Native, Redux, GraphQL, Apollo/Relay
+ZX Ventures | https://zx-ventures.com/ | React-Native, Redux, GraphQL, Apollo/Relay
 
 
 ## Projetos que usam React no Brasil
