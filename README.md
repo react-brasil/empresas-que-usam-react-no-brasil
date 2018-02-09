@@ -75,6 +75,7 @@ Pipefy | https://pipefy.com | GraphQL, React Native
 Pismo | https://pismo.io/ | Redux, MobX, RxJS, Jest
 Pragmatismo.io | http://pragmatismo.io | 
 Printi | https://printi.com.br | Redux, RxJS
+Qualyteam | http://www.qualyteam.com/ | Redux, Saga, Jest, Enzyme
 QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 Requisittus | https://requisittus.com.br | Redux, Router
 Rivendel | https://rivendel.com.br/ | Treinamento/consultoria aos clientes e produtos internos com Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
