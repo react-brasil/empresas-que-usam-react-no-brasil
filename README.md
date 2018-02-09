@@ -55,6 +55,7 @@ Intuitech | http://www.intuite.ch | Redux, React Native
 JP7 | https://www.jp7.com.br | React Native, Redux, GraphQL
 Krush | https://www.krush.com.br/ | React Native/Redux/Flux
 Laborit | http://www.laborit.com.br/ | Redux
+Logicalis | http://www.la.logicalis.com/pt-Latam/ | Redux, Redux Thunk, Jest, Enzyme, create-react-app
 Loldesign | http://www.loldesign.com.br |
 M4U | https://www.m4u.com.br/ | Redux, Saga, GraphQL, Jest, Enzyme
 MATERA Systems | http://www.matera.com/br/ | Redux
