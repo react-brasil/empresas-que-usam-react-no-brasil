@@ -59,7 +59,7 @@ Laborit | http://www.laborit.com.br/ | Redux
 Logicalis | http://www.la.logicalis.com/pt-Latam/ | Redux, Redux Thunk, Jest, Enzyme, create-react-app
 Loldesign | http://www.loldesign.com.br |
 M4U | https://www.m4u.com.br/ | Redux, Saga, GraphQL, Jest, Enzyme
-MATERA Systems | http://www.matera.com/br/ | Redux
+MATERA Systems | http://www.matera.com/br/ | Redux, Enzyme, Redux-thunk, Mocha, Router
 Menthor | http://www.menthor.net/ | Redux, Mongo DB, elasticsearch
 Ministério Público do Estado do Rio de Janeiro | http://apps.mprj.mp.br/sistema/inloco/ | GeoServer, Leaflet, Chart.js, Intro.js
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
