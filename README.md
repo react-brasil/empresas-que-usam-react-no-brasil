@@ -16,6 +16,7 @@ BeeTech | https://www.beetech.global | Jest, Redux, Functional Programming, Styl
 Bíblia Online | https://www.bibliaonline.com.br | Isomorphic, Redux, Saga, Material-UI, JSS, Jest, Flow
 Brasal | http://brasal.com.br | React Native, Redux, React VR
 BovControl | https://bovcontrol.com | Redux, Saga, MobX
+Buscapé | https://www.buscape.com.br | Redux, Redux-thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
 CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
 Climatempo | https://www.climatempo.com.br/ | React Native, Redux
