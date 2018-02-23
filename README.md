@@ -34,6 +34,7 @@ Digital Pages | https://portugues.digitalpages.com.br/ |
 Easynvest | https://easynvest.com.br/ | Jest, Redux, ReduxForm, Ducks, Styled Components
 EBANX | https://www.ebanx.com/br/carreiras  | Redux, React Native
 EcompJr | http://ecompjr.com.br/ |
+EcoStage | http://www.ecostage.com.br | Redux
 EloMilhas | https://elomilhas.com.br | Redux
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Escalaí - Startup | http://escalai.com.br/ | React Native
