@@ -63,6 +63,7 @@ Logicalis | https://www.la.logicalis.com/pt-Latam/ | Redux, Redux Thunk, Jest, E
 Loldesign | https://www.loldesign.com.br |
 M4U | https://www.m4u.com.br/ | Redux, Saga, GraphQL, Jest, Enzyme
 MATERA Systems | http://www.matera.com/br/ | Redux, Flux, Enzyme, Redux-thunk, Mocha, Router
+MaxMilhas   | https://www.maxmilhas.com.br/ | Redux, React Native
 Menthor | http://www.menthor.net/ | Redux, Mongo DB, elasticsearch
 Ministério Público do Estado do Rio de Janeiro | https://apps.mprj.mp.br/sistema/inloco/ | GeoServer, Leaflet, Chart.js, Intro.js
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
