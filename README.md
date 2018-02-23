@@ -32,6 +32,7 @@ Dalla Soluções | http://dallasolucoes.com.br/ | Redux, Jest, Saga, Material-ui
 datarisk.io | http://datarisk.io/ | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
 Digital Pages | https://portugues.digitalpages.com.br/ |
 Easynvest | https://easynvest.com.br/ | Jest, Redux, ReduxForm, Ducks, Styled Components
+Easy Carros | https://easycarros.com/ | React-Native, Redux, Saga, GraphQL
 EBANX | https://www.ebanx.com/br/carreiras  | Redux, React Native
 EcompJr | http://ecompjr.com.br/ |
 EcoStage | http://www.ecostage.com.br | Redux
