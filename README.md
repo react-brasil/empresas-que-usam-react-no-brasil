@@ -19,6 +19,7 @@ BovControl | https://bovcontrol.com | Redux, Saga, MobX
 Buscapé | https://www.buscape.com.br | Redux, Redux-thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
 CARGOBR | https://cargobr.com/ | McFly
 Catho   | https://www.catho.com.br |
+Cedro Technologies  | http://www.cedrotech.com/ | React-Native, Redux
 Climatempo | https://www.climatempo.com.br/ | React Native, Redux
 CWI Software | https://www.cwi.com.br/ | Redux, React Native, Styled Components, Recompose
 Colaboradores | https://colaboradores.com.br/ | Redux, React Native
@@ -31,8 +32,10 @@ Dalla Soluções | http://dallasolucoes.com.br/ | Redux, Jest, Saga, Material-ui
 datarisk.io | http://datarisk.io/ | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
 Digital Pages | https://portugues.digitalpages.com.br/ |
 Easynvest | https://easynvest.com.br/ | Jest, Redux, ReduxForm, Ducks, Styled Components
+Easy Carros | https://easycarros.com/ | React-Native, Redux, Saga, GraphQL
 EBANX | https://www.ebanx.com/br/carreiras  | Redux, React Native
 EcompJr | http://ecompjr.com.br/ |
+EcoStage | http://www.ecostage.com.br | Redux
 EloMilhas | https://elomilhas.com.br | Redux
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Escalaí - Startup | http://escalai.com.br/ | React Native
@@ -55,6 +58,7 @@ Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
 Infracommerce | http://www.infracommerce.com.br/ | Flux/Redux, Redux Saga, Redux Form, Webpack, Storybook
 Intelie | https://intelie.com.br | Redux, Redux Thunk,Styled Components, MobX, Jest, Enzyme, Flux
 Intuitech | http://www.intuite.ch | Redux, React Native
+Isobar Brasil | http://www.isobar.com/br/en/ | 
 JP7 | https://www.jp7.com.br | React Native, Redux, GraphQL
 Krush | https://www.krush.com.br/ | React Native/Redux/Flux
 Laborit | http://www.laborit.com.br/ | Redux
@@ -62,6 +66,7 @@ Logicalis | https://www.la.logicalis.com/pt-Latam/ | Redux, Redux Thunk, Jest, E
 Loldesign | https://www.loldesign.com.br |
 M4U | https://www.m4u.com.br/ | Redux, Saga, GraphQL, Jest, Enzyme
 MATERA Systems | http://www.matera.com/br/ | Redux, Flux, Enzyme, Redux-thunk, Mocha, Router
+MaxMilhas   | https://www.maxmilhas.com.br/ | Redux, React Native
 Menthor | http://www.menthor.net/ | Redux, Mongo DB, elasticsearch
 Ministério Público do Estado do Rio de Janeiro | https://apps.mprj.mp.br/sistema/inloco/ | GeoServer, Leaflet, Chart.js, Intro.js
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
