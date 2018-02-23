@@ -56,6 +56,7 @@ Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
 Infracommerce | http://www.infracommerce.com.br/ | Flux/Redux, Redux Saga, Redux Form, Webpack, Storybook
 Intelie | https://intelie.com.br | Redux, Redux Thunk,Styled Components, MobX, Jest, Enzyme, Flux
 Intuitech | http://www.intuite.ch | Redux, React Native
+Isobar Brasil | http://www.isobar.com/br/en/ | 
 JP7 | https://www.jp7.com.br | React Native, Redux, GraphQL
 Krush | https://www.krush.com.br/ | React Native/Redux/Flux
 Laborit | http://www.laborit.com.br/ | Redux
