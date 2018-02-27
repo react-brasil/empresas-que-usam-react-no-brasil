@@ -6,6 +6,7 @@ Nome | Website | Tecnologias Relacionadas
 ------------ | ------- | ------------
 AMARO | https://amaro.com/ | Redux, RxJS
 App2Sales | http://app2sales.com | React Native, Redux, Sagas
+Appmoove | http://appmoove.com.br | React Native, Redux
 Arena | https://arena.im | React Native, Redux, Redux Observable, RxJS, Firebase, Jest, Flow, NativeBase
 Arizona Marketing Flow | https://www.arizona.global/ | Redux, RxJS
 Astrocoders | https://astrocoders.com | GraphQL, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor
