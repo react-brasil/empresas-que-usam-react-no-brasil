@@ -63,6 +63,7 @@ Isobar Brasil | http://www.isobar.com/br/en/ |
 JP7 | https://www.jp7.com.br | React Native, Redux, GraphQL
 Krush | https://www.krush.com.br/ | React Native/Redux/Flux
 Laborit | http://www.laborit.com.br/ | Redux
+Loggi | http://www.loggi.com/ | React Native, React Native Web, CSS Modules, Styled Components, React-router, GraphQL, Relay, Redux, Redux-thunk, Redux-forms, Enzyme, Jest, Storybook (web/native), Webpack, NightwatchJS, MS appcenter (code-push)
 Logicalis | https://www.la.logicalis.com/pt-Latam/ | Redux, Redux Thunk, Jest, Enzyme, create-react-app
 Loldesign | https://www.loldesign.com.br |
 M4U | https://www.m4u.com.br/ | Redux, Saga, GraphQL, Jest, Enzyme
