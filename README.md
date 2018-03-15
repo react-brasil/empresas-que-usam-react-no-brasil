@@ -74,7 +74,7 @@ Ministério Público do Estado do Rio de Janeiro | https://apps.mprj.mp.br/siste
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
 Monkey Exchange | https://www.monkey.exchange/ | Redux, MobX
 Multiware Tecnologia | http://multiwaretecnologia.com.br | React Native, Redux
-Napp Solutions | https://nappsolutions.com/ | React, React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
+Napp Solutions | https://nappsolutions.com/ | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 NG Informática | http://ngi.com.br | Redux, MongoDB, Ramda, Functional Programming
 OLX | http://www.olx.com.br/ | Redux, Saga
 OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
