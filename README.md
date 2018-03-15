@@ -74,6 +74,7 @@ Ministério Público do Estado do Rio de Janeiro | https://apps.mprj.mp.br/siste
 MixBR Games | http://www.mixbrgames.com/ | Redux, Styled Components
 Monkey Exchange | https://www.monkey.exchange/ | Redux, MobX
 Multiware Tecnologia | http://multiwaretecnologia.com.br | React Native, Redux
+Napp Solutions | https://nappsolutions.com/ | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 NG Informática | http://ngi.com.br | Redux, MongoDB, Ramda, Functional Programming
 OLX | http://www.olx.com.br/ | Redux, Saga
 OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
@@ -115,7 +116,6 @@ Zap Imóveis | https://www.zapimoveis.com.br/ | Redux, Jest, GraphQL
 Zimp | https://zimp.me/ |
 Zup IT Innovation | http://www.zup.com.br/ | Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable
 ZX Ventures | https://zx-ventures.com/ | React-Native, Redux, GraphQL, Apollo/Relay
-
 
 ## Projetos que usam React no Brasil
 
