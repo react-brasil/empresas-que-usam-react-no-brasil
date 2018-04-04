@@ -57,6 +57,7 @@ Icarus Tech | http://icarustech.com.br | Redux
 iFood | https://ifood.com.br | Redux, Recompose, Ducks, Saga, Jest, Enzyme, actionz
 Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
 Infracommerce | http://www.infracommerce.com.br/ | Flux/Redux, Redux Saga, Redux Form, Webpack, Storybook
+inGaia | http://www.ingaia.com.br/ | Redux, Redux Saga, Redux Form, Styled Components, Storybook, Jest
 Intelie | https://intelie.com.br | Redux, Redux Thunk,Styled Components, MobX, Jest, Enzyme, Flux
 Intuitech | http://www.intuite.ch | Redux, React Native
 Isobar Brasil | http://www.isobar.com/br/en/ | 
