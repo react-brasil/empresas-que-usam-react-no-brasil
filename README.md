@@ -40,6 +40,7 @@ EcoStage | http://www.ecostage.com.br | Redux
 EloMilhas | https://elomilhas.com.br | Redux
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Escalaí - Startup | http://escalai.com.br/ | React Native
+Eskolare | https://www.eskolare.com.br | React, Redux, Router
 Evino | https://evino.com.br/ | Redux, Jest, CSS Modules
 Fortes Tecnologia em Sistemas | https://www.fortestecnologia.com.br | Redux, Router
 Fractal Tecnologia | http://www.fractaltecnologia.com.br | Redux, Redux-thunk, Jest
