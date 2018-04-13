@@ -24,10 +24,10 @@ Cedro Technologies  | http://www.cedrotech.com/ | React-Native, Redux
 Climatempo | https://www.climatempo.com.br/ | React Native, Redux
 CWI Software | https://www.cwi.com.br/ | Redux, React Native, Styled Components, Recompose
 Colaboradores | https://colaboradores.com.br/ | Redux, React Native
-Compila | http://compila.com.br/ | 
+Compila | http://compila.com.br/ |
 Conpass | https://conpass.io/ | Redux, Saga, Mocha
 ConvergenceWorks | http://convergence.works | React Native, Redux, Sagas, Ignite
-Crave Food Systems | http://cravefood.services/ | Redux, Webpack 
+Crave Food Systems | http://cravefood.services/ | Redux, Webpack
 Daksa Marketing & Tecnologia | https://www.daksa.com.br/ | React Native, React Native Cache Store, Redux, NativeBase
 Dalla Soluções | http://dallasolucoes.com.br/ | Redux, Jest, Saga, Material-ui, CSS Modules
 datarisk.io | http://datarisk.io/ | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
@@ -49,7 +49,7 @@ GETTY/IO | https://getty.io | React Native, Redux, Apollo/GraphQL, Jest, Relay, 
 Globo.com | https://talentos.globo.com/ | React Native
 GreenMile | http://greenmile.com/ | Redux, Jest, Saga
 Grifo | http://gri.fo/ | Jest, Redux, React Native
-Gympass | https://www.gympass.com/ | 
+Gympass | https://www.gympass.com/ |
 Hi Platform | https://www.hiplatform.com | Jest, Redux, Sagas, Styled Components, Immutable, Material-UI, Reselect
 Home Team | https://hometeam.com.br/ | Redux
 Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled components, CSS Modules
@@ -60,8 +60,9 @@ Infracommerce | http://www.infracommerce.com.br/ | Flux/Redux, Redux Saga, Redux
 inGaia | http://www.ingaia.com.br/ | Redux, Redux Saga, Redux Form, Styled Components, Storybook, Jest
 Intelie | https://intelie.com.br | Redux, Redux Thunk,Styled Components, MobX, Jest, Enzyme, Flux
 Intuitech | http://www.intuite.ch | Redux, React Native
-Isobar Brasil | http://www.isobar.com/br/en/ | 
+Isobar Brasil | http://www.isobar.com/br/en/ |
 JP7 | https://www.jp7.com.br | React Native, Redux, GraphQL
+Jusbrasil | https://www.jusbrasil.com.br | GraphQL, Apollo, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
 Krush | https://www.krush.com.br/ | React Native/Redux/Flux
 Laborit | http://www.laborit.com.br/ | Redux
 Loggi | http://www.loggi.com/ | React Native, React Native Web, CSS Modules, Styled Components, React-router, GraphQL, Relay, Redux, Redux-thunk, Redux-forms, Enzyme, Jest, Storybook (web/native), Webpack, NightwatchJS, MS appcenter (code-push)
@@ -85,13 +86,13 @@ PagSeguro | https://www.pagseguro.com.br/ | Redux, Observable, Inferno
 Pague Menos | https://www.paguemenos.com.br/ | Redux, Saga
 Pipefy | https://pipefy.com | GraphQL, React Native
 Pismo | https://pismo.io/ | Redux, MobX, RxJS, Jest
-Pragmatismo.io | http://pragmatismo.io | 
+Pragmatismo.io | http://pragmatismo.io |
 Printi | https://printi.com.br | Redux, RxJS
 Qualyteam | http://www.qualyteam.com/ | Redux, Saga, Jest, Enzyme
 QUANTO | https://contaquanto.com.br/ | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 Requisittus | https://requisittus.com.br | Redux, Router
 Rivendel | https://rivendel.com.br/ | Treinamento/consultoria aos clientes e produtos internos com Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
-Samba Tech | https://sambatech.com/ | 
+Samba Tech | https://sambatech.com/ |
 Secretaria Municipal da Educação da Prefeitura de Fortaleza | http://sme.fortaleza.ce.gov.br | React Native, Redux, Saga, ImmutableJS, Lodash
 Segware | https://www.segware.com.br | React Native, Styled Components, RxJS
 Shawee | https://shawee.io | Redux, Apollo/GraphQL
@@ -100,7 +101,7 @@ stq digital | https://stqpublicidade.com.br/ | React-Native, GraphQL, Redux, Rel
 Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
 Superplayer | https://www.superplayer.fm | Redux, GraphQL
 Taller | https://taller.net.br/ | Redux, Redux Boot, Jest, Enzyme, GraphQL, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
-TOTVS | https://www.totvs.com/home | 
+TOTVS | https://www.totvs.com/home |
 Trackmob | https://www.trackmob.com.br/ | Redux, Router, React-Native
 Vagalume | https://www.vagalume.com.br/ | Redux, React Native, Jest
 Vérios Investimentos | https://www.verios.com.br/ |
