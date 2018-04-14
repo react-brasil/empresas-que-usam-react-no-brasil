@@ -28,7 +28,7 @@ Compila | http://compila.com.br/ |
 Conpass | https://conpass.io/ | Redux, Saga, Mocha
 ConvergenceWorks | http://convergence.works | React Native, Redux, Sagas, Ignite
 Crave Food Systems | http://cravefood.services/ | Redux, Webpack
-Cubos | http://cubos.io | Mobx, Redux, Jest
+Cubos | https://cubos.io | Mobx, Redux, Jest
 Daksa Marketing & Tecnologia | https://www.daksa.com.br/ | React Native, React Native Cache Store, Redux, NativeBase
 Dalla Soluções | http://dallasolucoes.com.br/ | Redux, Jest, Saga, Material-ui, CSS Modules
 datarisk.io | http://datarisk.io/ | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
