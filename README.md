@@ -130,3 +130,10 @@ BeerSwarm | https://beerswarm.com/ | Redux, Saga, Jest, React-Leaflet, Router, [
 Pilot | https://github.com/pagarme/pilot | CSS Modules, Storybook | [Pagar.me](https://pagar.me/)
 Storia Imóveis | https://www.storiaimoveis.com.br/ | Redux, Saga | [OLX Brasil](http://www.olx.com.br/)
 Rung | https://www.rung.com.br/ | Redux, MongoDB, Ramda, Functional Programming | [NG Informática](http://www.ngi.com.br/)
+
+## Licença
+
+[MIT]
+
+## Slack
+http://react-brasil-slack.herokuapp.com/
