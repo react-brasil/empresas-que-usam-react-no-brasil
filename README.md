@@ -63,7 +63,7 @@ Intelie | https://intelie.com.br | Redux, Redux Thunk,Styled Components, MobX, J
 Intuitech | http://www.intuite.ch | Redux, React Native
 Isobar Brasil | http://www.isobar.com/br/en/ |
 JP7 | https://www.jp7.com.br | React Native, Redux, GraphQL
-Jusbrasil | https://www.jusbrasil.com.br | GraphQL, Apollo, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
+Jusbrasil | https://www.jusbrasil.com.br | GraphQL, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
 Krush | https://www.krush.com.br/ | React Native/Redux/Flux
 Laborit | http://www.laborit.com.br/ | Redux
 Loggi | http://www.loggi.com/ | React Native, React Native Web, CSS Modules, Styled Components, React-router, GraphQL, Relay, Redux, Redux-thunk, Redux-forms, Enzyme, Jest, Storybook (web/native), Webpack, NightwatchJS, MS appcenter (code-push)
