@@ -26,6 +26,7 @@ Colaboradores | https://colaboradores.com.br/ | Redux, React Native
 Compila | http://compila.com.br/ |
 Conpass | https://conpass.io/ | Redux, Saga, Mocha
 ConvergenceWorks | http://convergence.works | React Native, Redux, Sagas, Ignite
+Corebiz | http://www.corebiz.com.br/ | Redux
 Crave Food Systems | http://cravefood.services/ | Redux, Webpack
 Cubos | https://cubos.io | Mobx, Redux, Jest
 Daksa Marketing & Tecnologia | https://www.daksa.com.br/ | React Native, React Native Cache Store, Redux, NativeBase
@@ -127,6 +128,7 @@ Nome | Link | Tecnologias | Empresa
 ------------ | ------- | ------------ | ------------
 BeerSwarm | https://beerswarm.com/ | Redux, Saga, Jest, React-Leaflet, Router, [react-leaflet-googlemutant](https://github.com/produtoreativo/react-leaflet-googlemutant) | [Produto Reativo](http://www.produtoreativo.com.br/)
 Bíblia Online | https://www.bibliaonline.com.br | Isomorphic, Redux, Saga, Material-UI, JSS, Jest, TypeScript | [Jose Peleteiro](https://peleteiro.net)
+Mambo Delivery | https://www.mambo.com.br/ | Redux, Vtex | [Corebiz](http://www.corebiz.com.br/)
 Pilot | https://github.com/pagarme/pilot | CSS Modules, Storybook | [Pagar.me](https://pagar.me/)
 Storia Imóveis | https://www.storiaimoveis.com.br/ | Redux, Saga | [OLX Brasil](http://www.olx.com.br/)
 Rung | https://www.rung.com.br/ | Redux, MongoDB, Ramda, Functional Programming | [NG Informática](http://www.ngi.com.br/)
