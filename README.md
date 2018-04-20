@@ -26,7 +26,7 @@ Colaboradores | https://colaboradores.com.br/ | Redux, React Native
 Compila | http://compila.com.br/ |
 Conpass | https://conpass.io/ | Redux, Saga, Mocha
 ConvergenceWorks | http://convergence.works | React Native, Redux, Sagas, Ignite
-Corebiz | http://www.corebiz.com.br/ | React, Redux
+Corebiz | http://www.corebiz.com.br/ | Redux
 Crave Food Systems | http://cravefood.services/ | Redux, Webpack
 Cubos | https://cubos.io | Mobx, Redux, Jest
 Daksa Marketing & Tecnologia | https://www.daksa.com.br/ | React Native, React Native Cache Store, Redux, NativeBase
