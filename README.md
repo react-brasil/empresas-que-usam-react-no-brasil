@@ -14,7 +14,6 @@ Audora Gerencial | http://www.audora.com.br/audora/index.html | Redux
 Automi | https://www.automi.com.br | React, React Native, Redux
 B2W | https://www.americanas.com.br https://www.submarino.com.br https://www.shoptime.com.br | React Native, Redux, Jest, Immutable
 BeeTech | https://www.beetech.global | Jest, Redux, Functional Programming, Styled Components
-Bíblia Online | https://www.bibliaonline.com.br | Isomorphic, Redux, Saga, Material-UI, JSS, Jest, Flow
 Brasal | http://brasal.com.br | React Native, Redux, React VR
 BovControl | https://bovcontrol.com | Redux, Saga, MobX
 Buscapé | https://www.buscape.com.br | Redux, Redux-thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
@@ -127,6 +126,7 @@ ZX Ventures | https://zx-ventures.com/ | React-Native, Redux, GraphQL, Apollo/Re
 Nome | Link | Tecnologias | Empresa
 ------------ | ------- | ------------ | ------------
 BeerSwarm | https://beerswarm.com/ | Redux, Saga, Jest, React-Leaflet, Router, [react-leaflet-googlemutant](https://github.com/produtoreativo/react-leaflet-googlemutant) | [Produto Reativo](http://www.produtoreativo.com.br/)
+Bíblia Online | https://www.bibliaonline.com.br | Isomorphic, Redux, Saga, Material-UI, JSS, Jest, TypeScript | [Jose Peleteiro](https://peleteiro.net)
 Pilot | https://github.com/pagarme/pilot | CSS Modules, Storybook | [Pagar.me](https://pagar.me/)
 Storia Imóveis | https://www.storiaimoveis.com.br/ | Redux, Saga | [OLX Brasil](http://www.olx.com.br/)
 Rung | https://www.rung.com.br/ | Redux, MongoDB, Ramda, Functional Programming | [NG Informática](http://www.ngi.com.br/)
