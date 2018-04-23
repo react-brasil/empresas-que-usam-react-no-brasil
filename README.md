@@ -79,6 +79,7 @@ Monkey Exchange | https://www.monkey.exchange/ | Redux, MobX
 Multiware Tecnologia | http://multiwaretecnologia.com.br | React Native, Redux
 Napp Solutions | https://nappsolutions.com/ | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 NG Informática | http://ngi.com.br | Redux, MongoDB, Ramda, Functional Programming
+Nubank | https://nubank.com.br/ | React Native, GraphQL
 OLX | http://www.olx.com.br/ | Redux, Saga
 OneMarket | https://onemarket.com.br | GraphQL, Apollo, Saga, Glamorous
 OI | https://oi.com.br/ | Redux, Reflux, Storybook
