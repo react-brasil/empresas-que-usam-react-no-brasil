@@ -18,7 +18,7 @@ Brasal | http://brasal.com.br | React Native, Redux, React VR
 BovControl | https://bovcontrol.com | Redux, Saga, MobX
 Buscapé | https://www.buscape.com.br | Redux, Redux-thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
 CARGOBR | https://cargobr.com/ | McFly
-Catho   | https://www.catho.com.br |
+Catho   | https://www.catho.com.br | CSS Modules, Jest, Redux, Storybook, Webpack
 Cedro Technologies  | http://www.cedrotech.com/ | React-Native, Redux
 Climatempo | https://www.climatempo.com.br/ | React Native, Redux
 CWI Software | https://www.cwi.com.br/ | Redux, React Native, Styled Components, Recompose
