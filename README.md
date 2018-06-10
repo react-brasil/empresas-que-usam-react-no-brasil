@@ -4,6 +4,7 @@
 
 Nome | Website | Tecnologias Relacionadas
 ------------ | ------- | ------------
+Agilize Contabilidade Online | https://www.agilize.com.br/ | Redux, Redux Saga, Redux-thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
 AMARO | https://amaro.com/ | Redux, RxJS
 App2Sales | http://app2sales.com | React Native, Redux, Sagas
 App Masters | https://appmasters.io | React Native, Redux, Sagas, Firebase, Jest, Flow, Material-UI
