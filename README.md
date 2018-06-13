@@ -89,6 +89,7 @@ OI | https://oi.com.br/ | Redux, Reflux, Storybook
 Pagar.me | https://pagar.me/ | Redux, CSS Modules, Storybook
 PagSeguro | https://www.pagseguro.com.br/ | Redux, Observable, Inferno
 Pague Menos | https://www.paguemenos.com.br/ | Redux, Saga
+PICSIZE | https://picsize.com.br/ | Router, Webpack, Lodash
 Pipefy | https://pipefy.com | GraphQL, React Native
 Pismo | https://pismo.io/ | Redux, MobX, RxJS, Jest
 Pragmatismo.io | http://pragmatismo.io |
