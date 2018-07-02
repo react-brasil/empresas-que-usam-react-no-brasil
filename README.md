@@ -40,6 +40,7 @@ Easy Carros | https://easycarros.com/ | React-Native, Redux, Saga, GraphQL
 EBANX | https://www.ebanx.com/br/carreiras  | Redux, React Native
 EcompJr | http://ecompjr.com.br/ |
 EcoStage | http://www.ecostage.com.br | Redux
+Editora Sanar | https://www.editorasanar.com.br | Redux, Redux-Saga, React Native
 EloMilhas | https://elomilhas.com.br | Redux
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Escalaí - Startup | http://escalai.com.br/ | React Native
