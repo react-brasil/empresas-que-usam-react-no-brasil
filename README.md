@@ -51,6 +51,7 @@ Fred | https://fredbots.com/ | Redux, Redux Thunk
 Geekie  | http://www.geekie.com.br/ | React Native
 GETTY/IO | https://getty.io | React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
 Globo.com | https://talentos.globo.com/ | React Native
+Goomer | https://www.goomer.com.br/ | CSS Modules, Jest, Redux, Storybook, Webpack
 GreenMile | http://greenmile.com/ | Redux, Jest, Saga
 Grifo | http://gri.fo/ | Jest, Redux, React Native
 Gympass | https://www.gympass.com/ |
