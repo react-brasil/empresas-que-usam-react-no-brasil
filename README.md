@@ -57,6 +57,7 @@ Hi Platform | https://www.hiplatform.com | Jest, Redux, Sagas, Styled Components
 Home Team | https://hometeam.com.br/ | Redux
 Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled components, CSS Modules
 Icarus Tech | http://icarustech.com.br | Redux
+Iclinic | https://iclinic.com.br/ | React Native, Flux, Redux, Saga, Jest
 iFood | https://ifood.com.br | Redux, Recompose, Ducks, Saga, Jest, Enzyme, actionz
 Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
 Infracommerce | http://www.infracommerce.com.br/ | Flux/Redux, Redux Saga, Redux Form, Webpack, Storybook
