@@ -45,6 +45,7 @@ EloMilhas | https://elomilhas.com.br | Redux
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Escalaí - Startup | http://escalai.com.br/ | React Native
 Evino | https://evino.com.br/ | Redux, Jest, CSS Modules
+Faicon | https://www.faicon.com/ | MobX, JSS, Jest, Webpack, Storybook
 Fortes Tecnologia em Sistemas | https://www.fortestecnologia.com.br | Redux, Router
 Fractal Tecnologia | http://www.fractaltecnologia.com.br | Redux, Redux-thunk, Jest
 Fred | https://fredbots.com/ | Redux, Redux Thunk
