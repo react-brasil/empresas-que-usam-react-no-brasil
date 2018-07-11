@@ -61,6 +61,7 @@ Hotmart | https://www.hotmart.com | MobX, Next.js, React Native, Redux, Styled c
 Icarus Tech | http://icarustech.com.br | Redux
 iFood | https://ifood.com.br | Redux, Recompose, Ducks, Saga, Jest, Enzyme, actionz
 Ilegra | http://ilegra.com/ | Redux, Saga, Styled Components
+Incentive-me | https://www.incentive-me.com/ | MobX, JSS, Jest, Webpack, Storybook
 Infracommerce | http://www.infracommerce.com.br/ | Flux/Redux, Redux Saga, Redux Form, Webpack, Storybook
 inGaia | http://www.ingaia.com.br/ | Redux, Redux Saga, Redux Form, Styled Components, Storybook, Jest
 Instituto de Pesquisa Ambiental da Amazônia | http://ipam.org.br | React Native, Redux, Redux-thunk, React-Router, Immutable.js, create-react-app, Material-UI
