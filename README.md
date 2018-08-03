@@ -77,8 +77,8 @@ Laborit | http://www.laborit.com.br/ | Redux
 Loggi | http://www.loggi.com/ | React Native, React Native Web, CSS Modules, Styled Components, React-router, GraphQL, Relay, Redux, Redux-thunk, Redux-forms, Enzyme, Jest, Storybook (web/native), Webpack, NightwatchJS, MS appcenter (code-push)
 Logicalis | https://www.la.logicalis.com/pt-Latam/ | Redux, Redux Thunk, Jest, Enzyme, create-react-app
 Loldesign | https://www.loldesign.com.br |
-Mark Up | http://mark-up.com.br/ | Webpack
 M4U | https://www.m4u.com.br/ | Redux, Saga, GraphQL, Jest, Enzyme
+Mark Up | http://mark-up.com.br/ | Webpack
 MATERA Systems | http://www.matera.com/br/ | Redux, Flux, Enzyme, Redux-thunk, Mocha, Router
 MaxMilhas   | https://www.maxmilhas.com.br/ | Redux, React Native
 Menthor | http://www.menthor.net/ | Redux, Mongo DB, elasticsearch
