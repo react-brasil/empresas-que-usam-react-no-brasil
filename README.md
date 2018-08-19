@@ -34,6 +34,7 @@ Cubos | https://cubos.io | Mobx, Redux, Jest
 Daksa Marketing & Tecnologia | https://www.daksa.com.br/ | React Native, React Native Cache Store, Redux, NativeBase
 Dalla Soluções | http://dallasolucoes.com.br/ | Redux, Jest, Saga, Material-ui, CSS Modules
 datarisk.io | http://datarisk.io/ | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
+Dextra | http://dextra.com.br | Flux, Jest, MobX, React Native, Redux
 Digital Pages | https://portugues.digitalpages.com.br/ |
 Easynvest | https://easynvest.com.br/ | Jest, Redux, ReduxForm, Ducks, Styled Components
 Easy Carros | https://easycarros.com/ | React-Native, Redux, Saga, GraphQL
