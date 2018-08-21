@@ -134,6 +134,7 @@ Zap Imóveis | https://www.zapimoveis.com.br/ | Redux, Jest, GraphQL
 Zimp | https://zimp.me/ |
 Zup IT Innovation | http://www.zup.com.br/ | Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable
 ZX Ventures | https://zx-ventures.com/ | React-Native, Redux, GraphQL, Apollo/Relay
+12min | https://12min.com/ | React Native, Redux, React Navigation, Saga, Cycle, Flow, Reactotron, ESLint(Airbnb)
 
 ## Projetos que usam React no Brasil
 
