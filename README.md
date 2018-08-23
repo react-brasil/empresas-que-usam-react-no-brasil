@@ -45,6 +45,7 @@ Editora Sanar | https://www.editorasanar.com.br | Redux, Redux-Saga, React Nativ
 EloMilhas | https://elomilhas.com.br | Redux
 Entria | https://entria.com.br/ | GraphQL, Redux, Relay, Saga, Styled Components
 Escalaí - Startup | http://escalai.com.br/ | React Native
+Eskolare | https://www.eskolare.com.br | React, Redux, Router
 Evino | https://evino.com.br/ | Redux, Jest, CSS Modules
 Faicon | https://www.faicon.com/ | MobX, JSS, Jest, Webpack, Storybook
 Fortes Tecnologia em Sistemas | https://www.fortestecnologia.com.br | Redux, Router
