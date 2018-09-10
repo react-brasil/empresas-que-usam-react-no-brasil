@@ -15,6 +15,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Audora Gerencial](http://www.audora.com.br/audora/index.html)| Maceió, AL | Redux
 [B2W](https://ri.b2w.digital/)| Rio de Janeiro — RJ, São Paulo — SP | React Native, Redux, Jest, Immutable
 [BeeTech](https://www.beetech.global) | São Paulo, SP | Jest, Redux, Functional Programming, Styled Components
+[Beleza Na Web](https://www.belezanaweb.com.br/) | São Paulo, SP | Redux, React Native, Styled Components, Jest
 [Brasal](http://brasal.com.br) | Brasília — DF, Uberlândia — MG | React Native, Redux, React VR
 [BovControl](https://bovcontrol.com) | São Paulo, SP | Redux, Saga, MobX
 [Buscapé](https://www.buscape.com.br) | São Paulo, SP | Redux, Redux-Thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
