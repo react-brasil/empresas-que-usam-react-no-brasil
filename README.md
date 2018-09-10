@@ -44,6 +44,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [EloMilhas](https://elomilhas.com.br) | Recife, PE | Redux
 [Entria](https://entria.com.br/) | São Paulo, SP | GraphQL, Redux, Relay, Saga, Styled Components
 [Escalaí - Startup](http://escalai.com.br/) | Rio de Janeiro, RJ | React Native
+[Eskolare](https://www.eskolare.com.br) | São Paulo, SP | Redux, Router
 [Evino](https://evino.com.br/https://entria.com.br/) | São Paulo, SP | Redux, Jest, CSS Modules
 [Faicon](https://www.faicon.com/) | Rio de Janeiro, SP | MobX, JSS, Jest, Webpack, Storybook
 [Fortes Tecnologia em Sistemas](https://www.fortestecnologia.com.br) | Fortaleza, CE | Redux, Router
@@ -74,11 +75,11 @@ Nome | Cidade | Tecnologias Relacionadas
 [Jusbrasil](https://www.jusbrasil.com.br) | São Paulo — SP, Salvador — BA | GraphQL, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
 [Krush](https://www.krush.com.br/) | Rio de Janeiro, RJ | React Native/Redux/Flux
 [Laborit](http://www.laborit.com.br/) | São Paulo — SP, Ribeirão Preto — SP | Redux
+[Light Up](http://mark-up.com.br/) | São Paulo, SP | Webpack, Styled Components
 [Loggi](http://www.loggi.com/) | São Paulo — SP, Rio de Janeiro — RJ, Belo Horizonte — MG  | React Native, React Native Web, CSS Modules, Styled Components, React-Router, GraphQL, Relay, Redux, Redux-Thunk, Redux-forms, Enzyme, Jest, Storybook (Web/Native), Webpack, NightwatchJS, MS appcenter (code-push)
 [Logicalis](https://www.la.logicalis.com/pt-Latam/) |  | Redux, Redux-Thunk, Jest, Enzyme, create-react-app
 [Loldesign](https://www.loldesign.com.br) | São Paulo, SP |
 [M4U](https://www.m4u.com.br/) | Rio de Janeiro, RJ | Redux, Saga, GraphQL, Jest, Enzyme
-[Mark Up](http://mark-up.com.br/) | São Paulo, SP | Webpack
 [Matera](http://www.matera.com/br/) | Campinas, SP | Redux, Flux, Enzyme, Redux-Thunk, Mocha, Router
 [MaxMilhas](https://www.maxmilhas.com.br/) | Belo Horizonte, MG | Redux, React Native
 [Menthor](http://www.menthor.net/) | Vitória, ES | Redux, Mongo DB, elasticsearch
