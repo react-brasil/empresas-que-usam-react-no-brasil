@@ -45,6 +45,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [EloMilhas](https://elomilhas.com.br) | Recife, PE | Redux
 [Entria](https://entria.com.br/) | São Paulo, SP | GraphQL, Redux, Relay, Saga, Styled Components
 [Escalaí - Startup](http://escalai.com.br/) | Rio de Janeiro, RJ | React Native
+[Escavador](https://www.escavador.com) | Salvador, BA | React Native, Redux, Redux-Thunk, Normalizr, Jest, Flow, Webpack
 [Eskolare](https://www.eskolare.com.br) | São Paulo, SP | Redux, Router
 [Evino](https://evino.com.br/https://entria.com.br/) | São Paulo, SP | Redux, Jest, CSS Modules
 [Faicon](https://www.faicon.com/) | Rio de Janeiro, SP | MobX, JSS, Jest, Webpack, Storybook
