@@ -5,3 +5,5 @@
 * Manter em ordem alfabética
 * Colocar apenas tecnologias que estão dentro do ecossistema React
 * Não coloque "React" na coluna "Tecnologias Relacionadas"
+* Coloque uma cidade por linha
+* Coloque apenas cidades brasileiras
