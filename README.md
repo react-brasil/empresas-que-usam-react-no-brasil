@@ -77,6 +77,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Krush](https://www.krush.com.br/) | Rio de Janeiro, RJ | React Native/Redux/Flux
 [Laborit](http://www.laborit.com.br/) | São Paulo — SP, Ribeirão Preto — SP | Redux
 [Light Up](http://mark-up.com.br/) | São Paulo, SP | Webpack, Styled Components
+[Liv Up](https://www.livup.com.br/) | São Paulo, SP | Redux, React-Router, React Native, Webpack
 [Loggi](http://www.loggi.com/) | São Paulo — SP, Rio de Janeiro — RJ, Belo Horizonte — MG  | React Native, React Native Web, CSS Modules, Styled Components, React-Router, GraphQL, Relay, Redux, Redux-Thunk, Redux-forms, Enzyme, Jest, Storybook (Web/Native), Webpack, NightwatchJS, MS appcenter (code-push)
 [Logicalis](https://www.la.logicalis.com/pt-Latam/) |  | Redux, Redux-Thunk, Jest, Enzyme, create-react-app
 [Loldesign](https://www.loldesign.com.br) | São Paulo, SP |
