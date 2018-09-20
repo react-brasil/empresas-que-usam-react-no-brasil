@@ -43,6 +43,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [EcoStage](http://www.ecostage.com.br) | São Paulo, SP | Redux
 [Editora Sanar](https://www.editorasanar.com.br) | Salvador, BA | Redux, Redux-Saga, React Native
 [EloMilhas](https://elomilhas.com.br) | Recife, PE | Redux
+[eMasters](https://emastersapp.com/) | São Paulo, SP | React, NextJs, Redux, ReduxForm, Styled Components, React Native
 [Entria](https://entria.com.br/) | São Paulo, SP | GraphQL, Redux, Relay, Saga, Styled Components
 [Escalaí - Startup](http://escalai.com.br/) | Rio de Janeiro, RJ | React Native
 [Escavador](https://www.escavador.com) | Salvador, BA | React Native, Redux, Redux-Thunk, Normalizr, Jest, Flow, Webpack
