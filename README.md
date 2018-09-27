@@ -120,6 +120,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Som Livre](https://www.somlivre.com/) | Rio de Janeiro, RJ | React Native
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 [Studio Sol](https://www.studiosol.com.br/) | Belo Horizonte, MG | Redux, GraphQL, Relay
+[Superlógica](https://www.superlogica.com/) | Campinas, SP | React Native, Redux
 [Superplayer](https://www.superplayer.fm) | São Paulo, SP<br/>Porto Alegre, RS | Redux, GraphQL
 [Taller](https://taller.net.br/) |  | Redux, Redux Boot, Jest, Enzyme, GraphQL, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
 [TOTVS](https://www.totvs.com/home) | São Paulo, SP |
