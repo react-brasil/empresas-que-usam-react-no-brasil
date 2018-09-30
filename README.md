@@ -35,6 +35,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Dalla Soluções](http://dallasolucoes.com.br/) | São Paulo, SP | Redux, Jest, Saga, Material-ui, CSS Modules
 [datarisk.io](http://datarisk.io/) | Florianópolis, SC | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
 [Dextra](http://dextra.com.br) | São Paulo, SP<br/>Campinas, SP | Flux, Jest, MobX, React Native, Redux
+[Diebold Nixdorf](https://www.dieboldnixdorf.com.br/) | Indaiatuba, SP |
 [Digital Pages](https://portugues.digitalpages.com.br/) | São Paulo, SP |
 [Easynvest](https://easynvest.com.br/) | São Paulo, SP | Jest, Redux, ReduxForm, Ducks, Styled Components
 [Easy Carros](https://easycarros.com/) | São Paulo, SP | React-Native, Redux, Saga, GraphQL
