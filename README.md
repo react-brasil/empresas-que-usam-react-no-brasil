@@ -6,6 +6,7 @@ Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
 [Agilize Contabilidade Online](https://www.agilize.com.br/)| Salvador, BA | Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
 [AMARO](https://amaro.com/) | São Paulo, SP | Redux, RxJS
+[AMERICANAS](https://www.americanas.com.br/) | São Paulo, SP |
 [App2Sales](http://app2sales.com) | Feira de Santana, Bahia | React Native, Redux, Sagas
 [App Masters](https://appmasters.io) | Juiz de Fora, MG | React Native, Redux, Sagas, Firebase, Jest, Flow, Material-UI
 [Appmoove](http://appmoove.com.br) | Campo Mourão, PR | React Native, Redux
@@ -121,6 +122,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Som Livre](https://www.somlivre.com/) | Rio de Janeiro, RJ | React Native
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 [Studio Sol](https://www.studiosol.com.br/) | Belo Horizonte, MG | Redux, GraphQL, Relay
+[Submarino](https://www.submarino.com.br/) | São Paulo, SP | 
 [Superlógica](https://www.superlogica.com/) | Campinas, SP | React Native, Redux
 [Superplayer](https://www.superplayer.fm) | São Paulo, SP<br/>Porto Alegre, RS | Redux, GraphQL
 [Taller](https://taller.net.br/) |  | Redux, Redux Boot, Jest, Enzyme, GraphQL, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
