@@ -15,6 +15,7 @@ Automi | https://www.automi.com.br | React, React Native, Redux
 B2W | https://www.americanas.com.br https://www.submarino.com.br https://www.shoptime.com.br | React Native, Redux, Jest, Immutable
 BeeTech | https://www.beetech.global | Jest, Redux, Functional Programming, Styled Components
 Brasal | http://brasal.com.br | React Native, Redux, React VR
+Boticário | https://www.boticario.com.br/ | Redux, React, Graphql
 BovControl | https://bovcontrol.com | Redux, Saga, MobX
 Buscapé | https://www.buscape.com.br | Redux, Redux-thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
 CARGOBR | https://cargobr.com/ | McFly
