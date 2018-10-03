@@ -47,6 +47,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Editora Sanar](https://www.editorasanar.com.br) | Salvador, BA | Redux, Redux-Saga, React Native
 [EloMilhas](https://elomilhas.com.br) | Recife, PE | Redux
 [eMasters](https://emastersapp.com/) | São Paulo, SP | NextJs, Redux, ReduxForm, Styled Components, React Native
+[eNe Soluções](http://enesolucoes.com.br/) | Uberlândia, MG | GraphQL, Jest, Next.js, React Native, Redux, Reselect
 [Entria](https://entria.com.br/) | São Paulo, SP | GraphQL, Redux, Relay, Saga, Styled Components
 [Escalaí - Startup](http://escalai.com.br/) | Rio de Janeiro, RJ | React Native
 [Escavador](https://www.escavador.com) | Salvador, BA | React Native, Redux, Redux-Thunk, Normalizr, Jest, Flow, Webpack
