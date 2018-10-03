@@ -65,7 +65,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Grifo](http://gri.fo/) | Porto Alegre, RS | Jest, Redux, React Native
 [Gympass](https://www.gympass.com/) | São Paulo, SP |
 [Hi Platform](https://www.hiplatform.com)| São Paulo, SP | Jest, Redux, Sagas, Styled Components, Immutable, Material-UI, Reselect
-[HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP | GraphQL, Jest, Enzyme, Styled Components, Router, Webpack, Storybook
+[HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP | GraphQL, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
 [Home Team](https://hometeam.com.br/) |  | Redux
 [Hotmart](https://www.hotmart.com) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, BH | MobX, Next.js, React Native, Redux, Styled Components, CSS Modules
 [Icarus Tech](http://icarustech.com.br) | Florianópolis, SC | Redux
