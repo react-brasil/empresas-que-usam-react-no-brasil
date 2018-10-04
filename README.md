@@ -59,6 +59,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Fred](https://fredbots.com/) | São Paulo, SP | Redux, Redux Thunk
 [Geekie](http://www.geekie.com.br/) | São Paulo, SP | React Native
 [GETTY/IO](https://getty.io) | São Paulo, SP | React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
+[Getup Cloud](https://getupcloud.com/) | São Paulo, SP | Redux, Jest, Webpack, Storybook, Patternfly-React
 [Globo.com](https://talentos.globo.com/) | Rio de Janeiro, RJ, Porto Alegre — RS | React Native
 [Goomer](https://www.goomer.com.br/) | Sorocaba, SP | CSS Modules, Jest, Redux, Storybook, Webpack
 [GreenMile](http://greenmile.com/) | Fortaleza, CE | Redux, Jest, Saga
