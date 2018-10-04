@@ -20,6 +20,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Beleza Na Web](https://www.belezanaweb.com.br/) | São Paulo, SP | Redux, React Native, Styled Components, Jest
 [Brasal](http://brasal.com.br) | Brasília, DF<br/>Uberlândia, MG | React Native, Redux, React VR
 [BovControl](https://bovcontrol.com) | São Paulo, SP | Redux, Saga, MobX
+[Boticário](https://www.boticario.com.br/) |  | Redux, Apollo, Graphql
 [Buscapé](https://www.buscape.com.br) | São Paulo, SP | Redux, Redux-Thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
 [CARGOBR](https://cargobr.com/) | Barueri, SP | McFly
 [Catho](https://www.catho.com.br) | Barueri, SP | CSS Modules, Jest, Redux, Storybook, Webpack
