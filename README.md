@@ -91,6 +91,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Loggi](http://www.loggi.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, MG  | React Native, React Native Web, CSS Modules, Styled Components, React-Router, GraphQL, Relay, Redux, Redux-Thunk, Redux-forms, Enzyme, Jest, Storybook (Web/Native), Webpack, NightwatchJS, MS appcenter (code-push)
 [Logicalis](https://www.la.logicalis.com/pt-Latam/) |  | Redux, Redux-Thunk, Jest, Enzyme, create-react-app
 [Loldesign](https://www.loldesign.com.br) | São Paulo, SP |
+[Lunes](https://lunes.io) | Cajamar, SP | Redux, Redux Saga
 [M4U](https://www.m4u.com.br/) | Rio de Janeiro, RJ | Redux, Saga, GraphQL, Jest, Enzyme
 [Matera](http://www.matera.com/br/) | Campinas, SP | Redux, Flux, Enzyme, Redux-Thunk, Mocha, Router
 [MaxMilhas](https://www.maxmilhas.com.br/) | Belo Horizonte, MG | Redux, React Native
