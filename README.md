@@ -114,6 +114,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [PICSIZE](https://picsize.com.br/) | Belo Horizonte, MG | Router, Webpack, Lodash
 [Pipefy](https://pipefy.com) | São Paulo, SP<br/>Curitiba, PR | GraphQL, React Native
 [Pismo](https://pismo.io/) | São Paulo, SP | Redux, MobX, RxJS, Jest
+[PLING](https://pling.net.br/) | Porto Alegre, RS | Next.js
 [Pragmatismo.io](http://pragmatismo.io) | Rio de Janeiro, RJ |
 [Printi](https://printi.com.br) | São Paulo, SP | Redux, RxJS
 [Qualyteam](http://www.qualyteam.com/) | Balneário Camboriú, SC | Redux, Saga, Jest, Enzyme
