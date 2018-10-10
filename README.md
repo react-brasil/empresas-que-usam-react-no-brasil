@@ -34,6 +34,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Corebiz](http://www.corebiz.com.br/) | Barueri, SP | Redux
 [Crave Food Systems](http://cravefood.services/) | Ribeirão Preto, SP | Redux, Webpack
 [Cubos](https://cubos.io) | Salvador, BA | Mobx, Redux, Jest
+[Curso Ênfase](https://www.cursoenfase.com.br) | São Carlos, SP<br/>Rio de Janeiro, RJ | GraphQL, Relay, Redux, Ducks, Material-ui, Webpack
 [Daksa Marketing & Tecnologia](https://www.daksa.com.br/) | Jaboticabal, SP | React Native, React Native Cache Store, Redux, NativeBase
 [Dalla Soluções](http://dallasolucoes.com.br/) | São Paulo, SP | Redux, Jest, Saga, Material-ui, CSS Modules
 [datarisk.io](http://datarisk.io/) | Florianópolis, SC | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
