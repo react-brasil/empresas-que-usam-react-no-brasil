@@ -41,7 +41,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Dextra](http://dextra.com.br) | São Paulo, SP<br/>Campinas, SP | Flux, Jest, MobX, React Native, Redux
 [Diebold Nixdorf](https://www.dieboldnixdorf.com.br/) | Indaiatuba, SP |
 [Digital Pages](https://portugues.digitalpages.com.br/) | São Paulo, SP |
-[Easynvest](https://easynvest.com.br/) | São Paulo, SP | Jest, Redux, ReduxForm, Ducks, Styled Components
+[Easynvest](https://www.easynvest.com.br/) | São Paulo, SP | Jest, Redux, ReduxForm, Ducks, Styled Components
 [Easy Carros](https://easycarros.com/) | São Paulo, SP | React-Native, Redux, Saga, GraphQL
 [EBANX](https://www.ebanx.com/br/carreiras) | Curitiba, PR  | Redux, React Native
 [EcompJr](http://ecompjr.com.br/) | Feira de Santana, BA |
