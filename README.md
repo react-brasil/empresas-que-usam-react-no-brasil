@@ -137,6 +137,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [TOTVS](https://www.totvs.com/home) | São Paulo, SP |
 [Trackmob](https://www.trackmob.com.br/) | Curitiba, PR | Redux, Router, React-Native
 [UPX Technologies](https://www.upx.com/) | Campinas, SP | Redux, Router, Jest, Gatsby
+[Vagas](https://www.vagas.com.br/) | São Paulo, SP | Redux e Jest
 [Vagalume](https://www.vagalume.com.br/) | São Paulo, SP | Redux, React Native, Jest
 [Vérios Investimentos](https://www.verios.com.br/) | São Paulo, SP |
 [Vindi](https://vindi.com.br/) | São Paulo, SP | Redux, Saga
