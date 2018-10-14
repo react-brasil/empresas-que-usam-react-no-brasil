@@ -120,6 +120,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Printi](https://printi.com.br) | São Paulo, SP | Redux, RxJS
 [Qualyteam](http://www.qualyteam.com/) | Balneário Camboriú, SC | Redux, Saga, Jest, Enzyme
 [QUANTO](https://contaquanto.com.br/) | São Paulo, SP | React Native, GraphQL, Relay, Redux, Jest, Styled Components
+[Raise Sistemas](https://raisesistemas.com.br) | Rio de Janeiro, RJ | React Native
 [Requisittus](https://requisittus.com.br) | Lajeado, RS | Redux, Router
 [Rivendel](https://rivendel.com.br/) | São Paulo, SP | Treinamento/consultoria aos clientes e produtos internos com Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
 [Samba Tech](https://sambatech.com/) | Belo Horizonte, MG |
