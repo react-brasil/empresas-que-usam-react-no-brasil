@@ -128,6 +128,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Secretaria Municipal da Educação da Prefeitura de Fortaleza](http://sme.fortaleza.ce.gov.br) | Fortaleza, CE | React Native, Redux, Saga, ImmutableJS, Lodash
 [Segware](https://www.segware.com.br) | Florianópolis, SC | React Native, Styled Components, RxJS
 [Shawee](https://shawee.io) | São Paulo, SP | Redux, Apollo/GraphQL
+[Softplan](https://www.softplan.com.br/) | Florianópolis, SC | React, Redux, Reactnative
 [Som Livre](https://www.somlivre.com/) | Rio de Janeiro, RJ | React Native
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 [Studio Sol](https://www.studiosol.com.br/) | Belo Horizonte, MG | Redux, GraphQL, Relay
