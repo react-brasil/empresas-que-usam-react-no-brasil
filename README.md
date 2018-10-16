@@ -102,6 +102,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [MixBR Games](http://www.mixbrgames.com/) |  | Redux, Styled Components
 [Mobills](https://www.mobills.com.br/) | Fortaleza, CE | Redux, React Router, Material-UI, Redux Form
 [Monkey Exchange](https://www.monkey.exchange/) | São Paulo, SP | Redux, MobX
+[Mooven Consulting](http://www.moovenconsulting.com.br) | São Paulo, SP | Redux
 [Multiware Tecnologia](http://multiwaretecnologia.com.br) | Sinop, MT | React Native, Redux
 [Napp Solutions](https://nappsolutions.com/) |  | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 [NG Informática](http://ngi.com.br) | Joinville, SC | Redux, MongoDB, Ramda, Functional Programming
