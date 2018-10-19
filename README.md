@@ -38,6 +38,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Daksa Marketing & Tecnologia](https://www.daksa.com.br/) | Jaboticabal, SP | React Native, React Native Cache Store, Redux, NativeBase
 [Dalla Soluções](http://dallasolucoes.com.br/) | São Paulo, SP | Redux, Jest, Saga, Material-ui, CSS Modules
 [datarisk.io](http://datarisk.io/) | Florianópolis, SC | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
+[Desbravador Software](http://www.desbravador.com.br/) | Florianópolis, SC<br/> Chapecó, SC | Redux, Jest, Enzyme
 [Dextra](http://dextra.com.br) | São Paulo, SP<br/>Campinas, SP | Flux, Jest, MobX, React Native, Redux
 [Diebold Nixdorf](https://www.dieboldnixdorf.com.br/) | Indaiatuba, SP |
 [Digital Pages](https://portugues.digitalpages.com.br/) | São Paulo, SP |
