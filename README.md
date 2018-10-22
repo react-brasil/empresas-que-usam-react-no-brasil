@@ -9,7 +9,6 @@ AMARO | https://amaro.com/ | Redux, RxJS
 App2Sales | http://app2sales.com | React Native, Redux, Sagas
 App Masters | https://appmasters.io | React Native, Redux, Sagas, Firebase, Jest, Flow, Material-UI
 Appmoove | http://appmoove.com.br | React Native, Redux
-Timcoo | http://timcoo.com.br | React, Redux
 Arena | https://arena.im | React Native, Redux, Redux Observable, RxJS, Firebase, Jest, Flow, NativeBase
 Arizona Marketing Flow | https://www.arizona.global/ | Redux, RxJS
 Astrocoders | https://astrocoders.com | GraphQL, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor
@@ -118,6 +117,7 @@ stq digital | https://stqpublicidade.com.br/ | React-Native, GraphQL, Redux, Rel
 Studio Sol | https://www.studiosol.com.br/ | Redux, GraphQL, Relay
 Superplayer | https://www.superplayer.fm | Redux, GraphQL
 Taller | https://taller.net.br/ | Redux, Redux Boot, Jest, Enzyme, GraphQL, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
+Timcoo | http://timcoo.com.br | React, Redux
 TOTVS | https://www.totvs.com/home |
 Trackmob | https://www.trackmob.com.br/ | Redux, Router, React-Native
 Vagalume | https://www.vagalume.com.br/ | Redux, React Native, Jest
