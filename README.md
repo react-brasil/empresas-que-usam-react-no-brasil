@@ -4,6 +4,8 @@
 
 Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
+[5A Attiva](http://www.5aattiva.com.br/) | São Paulo, SP | Desenvolvedor Front End/React 
+[99 Exchange](https://99.exchange/) | São Paulo, SP |  React Native, Deploy utilizando expojs, JS ES6, Testes com jasmine,  Git Flow
 [Accenture](https://www.accenture.com/br-pt/careers/recife) | Recife, PE | Redux, React Native
 [Agilize Contabilidade Online](https://www.agilize.com.br/)| Salvador, BA | Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
 [AMARO](https://amaro.com/) | São Paulo, SP | Redux, RxJS
