@@ -82,6 +82,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Instituto de Pesquisa Ambiental da Amazônia](http://ipam.org.br) |  | React Native, Redux, Redux-thunk, React-Router, Immutable.js, create-react-app, Material-UI
 [Intelie](https://intelie.com.br) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Redux Thunk,Styled Components, MobX, Jest, Enzyme, Flux
 [Intuitech](http://www.intuite.ch) |  | Redux, React Native
+[ioasys](https://ioasys.com.br/) | Belo Horizonte, MG<br/>Lavras, MG<br/>Aracaju, SE | React Native, Redux, Redux Thunk
 [Isobar Brasil](http://www.isobar.com/br/en/) | São Paulo, SP |
 [JP7](https://www.jp7.com.br) | São Paulo, SP | React Native, Redux, GraphQL
 [Jusbrasil](https://www.jusbrasil.com.br) | São Paulo, SP<br/>Salvador, BA | GraphQL, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
