@@ -134,6 +134,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Shawee](https://shawee.io) | São Paulo, SP | Redux, Apollo/GraphQL
 [Softplan](https://www.softplan.com.br/) | Florianópolis, SC | Redux, ReactNative
 [Som Livre](https://www.somlivre.com/) | Rio de Janeiro, RJ | React Native
+[Startaê](https://startae.com/) |  | Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 [Studio Sol](https://www.studiosol.com.br/) | Belo Horizonte, MG | Redux, GraphQL, Relay
 [Submarino](https://www.submarino.com.br/) | São Paulo, SP | 
