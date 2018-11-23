@@ -13,6 +13,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Appmoove](http://appmoove.com.br) | Campo Mourão, PR | React Native, Redux
 [Arena.im](https://arena.im) | Uberlândia, MG | React Native, Redux, Redux Observable, RxJS, Firebase, Jest, Flow, NativeBase
 [Arizona Marketing Flow](https://www.arizona.global/) | São Paulo, SP | Redux, RxJS
+[Arquivei](https://www.arquivei.com.br/) | São Carlos, SP | Redux, ImmutableJS, Redux Thunk, Styled Components, Jest, Webpack, Next.js
 [Astrocoders](https://astrocoders.com) | Sorocaba, SP | GraphQL, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor
 [Audora Gerencial](http://www.audora.com.br/audora/index.html)| Maceió, AL | Redux
 [B2W](https://ri.b2w.digital/)| Rio de Janeiro, RJ<br/>São Paulo, SP | React Native, Redux, Jest, Immutable
