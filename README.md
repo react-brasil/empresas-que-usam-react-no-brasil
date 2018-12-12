@@ -11,6 +11,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [App2Sales](http://app2sales.com) | Feira de Santana, Bahia | React Native, Redux, Sagas
 [App Masters](https://appmasters.io) | Juiz de Fora, MG | React Native, Redux, Sagas, Firebase, Jest, Flow, Material-UI
 [Appmoove](http://appmoove.com.br) | Campo Mourão, PR | React Native, Redux
+[AQUARELA](https://aquarela.studio/) | Salvador, BA | Redux, Jest, React Native, Reactotron, GraphQL, Redux Saga, Webpack, Next.js
 [Arena.im](https://arena.im) | Uberlândia, MG | React Native, Redux, Redux Observable, RxJS, Firebase, Jest, Flow, NativeBase
 [Arizona Marketing Flow](https://www.arizona.global/) | São Paulo, SP | Redux, RxJS
 [Arquivei](https://www.arquivei.com.br/) | São Carlos, SP | Redux, ImmutableJS, Redux Thunk, Styled Components, Jest, Webpack, Next.js
@@ -75,6 +76,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Home Team](https://hometeam.com.br/) |  | Redux
 [Hotmart](https://www.hotmart.com) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, BH | MobX, Next.js, React Native, Redux, Styled Components, CSS Modules
 [Icarus Tech](http://icarustech.com.br) | Florianópolis, SC | Redux
+[ICA CARD](https://icacard.com.br/) | Salvador, BA | Redux, React Native, Next.js
 [iClinic](https://iclinic.com.br/) | Ribeirão Preto, SP | React Native, Flux, Redux, Saga, Jest
 [iFood](https://ifood.com.br) | São Paulo, SP<br/>Campinas, SP<br/>Salvador, BA | Redux, Recompose, Ducks, Saga, Jest, Enzyme, actionz
 [Ilegra](http://ilegra.com/)| São Paulo, SP<br/>Porto Alegre, RS | Redux, Saga, Styled Components
