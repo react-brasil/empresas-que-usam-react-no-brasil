@@ -80,6 +80,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [iClinic](https://iclinic.com.br/) | Ribeirão Preto, SP | React Native, Flux, Redux, Saga, Jest
 [iFood](https://ifood.com.br) | São Paulo, SP<br/>Campinas, SP<br/>Salvador, BA | Redux, Recompose, Ducks, Saga, Jest, Enzyme, actionz
 [Ilegra](http://ilegra.com/)| São Paulo, SP<br/>Porto Alegre, RS | Redux, Saga, Styled Components
+[In Loco](http://inloco.com.br) | Recife, PE | React Native, Redux, GraphQL, Apollo, Jest, Enzyme, Deck&#46;gl, Mapbox, Leaflet, Semantic-UI, Storybook, Webpack
 [Incentive-me](https://www.incentive-me.com/) | Rio de Janeiro, RJ | MobX, JSS, Jest, Webpack, Storybook
 [Infracommerce](http://www.infracommerce.com.br/) | São Paulo, SP | Flux/Redux, Redux Saga, Redux Form, Webpack, Storybook
 [inGaia](http://www.ingaia.com.br/) | Campinas, SP | Redux, Redux Saga, Redux Form, Styled Components, Storybook, Jest
