@@ -90,6 +90,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [ioasys](https://ioasys.com.br/) | Belo Horizonte, MG<br/>Lavras, MG<br/>Aracaju, SE | React Native, Redux, Redux Thunk
 [Isobar Brasil](http://www.isobar.com/br/en/) | São Paulo, SP |
 [JP7](https://www.jp7.com.br) | São Paulo, SP | React Native, Redux, GraphQL
+[Junto Seguros](https://www.juntoseguros.com/) | Curitiba, PR | Styled Components, MobX, Jest, Storybook
 [Jusbrasil](https://www.jusbrasil.com.br) | São Paulo, SP<br/>Salvador, BA | GraphQL, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
 [Krush](https://www.krush.com.br/) | Rio de Janeiro, RJ | React Native/Redux/Flux
 [Laborit](http://www.laborit.com.br/) | São Paulo, SP, Ribeirão Preto — SP | Redux
