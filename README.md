@@ -149,6 +149,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Superlógica](https://www.superlogica.com/) | Campinas, SP | React Native, Redux
 [Superplayer](https://www.superplayer.fm) | São Paulo, SP<br/>Porto Alegre, RS | Redux, GraphQL
 [Taller](https://taller.net.br/) |  | Redux, Redux Boot, Jest, Enzyme, GraphQL, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
+[Tegra](https://tegra.com.br/) | Sorocaba, SP<br/>São Paulo, SP  | React Native, Typescript, Jest, Enzyme, Recompose, Rxjs, Docz
 [Timcoo](http://timcoo.com.br) | Belo Horizonte, MG | Redux, Redux Thunk
 [TOTVS](https://www.totvs.com/home) | São Paulo, SP |
 [Trackmob](https://www.trackmob.com.br/) | Curitiba, PR | Redux, Router, React-Native
