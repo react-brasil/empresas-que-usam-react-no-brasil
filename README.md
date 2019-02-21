@@ -117,6 +117,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [NG Informática](http://ngi.com.br) | Joinville, SC | Redux, MongoDB, Ramda, Functional Programming
 [NSC Comunicação](https://www.nsccomunicacao.com.br) | Florianópolis, SC | React Native, Next.js, Redux, Apollo, GraphQL, Ramda, Recompose, Functional Programming
 [Nubank](https://nubank.com.br/) | São Paulo, SP<br/>Campinas, SP<br/>Rio de Janeiro — RJ | React Native, GraphQL
+[Nuvem Shop](https://www.nuvemshop.com.br/) | São Paulo, SP<br/>Belo Horizonte — MG | React Native, Redux, Next.js, Docz
 [OLX](http://www.olx.com.br/) | São Paulo, SP<br/>Belo Horizonte, MG<br/>Rio de Janeiro, RJ | Redux, Saga
 [OneMarket](https://onemarket.com.br) | São Paulo, SP | GraphQL, Apollo, Saga, Glamorous
 [Oi](https://oi.com.br/) | São Paulo, SP<br/>Belo Horizonte, MG<br/>Rio de Janeiro, RJ | Redux, Reflux, Storybook
