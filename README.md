@@ -28,6 +28,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Catho](https://www.catho.com.br) | Barueri, SP | CSS Modules, Jest, Redux, Storybook, Webpack
 [Cedro Technologies](http://www.cedrotech.com/) | São Paulo, SP<br/>Uberlândia, MG | React-Native, Redux
 [Climatempo](https://www.climatempo.com.br/) | São Paulo, SP | React Native, Redux
+[Codengage](https://www.codengage.com/) | Dois Vizinhos, PR | React Native, GraphQL, Jest, styled-components, react-testing-library, Cypress, recompose, hooks, ramda, Docz, Material-ui
 [CWI Software](https://www.cwi.com.br/) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Porto Alegre, RS<br/>Passo Fundo, RS<br/>Gravataí, RS<br/>São Leopoldo, RS | Redux, React Native, Styled Components, Recompose
 [allya](https://www.allya.com.br/) | São Paulo, SP | Redux, React Native
 [Compila](http://compila.com.br/) | São Paulo, SP |
