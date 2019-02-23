@@ -76,6 +76,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC | GraphQL, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
 [Home Team](https://hometeam.com.br/) |  | Redux
 [Hotmart](https://www.hotmart.com) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, BH | MobX, Next.js, React Native, Redux, Styled Components, CSS Modules
+[Horizon](https://www.horizonci.com.br/) | Salvador, BA | Redux, React Native, Electron
 [Icarus Tech](http://icarustech.com.br) | Florianópolis, SC | Redux
 [ICA CARD](https://icacard.com.br/) | Salvador, BA | Redux, React Native, Next.js
 [iClinic](https://iclinic.com.br/) | Ribeirão Preto, SP | React Native, Flux, Redux, Saga, Jest
