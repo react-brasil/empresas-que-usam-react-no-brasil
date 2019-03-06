@@ -74,6 +74,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Gympass](https://www.gympass.com/) | São Paulo, SP |
 [Hi Platform](https://www.hiplatform.com)| São Paulo, SP | Jest, Redux, Sagas, Styled Components, Immutable, Material-UI, Reselect
 [HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC | GraphQL, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
+[Helpay](https://helpay.com.br/)| Sorocaba, SP | Redux, Redux Thunk, Router, Styled Components, Typescript, Ant UI
 [Home Team](https://hometeam.com.br/) |  | Redux
 [Hotmart](https://www.hotmart.com) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, BH | MobX, Next.js, React Native, Redux, Styled Components, CSS Modules
 [Horizon](https://www.horizonci.com.br/) | Salvador, BA | Redux, React Native, Electron
@@ -107,6 +108,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Matera](http://www.matera.com/br/) | Campinas, SP | Redux, Flux, Enzyme, Redux-Thunk, Mocha, Router
 [MaxMilhas](https://www.maxmilhas.com.br/) | Belo Horizonte, MG | Redux, React Native
 [Menthor](http://www.menthor.net/) | Vitória, ES | Redux, Mongo DB, elasticsearch
+[Meu Despachante](https://meudespachante.com.br/)| Sorocaba, SP | Redux, Redux Thunk, Router, Styled Components, Typescript, Ant UI
 [Meus Pedidos](https://www.meuspedidos.com.br/) | Joinville, SC | Redux
 [Ministério Público do Estado do Rio de Janeiro](https://apps.mprj.mp.br/sistema/inloco/) | Rio de Janeiro, RJ | GeoServer, Leaflet, Chart.js, Intro.js
 [MixBR Games](http://www.mixbrgames.com/) |  | Redux, Styled Components
