@@ -65,6 +65,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Fractal Tecnologia](http://www.fractaltecnologia.com.br) | João Pessoa, PB | Redux, Redux-Thunk, Jest
 [Fred](https://fredbots.com/) | São Paulo, SP | Redux, Redux Thunk
 [Geekie](http://www.geekie.com.br/) | São Paulo, SP | React Native
+[GeekHunter](https://www.geekhunter.com.br/carreiras) | Florianópolis, SC | Router, CSS Modules, Jest, Enzyme, ESLint(Airbnb)
 [GETTY/IO](https://getty.io) | São Paulo, SP | React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
 [Getup Cloud](https://getupcloud.com/) | São Paulo, SP | Redux, Jest, Webpack, Storybook, Patternfly-React
 [Globo.com](https://talentos.globo.com/) | Rio de Janeiro, RJ, Porto Alegre — RS | React Native
