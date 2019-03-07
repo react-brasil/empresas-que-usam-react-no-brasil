@@ -165,7 +165,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Trilogo](https://www.trilogo.com.br/) | Fortaleza, CE | Redux, Jest, Saga
 [UPX Technologies](https://www.upx.com/) | Campinas, SP | Redux, Router, Jest, Gatsby
 [Vagalume](https://www.vagalume.com.br/) | São Paulo, SP | Redux, React Native, Jest
-[Vagas.com](https://www.vagas.com.br/) | São Paulo, SP | Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components, Router, React Testing Library, Webpack, Docz, Micro Frontends / Serveless, GraphQL/Relay, Next.js, Husk
+[Vagas.com](https://www.vagas.com.br/trabalhe-conosco/oportunidades) | São Paulo, SP | Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components, Router, React Testing Library, Webpack, Docz, Micro Frontends / Serveless, GraphQL/Relay, Next.js, Husk
 [Vérios Investimentos](https://www.verios.com.br/) | São Paulo, SP |
 [Vindi](https://vindi.com.br/) | São Paulo, SP | Redux, Saga
 [VML Brasil](https://www.vml.com/brazil/) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Isomorphic, SSR, Saga, Jest, Ramda, ARc
