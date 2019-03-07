@@ -44,6 +44,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Desbravador Software](http://www.desbravador.com.br/) | Florianópolis, SC<br/> Chapecó, SC | Redux, Jest, Enzyme
 [Dextra](http://dextra.com.br) | São Paulo, SP<br/>Campinas, SP | Flux, Jest, MobX, React Native, Redux
 [Diebold Nixdorf](https://www.dieboldnixdorf.com.br/) | Indaiatuba, SP |
+[Digibee](https://www.digibee.com.br/) | São Paulo, SP | React-Native, Redux, GraphQL, Styled Components
 [Digital Pages](https://portugues.digitalpages.com.br/) | São Paulo, SP |
 [Easynvest](https://www.easynvest.com.br/) | São Paulo, SP | Jest, Redux, ReduxForm, Ducks, Styled Components
 [Easy Carros](https://easycarros.com/) | São Paulo, SP | React-Native, Redux, Saga, GraphQL
