@@ -6,6 +6,7 @@ Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
 [Accenture](https://www.accenture.com/br-pt/careers/recife) | São Paulo, SP<br />Recife, PE | Redux, React Native
 [Agilize Contabilidade Online](https://www.agilize.com.br/)| Salvador, BA | Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
+[Agrotis](https://www.agrotis.com)| Curitiba, PR | Redux, Redux-Thunk, Styled Components, Storybook, Material-UI
 [AMARO](https://amaro.com/) | São Paulo, SP | Redux, RxJS
 [AMERICANAS](https://www.americanas.com.br/) | São Paulo, SP |
 [ANTIDOTO DESIGN E TECNOLOGIA](https://www.antidotodesign.com.br/) | São Paulo, SP | React-Native, Redux, Feathersjs, Mongodb, Gunjs, Meteor
