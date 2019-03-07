@@ -206,7 +206,7 @@ Rung | https://www.rung.com.br/ | Redux, MongoDB, Ramda, Functional Programming 
 [MIT]
 
 ## Slack
-http://react-brasil-slack.herokuapp.com/
+https://react.now.sh (+5k membros!)
 
 ## Core members
 
