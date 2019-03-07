@@ -196,7 +196,7 @@ Moeda | https://moedaseeds.com | Gatsby, Recompose, Styled Components, React Rou
 Pilot | https://github.com/pagarme/pilot | CSS Modules, Storybook | [Pagar.me](https://pagar.me/)
 Storia Imóveis | https://www.storiaimoveis.com.br/ | Redux, Saga | [OLX Brasil](http://www.olx.com.br/)
 Rung | https://www.rung.com.br/ | Redux, MongoDB, Ramda, Functional Programming | [NG Informática](http://www.ngi.com.br/)
-
+Pluks | https://pluks.com.br/ | Redux, React Native, Expo | [Pluks](https://www.pluks.com.br/)
 ## Licença
 
 [MIT]
