@@ -34,6 +34,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Codengage](https://www.codengage.com/) | Dois Vizinhos, PR | React Native, GraphQL, Jest, styled-components, react-testing-library, Cypress, recompose, hooks, ramda, Docz, Material-ui
 [Coderockr](http://coderockr.com) | Joinville, SC | React Native, Redux, Next, ImmutableJS, CSS Modules, Storybook, Firebase
 [Compila](http://compila.com.br/) | São Paulo, SP |
+[Conductor](https://conductor.com.br/) | João Pessoa, PB <br/> Barueri, SP <br/> Porto Alegre, RS| Redux, Router, Saga, ReduxForm, Jest, Enzyme
 [Conpass](https://conpass.io/) | Florianópolis, SC | Redux, Saga, Mocha
 [ConvergenceWorks](http://convergence.works) | São Paulo — SP, Salvador — BA | React Native, Redux, Sagas, Ignite
 [Corebiz](http://www.corebiz.com.br/) | Barueri, SP | Redux
