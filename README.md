@@ -173,6 +173,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Vagas.com](https://www.vagas.com.br/trabalhe-conosco/oportunidades) | São Paulo, SP | Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components, Router, React Testing Library, Webpack, Docz, Micro Frontends / Serveless, GraphQL/Relay, Next.js, Husk
 [Vérios Investimentos](https://www.verios.com.br/) | São Paulo, SP |
 [Vindi](https://vindi.com.br/) | São Paulo, SP | Redux, Saga
+[Vizir Software Studio](https://vizir.com.br/) | São Paulo, SP | React Native, Redux, Apollo/GraphQL, Jest, Detox(e2e), Styled Components
 [VML Brasil](https://www.vml.com/brazil/) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Isomorphic, SSR, Saga, Jest, Ramda, ARc
 [VTEX](https://pt.vtex.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Apollo GraphQL, Jest, React Native
 [Wealth Systems](http://wssim.com.br) | Cascavel, PR | Immutable
