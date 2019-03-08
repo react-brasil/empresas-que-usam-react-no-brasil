@@ -154,6 +154,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [sigalei](https://sigalei.com.br) | São Carlos, SP | Redux, Relay, GraphQL, Material-UI
 [Softplan](https://www.softplan.com.br/) | Florianópolis, SC | Redux, ReactNative
 [Som Livre](https://www.somlivre.com/) | Rio de Janeiro, RJ | React Native
+[SOMAR Meteorologia](http://somarmeteorologia.com.br) | São Paulo, SP | Redux, Styled Components, Webpack, Storybook, Jest, Router, Monorepo
 [Sotero Tech](https://www.soterotech.com.br/) | Lauro de Freitas, BA | Redux, React Native
 [Startaê](https://startae.com/) |  | Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
