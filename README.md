@@ -153,12 +153,13 @@ Nome | Cidade | Tecnologias Relacionadas
 [Shawee](https://shawee.io) | São Paulo, SP | Redux, Apollo/GraphQL
 [sigalei](https://sigalei.com.br) | São Carlos, SP | Redux, Relay, GraphQL, Material-UI
 [Softplan](https://www.softplan.com.br/) | Florianópolis, SC | Redux, ReactNative
+[Softin Sistemas](https://softin.com.br/) | Joinville, SC | Redux
 [Som Livre](https://www.somlivre.com/) | Rio de Janeiro, RJ | React Native
 [Sotero Tech](https://www.soterotech.com.br/) | Lauro de Freitas, BA | Redux, React Native
 [Startaê](https://startae.com/) |  | Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 [Studio Sol](https://www.studiosol.com.br/) | Belo Horizonte, MG | Redux, GraphQL, Relay
-[Submarino](https://www.submarino.com.br/) | São Paulo, SP | 
+[Submarino](https://www.submarino.com.br/) | São Paulo, SP |
 [Superlógica](https://www.superlogica.com/) | Campinas, SP | React Native, Redux
 [Superplayer](https://www.superplayer.fm) | São Paulo, SP<br/>Porto Alegre, RS | Redux, GraphQL
 [Taller](https://taller.net.br/) |  | Redux, Redux Boot, Jest, Enzyme, GraphQL, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
