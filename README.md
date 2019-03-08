@@ -80,6 +80,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC | GraphQL, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
 [Helpay](https://helpay.com.br/)| Sorocaba, SP | Redux, Redux Thunk, Router, Styled Components, Typescript, Ant UI
 [Home Team](https://hometeam.com.br/) |  | Redux
+[HostGator](https://www.hostgator.com.br) | Florianópolis, SC | Redux, Redux-Thunk, Router
 [Hotmart](https://www.hotmart.com) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, BH | MobX, Next.js, React Native, Redux, Styled Components, CSS Modules
 [Horizon](https://www.horizonci.com.br/) | Salvador, BA | Redux, React Native, Electron
 [Icarus Tech](http://icarustech.com.br) | Florianópolis, SC | Redux
