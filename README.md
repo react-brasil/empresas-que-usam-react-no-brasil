@@ -66,6 +66,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Eskolare](https://www.eskolare.com.br) | São Paulo, SP | Enzyme, Immutable, Jest, Redux, Reselect, Router, Saga, Styled Components
 [Eventials](https://www.eventials.com/) | Blumenau, SC | Redux, Jest, Styled Components, Docz, Material-ui
 [Evino](https://evino.com.br/https://entria.com.br/) | São Paulo, SP | Redux, Jest, CSS Modules
+[Evolux](https://www.evolux.net.br/) | Natal, RN | Redux, Jest, MobX, WebRTC
 [Faicon](https://www.faicon.com/) | Rio de Janeiro, SP | MobX, JSS, Jest, Webpack, Storybook
 [Fortes Tecnologia em Sistemas](https://www.fortestecnologia.com.br) | Fortaleza, CE | Redux, Router
 [Fractal Tecnologia](http://www.fractaltecnologia.com.br) | João Pessoa, PB | Redux, Redux-Thunk, Jest
