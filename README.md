@@ -41,6 +41,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Cubos](https://cubos.io) | Salvador, BA | Mobx, Redux, Jest
 [Curso Ênfase](https://www.cursoenfase.com.br) | São Carlos, SP<br/>Rio de Janeiro, RJ | GraphQL, Relay, Redux, Ducks, Material-ui, Webpack
 [CWI Software](https://www.cwi.com.br/) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Porto Alegre, RS<br/>Passo Fundo, RS<br/>Gravataí, RS<br/>São Leopoldo, RS | Redux, React Native, Styled Components, Recompose
+[C6 Bank](https://www.c6bank.com/) | São Paulo, SP | Material UI, JSS, Redux, Gatsby, Storybook, React-Router, RTL, Jest, Formik
 [Daksa Marketing & Tecnologia](https://www.daksa.com.br/) | Jaboticabal, SP | React Native, React Native Cache Store, Redux, NativeBase
 [Dalla Soluções](http://dallasolucoes.com.br/) | São Paulo, SP | Redux, Jest, Saga, Material-ui, CSS Modules
 [datarisk.io](http://datarisk.io/) | Florianópolis, SC | Redux, Ducks, Reselect, Styled Components, Mocha, Storybook
