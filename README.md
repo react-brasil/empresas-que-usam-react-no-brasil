@@ -209,9 +209,9 @@ Mambo Delivery | https://www.mambo.com.br/ | Redux, Vtex | [Corebiz](http://www.
 Mobills Web | https://web.mobills.com.br/ | Redux, React Router, Material-UI, Redux Form
 Moeda | https://moedaseeds.com | Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo | [Moeda](https://moedaseeds.com)
 Pilot | https://github.com/pagarme/pilot | CSS Modules, Storybook | [Pagar.me](https://pagar.me/)
+Pluks | https://pluks.com.br/ | Redux, React Native, Expo | [Pluks](https://www.pluks.com.br/)
 Storia Imóveis | https://www.storiaimoveis.com.br/ | Redux, Saga | [OLX Brasil](http://www.olx.com.br/)
 Rung | https://www.rung.com.br/ | Redux, MongoDB, Ramda, Functional Programming | [NG Informática](http://www.ngi.com.br/)
-
 ## Licença
 
 [MIT]
