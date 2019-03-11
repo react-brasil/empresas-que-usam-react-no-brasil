@@ -70,6 +70,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Geekie](http://www.geekie.com.br/) | São Paulo, SP | React Native
 [GeekHunter](https://www.geekhunter.com.br/carreiras) | Florianópolis, SC | Router, CSS Modules, Jest, Enzyme, ESLint(Airbnb)
 [GETTY/IO](https://getty.io) | São Paulo, SP | React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
+[Geru](https://geru.com.br/) | São Paulo, SP | Webpack, Redux, ReduxForm, Redux Thunk, Redux Saga, Router, Recompose, Reselect, Gatsby, Styled Components, Docz, Flow, GraphQL, Apollo, ImmutableJS, Jest, Enzyme
 [Getup Cloud](https://getupcloud.com/) | São Paulo, SP | Redux, Jest, Webpack, Storybook, Patternfly-React
 [Globo.com](https://talentos.globo.com/) | Rio de Janeiro, RJ, Porto Alegre — RS | React Native
 [Goomer](https://www.goomer.com.br/) | Sorocaba, SP | CSS Modules, Jest, Redux, Storybook, Webpack
@@ -156,7 +157,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Startaê](https://startae.com/) |  | Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 [Studio Sol](https://www.studiosol.com.br/) | Belo Horizonte, MG | Redux, GraphQL, Relay
-[Submarino](https://www.submarino.com.br/) | São Paulo, SP | 
+[Submarino](https://www.submarino.com.br/) | São Paulo, SP |
 [Superlógica](https://www.superlogica.com/) | Campinas, SP | React Native, Redux
 [Superplayer](https://www.superplayer.fm) | São Paulo, SP<br/>Porto Alegre, RS | Redux, GraphQL
 [Taller](https://taller.net.br/) |  | Redux, Redux Boot, Jest, Enzyme, GraphQL, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
