@@ -190,6 +190,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Webedia](http://webedia.com.br/) | Rio de Janeiro, RJ | Redux, Jest, GraphQL
 [Welearn](https://br.welearnit.co) |  |
 [Wevo](https://www.wevo.com.br) | São Paulo, SP<br/>Florianópolis, SC | RxJS
+[Wine.com.br](https://www.wine.com.br) | Vitória, ES | React Native, Redux, Redux Thunk, Immutable
 [Wizard](https://www.wizard.com.br) | São Paulo, SP | React Native, Redux, Sagas, Router
 [XP Investimentos](https://www.xpi.com.br/) | São Paulo, SP | Redux, Jest, React-Native
 [Yube](http://www.yube.com.br/) | São Paulo, SP | JSS, Apollo/GraphQL, Jest, Enzyme
