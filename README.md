@@ -140,6 +140,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [PagSeguro](https://www.pagseguro.com.br/) | São Paulo, SP | Redux, Observable, Inferno
 [Pague Menos](https://www.paguemenos.com.br/) | | Redux, Saga
 [PICSIZE](https://picsize.com.br/) | Belo Horizonte, MG | Router, Webpack, Lodash
+[Pier](https://pier.digital/) | São Paulo, SP | React Native, MobX, Jest, Lodash
 [Pipefy](https://pipefy.com) | São Paulo, SP<br/>Curitiba, PR | GraphQL, React Native
 [Pismo](https://pismo.io/) | São Paulo, SP | Redux, MobX, RxJS, Jest
 [PLING](https://pling.net.br/) | Porto Alegre, RS | Next.js
