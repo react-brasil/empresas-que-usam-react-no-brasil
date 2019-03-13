@@ -195,6 +195,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [XP Investimentos](https://www.xpi.com.br/) | São Paulo, SP | Redux, Jest, React-Native
 [Yube](http://www.yube.com.br/) | São Paulo, SP | JSS, Apollo/GraphQL, Jest, Enzyme
 [Zap Imóveis](https://www.zapimoveis.com.br/) | São Paulo, SP | Redux, Jest, GraphQL
+[ZeroSoft](https://www.zerosoft.com.br/) | Ribeirão Preto, SP | Redux, Styled Components, Router, Material-UI, Webpack, Router, React Native, Monorepo
 [Zimp](https://zimp.me/) | São Paulo, SP |
 [Zup IT Innovation](http://www.zup.com.br/) | São Paulo, SP<br/>Uberlândia, MG | Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable
 [ZX Ventures](https://zx-ventures.com/) |  | React-Native, Redux, GraphQL, Apollo/Relay
