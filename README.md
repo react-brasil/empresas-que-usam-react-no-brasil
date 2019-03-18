@@ -132,7 +132,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Mooven Consulting](http://www.moovenconsulting.com.br) | São Paulo, SP | Redux
 [Multiware Tecnologia](http://multiwaretecnologia.com.br) | Sinop, MT | React Native, Redux
 [Napp Solutions](https://nappsolutions.com/) | Leme, SP | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
-[NG Informática](http://ngi.com.br) | Joinville, SC | Redux, MongoDB, Ramda, Functional Programming
+[NG Informática](https://www.ngi.com.br) | Joinville, SC | Redux, Ramda, GraphQL, Apollo, Flow, TypeScript, Material-UI, Flipper-UI, React Native, Expo, Styled Components, Docz, Gatsby, Cypress
 [NSC Comunicação](https://www.nsccomunicacao.com.br) | Florianópolis, SC | React Native, Next.js, Redux, Apollo, GraphQL, Ramda, Recompose, Functional Programming
 [Nubank](https://nubank.com.br/) | São Paulo, SP<br/>Campinas, SP<br/>Rio de Janeiro — RJ | React Native, GraphQL
 [Nuvem Shop](https://www.nuvemshop.com.br/) | São Paulo, SP<br/>Belo Horizonte — MG | React Native, Redux, Next.js, Docz
@@ -218,7 +218,9 @@ Moeda | https://moedaseeds.com | Gatsby, Recompose, Styled Components, React Rou
 Pilot | https://github.com/pagarme/pilot | CSS Modules, Storybook | [Pagar.me](https://pagar.me/)
 Pluks | https://pluks.com.br/ | Redux, React Native, Expo | [Pluks](https://www.pluks.com.br/)
 Storia Imóveis | https://www.storiaimoveis.com.br/ | Redux, Saga | [OLX Brasil](http://www.olx.com.br/)
-Rung | https://www.rung.com.br/ | Redux, MongoDB, Ramda, Functional Programming | [NG Informática](http://www.ngi.com.br/)
+Rung | https://www.rung.com.br/ | Redux, Ramda, Flow, React Native, Expo, Gatsby, Material-UI | [NG Informática](https://www.ngi.com.br/)
+Keepfy | https://keepfy.com | GraphQL, Apollo, Docz, TypeScript, React Native, Cypress, Flipper-UI, Styled Components  | [NG Informática](https://www.ngi.com.br/)
+
 ## Licença
 
 [MIT]
