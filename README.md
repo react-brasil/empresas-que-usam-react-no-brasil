@@ -5,6 +5,7 @@
 Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
 [Accenture](https://www.accenture.com/br-pt/careers/recife) | São Paulo, SP<br />Recife, PE | Redux, React Native
+[Agfa HealthCare Brasil](https://global.agfahealthcare.com/brazil)| Recife, PE | Redux, React Native, Redux Form
 [Agilize Contabilidade Online](https://www.agilize.com.br/)| Salvador, BA | Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
 [Agrotis](https://www.agrotis.com)| Curitiba, PR | Redux, Redux-Thunk, Styled Components, Storybook, Material-UI
 [allya](https://www.allya.com.br/) | São Paulo, SP | Redux, React Native
