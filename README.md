@@ -95,6 +95,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Ilegra](http://ilegra.com/)| São Paulo, SP<br/>Porto Alegre, RS | Redux, Saga, Styled Components
 [In Loco](http://inloco.com.br) | Recife, PE | React Native, Redux, GraphQL, Apollo, Jest, Enzyme, Deck&#46;gl, Mapbox, Leaflet, Semantic-UI, Storybook, Webpack
 [Incentive-me](https://www.incentive-me.com/) | Rio de Janeiro, RJ | MobX, JSS, Jest, Webpack, Storybook
+[inDecks](https://indecks.online) | Piracicaba, SP | Redux, Material-UI, Webpack, Redux-Thunk, Jest, GraphQL
 [Infracommerce](http://www.infracommerce.com.br/) | São Paulo, SP | Flux/Redux, Redux Saga, Redux Form, Webpack, Storybook
 [inGaia](http://www.ingaia.com.br/) | Campinas, SP | Redux, Redux Saga, Redux Form, Styled Components, Storybook, Jest
 [Instituto de Pesquisa Ambiental da Amazônia](http://ipam.org.br) |  | React Native, Redux, Redux-thunk, React-Router, Immutable.js, create-react-app, Material-UI
@@ -108,6 +109,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Jusbrasil](https://www.jusbrasil.com.br) | São Paulo, SP<br/>Salvador, BA | GraphQL, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
 [Krush](https://www.krush.com.br/) | Rio de Janeiro, RJ | React Native/Redux/Flux
 [kunst](https://kunst.com.br/) |   | Gatsby, Styled Components, Redux, GraphQL, Next.js, Apollo, React Native
+[Labfy](https://labfy.digital) | Leme, SP | Redux, Material-UI, Webpack, Redux-Thunk, Jest, GraphQL, MongoDB, Relay
 [Laborit](http://www.laborit.com.br/) | São Paulo, SP, Ribeirão Preto — SP | Redux
 [LaPag](https://lapag.com.br) | São Paulo, SP | Redux, Styled Components, Jest, Storybook, React Native
 [Light Up](http://mark-up.com.br/) | São Paulo, SP | Webpack, Styled Components
@@ -128,7 +130,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Monkey Exchange](https://www.monkey.exchange/) | São Paulo, SP | Redux, MobX
 [Mooven Consulting](http://www.moovenconsulting.com.br) | São Paulo, SP | Redux
 [Multiware Tecnologia](http://multiwaretecnologia.com.br) | Sinop, MT | React Native, Redux
-[Napp Solutions](https://nappsolutions.com/) |  | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
+[Napp Solutions](https://nappsolutions.com/) | Leme, SP | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 [NG Informática](http://ngi.com.br) | Joinville, SC | Redux, MongoDB, Ramda, Functional Programming
 [NSC Comunicação](https://www.nsccomunicacao.com.br) | Florianópolis, SC | React Native, Next.js, Redux, Apollo, GraphQL, Ramda, Recompose, Functional Programming
 [Nubank](https://nubank.com.br/) | São Paulo, SP<br/>Campinas, SP<br/>Rio de Janeiro — RJ | React Native, GraphQL
