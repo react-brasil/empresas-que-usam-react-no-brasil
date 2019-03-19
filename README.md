@@ -112,6 +112,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [kunst](https://kunst.com.br/) |   | Gatsby, Styled Components, Redux, GraphQL, Next.js, Apollo, React Native
 [Labfy](https://labfy.digital) | Leme, SP | Redux, Material-UI, Webpack, Redux-Thunk, Jest, GraphQL, MongoDB, Relay
 [Laborit](http://www.laborit.com.br/) | São Paulo, SP, Ribeirão Preto — SP | Redux
+[Labcodes](http://labcodes.com.br/) | Recife, PE | Redux, Styled Components, Storybook, Jest, GraphQL, Enzyme, Webpack, Firebase, Apollo, Recompose, React-Router, Cypress
 [LaPag](https://lapag.com.br) | São Paulo, SP | Redux, Styled Components, Jest, Storybook, React Native
 [Light Up](http://mark-up.com.br/) | São Paulo, SP | Webpack, Styled Components
 [Liv Up](https://www.livup.com.br/) | São Paulo, SP | Redux, React-Router, React Native, Webpack
