@@ -65,6 +65,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Entria](https://entria.com.br/) | São Paulo, SP | GraphQL, Redux, Relay, Saga, Styled Components
 [Escalaí - Startup](http://escalai.com.br/) | Rio de Janeiro, RJ | React Native
 [Escavador](https://www.escavador.com) | Salvador, BA | React Native, Redux, Redux-Thunk, Normalizr, Jest, Flow, Webpack
+[Escolha Tecnologia](https://www.escolhatecnologia.com.br/) | Presidente Prudente, SP | Flux, Redux, Redux-Thunk, React-Router, Material-UI, React Native, React Navigation
 [Eskolare](https://www.eskolare.com.br) | São Paulo, SP | Enzyme, Immutable, Jest, Redux, Reselect, Router, Saga, Styled Components
 [Eventials](https://www.eventials.com/) | Blumenau, SC | Redux, Jest, Styled Components, Docz, Material-ui
 [Evino](https://evino.com.br/https://entria.com.br/) | São Paulo, SP | Redux, Jest, CSS Modules
