@@ -152,6 +152,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [PLING](https://pling.net.br/) | Porto Alegre, RS | Next.js
 [Pragmatismo.io](http://pragmatismo.io) | Rio de Janeiro, RJ |
 [Printi](https://printi.com.br) | São Paulo, SP | Redux, RxJS
+[ProFUSION](https://profusion.mobi) | Campinas, SP | React Native, Redux, Redux Saga, GraphQL, Material-UI, Styled Components, Flow, TypeScript
 [Qualyteam](http://www.qualyteam.com/) | Balneário Camboriú, SC | Redux, Saga, Jest, Enzyme
 [QUANTO](https://contaquanto.com.br/) | São Paulo, SP | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 [Raise Sistemas](https://raisesistemas.com.br) | Rio de Janeiro, RJ | React Native
