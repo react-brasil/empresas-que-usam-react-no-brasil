@@ -53,6 +53,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Diebold Nixdorf](https://www.dieboldnixdorf.com.br/) | Indaiatuba, SP |
 [Digibee](https://www.digibee.com.br/) | São Paulo, SP | React-Native, Rematch, Redux, GraphQL, Styled Components
 [Digital Pages](https://portugues.digitalpages.com.br/) | São Paulo, SP |
+[Diin](https://diin.com.br/) | São Paulo, SP<br/>São Carlos, SP | React Native, Redux, Jest
 [Easynvest](https://www.easynvest.com.br/) | São Paulo, SP | Jest, Redux, ReduxForm, Ducks, Styled Components
 [Easy Carros](https://easycarros.com/) | São Paulo, SP | React-Native, Redux, Saga, GraphQL
 [EBANX](https://www.ebanx.com/br/carreiras) | Curitiba, PR  | Redux, React Native
