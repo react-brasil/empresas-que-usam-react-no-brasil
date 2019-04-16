@@ -63,7 +63,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [EloMilhas](https://elomilhas.com.br) | Recife, PE | Redux
 [eMasters](https://emastersapp.com/) | São Paulo, SP | NextJs, Redux, ReduxForm, Styled Components, React Native
 [eNe Soluções](http://enesolucoes.com.br/) | Uberlândia, MG | GraphQL, Jest, Next.js, React Native, Redux, Reselect
-[Entria](https://entria.com.br/) | São Paulo, SP | GraphQL, Redux, Relay, Saga, Styled Components
+[Entria](https://entria.com.br/) | São Paulo, SP | GraphQL, Relay, Styled Components, Jest, Formik, Webpack, Material-UI, React Native
 [Escalaí - Startup](http://escalai.com.br/) | Rio de Janeiro, RJ | React Native
 [Escavador](https://www.escavador.com) | Salvador, BA | React Native, Redux, Redux-Thunk, Normalizr, Jest, Flow, Webpack
 [Escolha Tecnologia](https://www.escolhatecnologia.com.br/) | Presidente Prudente, SP | Flux, Redux, Redux-Thunk, React-Router, Material-UI, React Native, React Navigation
@@ -72,6 +72,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Evino](https://evino.com.br/https://entria.com.br/) | São Paulo, SP | Redux, Jest, CSS Modules
 [Evolux](https://www.evolux.net.br/) | Natal, RN | Redux, Jest, MobX, WebRTC
 [Faicon](https://www.faicon.com/) | Rio de Janeiro, SP | MobX, JSS, Jest, Webpack, Storybook
+[Feedback House](https://feedback.house/) | São Paulo, SP | GraphQL, Relay, Styled Components, Jest, Formik, Webpack, Material-UI, React Native
 [Fortes Tecnologia em Sistemas](https://www.fortestecnologia.com.br) | Fortaleza, CE | Redux, Router
 [Fractal Tecnologia](http://www.fractaltecnologia.com.br) | João Pessoa, PB | Redux, Redux-Thunk, Jest
 [Fred](https://fredbots.com/) | São Paulo, SP | Redux, Redux Thunk
