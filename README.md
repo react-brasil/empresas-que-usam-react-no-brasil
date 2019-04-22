@@ -21,6 +21,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Arquivei](https://www.arquivei.com.br/) | São Carlos, SP | Redux, ImmutableJS, Redux Thunk, Styled Components, Jest, Webpack, Next.js
 [Astrocoders](https://astrocoders.com) | Sorocaba, SP | GraphQL, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor
 [Audora Gerencial](http://www.audora.com.br/audora/index.html)| Maceió, AL | Redux
+[Autopass](http://www.autopass.com.br/)| São Paulo, SP | React Native, Redux, Jest, Styled Components, Recompose, Redux Thunk, Firebase, Reselect, Redux Form
 [B2W](https://ri.b2w.digital/)| Rio de Janeiro, RJ<br/>São Paulo, SP | React Native, Redux, Jest, Immutable
 [BeeTech](https://www.beetech.global) | São Paulo, SP | Jest, Redux, Functional Programming, Styled Components
 [Beleza Na Web](https://www.belezanaweb.com.br/) | São Paulo, SP | Redux, React Native, Styled Components, Jest
