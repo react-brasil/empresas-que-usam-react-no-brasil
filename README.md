@@ -129,6 +129,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Matera](http://www.matera.com/br/) | Campinas, SP | Redux, Flux, Enzyme, Redux-Thunk, Mocha, Router
 [MaxMilhas](https://www.maxmilhas.com.br/) | Belo Horizonte, MG | Redux, React Native
 [Menthor](http://www.menthor.net/) | Vitória, ES | Redux, Mongo DB, elasticsearch
+[Méliuz](https://www.meliuz.com.br/) | Belo Horizonte, MG<br/>Manaus, AM | React Native, Redux, Next.js, Styled Components, Jest
 [Mercado Livre](https://www.mercadolivre.com.br/) | São Paulo, SP | GraphQL, Redux
 [Meu Despachante](https://meudespachante.com.br/)| Sorocaba, SP | Redux, Redux Thunk, Router, Styled Components, Typescript, Ant UI
 [Meus Pedidos](https://www.meuspedidos.com.br/) | Joinville, SC | Redux
