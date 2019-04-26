@@ -9,7 +9,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Agilize Contabilidade Online](https://www.agilize.com.br/)| Salvador, BA | Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
 [Agrotis](https://www.agrotis.com)| Curitiba, PR | Redux, Redux-Thunk, Styled Components, Storybook, Material-UI
 [allya](https://www.allya.com.br/) | São Paulo, SP | Redux, React Native
-[Alumy](https://alumy.com) | Sorocaba, SP | Redux, Redux Form, React Native, ReactJS
+[Alumy](https://alumy.com) | Sorocaba, SP | Redux, Redux Form, React Native
 [AMARO](https://amaro.com/) | São Paulo, SP | Redux, RxJS
 [AMERICANAS](https://www.americanas.com.br/) | São Paulo, SP |
 [ANTIDOTO DESIGN E TECNOLOGIA](https://www.antidotodesign.com.br/) | São Paulo, SP | React-Native, Redux, Feathersjs, Mongodb, Gunjs, Meteor
