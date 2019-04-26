@@ -201,6 +201,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [VTEX](https://pt.vtex.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Apollo GraphQL, Jest, React Native
 [Wealth Systems](http://wssim.com.br) | Cascavel, PR | Immutable
 [Webedia](http://webedia.com.br/) | Rio de Janeiro, RJ | Redux, Jest, GraphQL
+[WebJump](http://www.webjump.com.br) | São Paulo, SP | GraphQL, Redux, Hooks, Styled Components, Router, Apollo, Jest, React Native, Enzyme
 [Welearn](https://br.welearnit.co) |  |
 [Wevo](https://www.wevo.com.br) | São Paulo, SP<br/>Florianópolis, SC | RxJS
 [Wine.com.br](https://www.wine.com.br) | Vitória, ES | React Native, Redux, Redux Thunk, Immutable
