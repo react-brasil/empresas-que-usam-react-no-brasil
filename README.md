@@ -161,6 +161,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [ProFUSION](https://profusion.mobi) | Campinas, SP | React Native, Redux, Redux Saga, GraphQL, Material-UI, Styled Components, Flow, TypeScript
 [Qualyteam](http://www.qualyteam.com/) | Balneário Camboriú, SC | Redux, Saga, Jest, Enzyme
 [QUANTO](https://contaquanto.com.br/) | São Paulo, SP | React Native, GraphQL, Relay, Redux, Jest, Styled Components
+[QuintoAndar](https://quintoandar.com.br) | São Paulo, SP | Redux, Jest, Styled Components
 [Raise Sistemas](https://raisesistemas.com.br) | Rio de Janeiro, RJ | React Native
 [Requisittus](https://requisittus.com.br) | Lajeado, RS | Redux, Router
 [Rivendel](https://rivendel.com.br/) | São Paulo, SP | Treinamento/consultoria aos clientes e produtos internos com Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
