@@ -7,4 +7,4 @@
 * Não coloque "React" na coluna "Tecnologias Relacionadas"
 * Coloque uma cidade por linha, exemplo: 'Rio de Janeiro, RJ<br/>São Paulo, SP'
 * Coloque apenas cidades brasileiras
-* Uilize a versão MOBILE.md caso tenha um celular.
+* Ao adicionar uma nova empresa ou projeto, lembre-se de alimentar tanto o README.md como o MOBILE.md
