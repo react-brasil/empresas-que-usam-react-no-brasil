@@ -95,6 +95,10 @@ Redux, React Native, Styled Components, Jest
 Brasília, DF - Uberlândia, MG                            
 React Native, Redux, React VR
 
+[BitX Software House](https://bybitx.com/)                                    
+Belém, PA                                    
+React Native, Router, Hooks, Context API                                    
+
 [BovControl](https://bovcontrol.com)  
 São Paulo, SP  
 Redux, Saga, MobX
