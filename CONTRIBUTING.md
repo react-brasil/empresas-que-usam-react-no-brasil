@@ -7,3 +7,4 @@
 * Não coloque "React" na coluna "Tecnologias Relacionadas"
 * Coloque uma cidade por linha, exemplo: 'Rio de Janeiro, RJ<br/>São Paulo, SP'
 * Coloque apenas cidades brasileiras
+* A versão MOBILE.md foi criada para melhorar a acessebilidade para celulares.
