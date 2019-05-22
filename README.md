@@ -1,4 +1,5 @@
 # Empresas que usam React no Brasil
+[Para versão mobile acesse aqui.](#MOBILE.md)
 
 > OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/blob/master/CONTRIBUTING.md)
 
