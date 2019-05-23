@@ -124,6 +124,10 @@ CSS Modules, Jest, Redux, Storybook, Webpack
 São Paulo, SP - Uberlândia, MG  
 React-Native, Redux
 
+[Cheesecake Labs](https://cheesecakelabs.com/)
+Florianópolis, SC
+Redux, React Native, Next, Webpack, Storybook, PostCSS
+
 [Climatempo](https://www.climatempo.com.br/)  
 São Paulo, SP  
 React Native, Redux
