@@ -801,6 +801,10 @@ São Paulo, SP
 São Paulo, SP  
 Redux, Saga
 
+[Vinta Software](https://vintasoftware.com/)
+Recife, PE
+Redux, Redux Saga, Redux Thunk, React Router, Jest, Enzyme, Webpack, Prettier, ESLint, Styled Components, Formik, Redux Form, ImmutableJS, Normalizr
+
 [Vizir Software Studio](https://vizir.com.br/)  
 São Paulo, SP  
 React Native, Redux, Apollo/GraphQL, Jest, Detox(e2e), Styled Components
