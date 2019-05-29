@@ -803,7 +803,7 @@ Redux, Saga
 
 [Vinta Software](https://vintasoftware.com/)  
 Recife, PE  
-Redux, Redux Saga, Redux Thunk, React Router, Jest, Enzyme, Webpack, Prettier, ESLint, Styled Components, Formik, Redux Form, ImmutableJS, Normalizr
+ESLint, Enzyme, Formik, ImmutableJS, Jest, Next.js, Normalizr, Prettier, React Router, Redux, Redux Form, Redux Saga, Redux Thunk, Styled Components, Webpack
 
 [Vizir Software Studio](https://vizir.com.br/)  
 São Paulo, SP  
