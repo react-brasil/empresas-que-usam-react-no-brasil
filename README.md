@@ -125,6 +125,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Laborit](http://www.laborit.com.br/) | São Paulo, SP, Ribeirão Preto — SP | Redux
 [Labcodes](http://labcodes.com.br/) | Recife, PE | Redux, Styled Components, Storybook, Jest, GraphQL, Enzyme, Webpack, Firebase, Apollo, Recompose, React-Router, Cypress
 [LaPag](https://lapag.com.br) | São Paulo, SP | Redux, Styled Components, Jest, Storybook, React Native
+[Liferay](https://liferay.com) | Recife, PE | Formik, Jest, GraphQL, Redux, Webpack
 [Light Up](http://mark-up.com.br/) | São Paulo, SP | Webpack, Styled Components
 [Liv Up](https://www.livup.com.br/) | São Paulo, SP | Redux, React-Router, React Native, Webpack
 [Loggi](http://www.loggi.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, MG  | React Native, React Native Web, CSS Modules, Styled Components, React-Router, GraphQL, Relay, Redux, Redux-Thunk, Redux-forms, Enzyme, Jest, Storybook (Web/Native), Webpack, NightwatchJS, MS appcenter (code-push)
