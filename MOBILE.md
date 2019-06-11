@@ -603,6 +603,10 @@ São Paulo, SP  GraphQL, Apollo, Saga, Glamorous
 São Paulo, SP - Belo Horizonte, MG - Rio de Janeiro, RJ  
 Redux, Reflux, Storybook
 
+[OSBR](https://www.osbr.com.br/)  
+São Paulo, SP
+GraphQL, MongoDb, Redux, React Native
+
 #
 
 [Pagar.me](https://pagar.me/)                                      
