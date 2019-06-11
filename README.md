@@ -154,6 +154,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [OLX](http://www.olx.com.br/) | São Paulo, SP<br/>Belo Horizonte, MG<br/>Rio de Janeiro, RJ | Redux, Saga
 [OneMarket](https://onemarket.com.br) | São Paulo, SP | GraphQL, Apollo, Saga, Glamorous
 [Oi](https://oi.com.br/) | São Paulo, SP<br/>Belo Horizonte, MG<br/>Rio de Janeiro, RJ | Redux, Reflux, Storybook
+[OSBR](https://www.osbr.com.br) | São Paulo, SP | GraphQL, MongoDb, Redux, React Native
 [Pagar.me](https://pagar.me/) | São Paulo, SP | Redux, CSS Modules, Storybook
 [PagSeguro](https://www.pagseguro.com.br/) | São Paulo, SP | Redux, Observable, Inferno
 [Pague Menos](https://www.paguemenos.com.br/) | | Redux, Saga
