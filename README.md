@@ -81,7 +81,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Faicon](https://www.faicon.com/) | Rio de Janeiro, SP | MobX, JSS, Jest, Webpack, Storybook
 [Feedback House](https://feedback.house/) | São Paulo, SP | GraphQL, Relay, Styled Components, Jest, Formik, Webpack, Material-UI, React Native
 [Fortes Tecnologia em Sistemas](https://www.fortestecnologia.com.br) | Fortaleza, CE | Redux, Router
-[Foton](https://www.fotontech.io) | Florianópolis, SC | GraphQL, Apollo, Styled Components, Jest, Formik, React Native
+[Foton](https://fotontech.io) | Florianópolis, SC | GraphQL, Relay, Apollo, Styled Components, Jest, Formik, React Native, Webpack
 [Fractal Tecnologia](http://www.fractaltecnologia.com.br) | João Pessoa, PB | Redux, Redux-Thunk, Jest
 [Fred](https://fredbots.com/) | São Paulo, SP | Redux, Redux Thunk
 [Geekie](http://www.geekie.com.br/) | São Paulo, SP | React Native
