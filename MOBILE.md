@@ -481,6 +481,10 @@ São Paulo, SP, Ribeirão Preto — SP  Redux
 Recife, PE  
 Redux, Styled Components, Storybook, Jest, GraphQL, Enzyme, Webpack, Firebase, Apollo, Recompose, React-Router, Cypress
 
+[Letrus](https://www.letrus.com.br)
+São Paulo, SP
+Redux, ImmutableJS, Styleguidist, Webpack, Jest, Enzyme
+
 [LaPag](https://lapag.com.br)  
 São Paulo, SP  
 Redux, Styled Components, Jest, Storybook, React Native
