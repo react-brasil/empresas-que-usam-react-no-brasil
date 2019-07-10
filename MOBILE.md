@@ -53,10 +53,6 @@ React Native, Redux
 Salvador, BA  
 Redux, Jest, React Native, Reactotron, GraphQL, Redux Saga, Webpack, Next.js
 
-[Arena.im](https://arena.im)  
-Uberlândia, MG  
-React Native, Redux, Redux Observable, RxJS, Firebase, Jest, Flow, NativeBase
-
 [Arizona Marketing Flow](https://www.arizona.global/)  
 São Paulo, SP  
 Redux, RxJS
