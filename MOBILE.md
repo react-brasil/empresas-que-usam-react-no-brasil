@@ -485,6 +485,10 @@ Redux, Styled Components, Storybook, Jest, GraphQL, Enzyme, Webpack, Firebase, A
 São Paulo, SP  
 Redux, Styled Components, Jest, Storybook, React Native
 
+[Letrus](https://www.letrus.com.br)
+São Paulo, SP
+Redux, ImmutableJS, Styleguidist, Webpack, Jest, Enzyme
+
 [Liferay](https://liferay.com)
 Recife, PE
 Formik, Jest, GraphQL, Redux, Webpack
