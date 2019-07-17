@@ -198,6 +198,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Taqtile](https://www.taqtile.com.br/) | São Paulo, SP | React Native, MobX, GraphQL, Storybook, Styled Components, Jest
 [Teclógica](https://www.teclogica.com.br/) | Blumenau, SC | Redux, Redux-Thunk, Router, Webpack, Material-UI, create-react-app
 [Tegra](https://tegra.com.br/) | Sorocaba, SP<br/>São Paulo, SP  | React Native, Typescript, Jest, Enzyme, Recompose, Rxjs, Docz
+[Teravoz](https://teravoz.com.br) | São Paulo, SP  | React, Redux, TypeScript, Jest, AVA, SASS, Material-UI, Hooks
 [Timcoo](http://timcoo.com.br) | Belo Horizonte, MG | Redux, Redux Thunk
 [TOTVS](https://www.totvs.com/home) | São Paulo, SP |
 [Trackmob](https://www.trackmob.com.br/) | Curitiba, PR | Redux, Router, React-Native
