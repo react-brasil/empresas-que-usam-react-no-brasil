@@ -339,6 +339,10 @@ React Native
 Sorocaba, SP  
 CSS Modules, Jest, Redux, Storybook, Webpack
 
+[Go Backlog](https://gobacklog.com/)  
+Governador Valadares, MG  
+Jest, Storybook, Reach Router, Styled Components, Webpack
+
 [GreenMile](http://greenmile.com/)  
 Fortaleza, CE  
 Redux, Jest, Saga
