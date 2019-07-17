@@ -341,7 +341,7 @@ CSS Modules, Jest, Redux, Storybook, Webpack
 
 [Go Backlog](https://gobacklog.com/)  
 Governador Valadares, MG  
-Jest, Storybook, Reach Router, Styled Components, Webpack
+Jest, Storybook, Reach Router, Styled Components, Parcel
 
 [GreenMile](http://greenmile.com/)  
 Fortaleza, CE  
