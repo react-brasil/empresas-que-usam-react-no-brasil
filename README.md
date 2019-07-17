@@ -18,7 +18,6 @@ Nome | Cidade | Tecnologias Relacionadas
 [App Masters](https://appmasters.io) | Juiz de Fora, MG | React Native, Redux, Sagas, Firebase, Jest, Flow, Material-UI
 [Appmoove](http://appmoove.com.br) | Campo Mourão, PR | React Native, Redux
 [AQUARELA](https://aquarela.studio/) | Salvador, BA | Redux, Jest, React Native, Reactotron, GraphQL, Redux Saga, Webpack, Next.js
-[Arena.im](https://arena.im) | Uberlândia, MG | React Native, Redux, Redux Observable, RxJS, Firebase, Jest, Flow, NativeBase
 [Arizona Marketing Flow](https://www.arizona.global/) | São Paulo, SP | Redux, RxJS
 [Arquivei](https://www.arquivei.com.br/) | São Carlos, SP | Redux, ImmutableJS, Redux Thunk, Styled Components, Jest, Webpack, Next.js
 [Astrocoders](https://astrocoders.com) | Sorocaba, SP | GraphQL, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor
@@ -182,6 +181,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Segware](https://www.segware.com.br) | Florianópolis, SC | React Native, Styled Components, RxJS
 [Shawee](https://shawee.io) | São Paulo, SP | Redux, Apollo/GraphQL
 [sigalei](https://sigalei.com.br) | São Carlos, SP | Redux, Relay, GraphQL, Material-UI
+[Softbox/LuizaLabs](https://softbox.com.br) | Uberlândia, MG | Redux, Firebase, Jest, Styled Components, Material-UI, create-react-app, Immutable
 [Softplan](https://www.softplan.com.br/) | Florianópolis, SC | Redux, ReactNative
 [Softin Sistemas](https://softin.com.br/) | Joinville, SC | Redux
 [Som Livre](https://www.somlivre.com/) | Rio de Janeiro, RJ | React Native

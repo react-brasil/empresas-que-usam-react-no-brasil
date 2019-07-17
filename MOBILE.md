@@ -53,10 +53,6 @@ React Native, Redux
 Salvador, BA  
 Redux, Jest, React Native, Reactotron, GraphQL, Redux Saga, Webpack, Next.js
 
-[Arena.im](https://arena.im)  
-Uberlândia, MG  
-React Native, Redux, Redux Observable, RxJS, Firebase, Jest, Flow, NativeBase
-
 [Arizona Marketing Flow](https://www.arizona.global/)  
 São Paulo, SP  
 Redux, RxJS
@@ -715,6 +711,10 @@ Redux, Apollo/GraphQL
 [sigalei](https://sigalei.com.br)  
 São Carlos, SP  
 Redux, Relay, GraphQL, Material-UI
+
+[Softbox/LuizaLabs](https://www.softbox.com.br/)  
+Uberlândia, MG
+Redux, Firebase, Jest, Styled Components, Material-UI, create-react-app, Immutable
 
 [Softplan](https://www.softplan.com.br/)  
 Florianópolis, SC  
