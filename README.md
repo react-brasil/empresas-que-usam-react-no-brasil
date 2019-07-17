@@ -179,6 +179,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Secretaria Municipal da Educação da Prefeitura de Fortaleza](http://sme.fortaleza.ce.gov.br) | Fortaleza, CE | React Native, Redux, Saga, ImmutableJS, Lodash
 [Seeds](https://www.seeds.no) | Vitória, ES | Redux, Saga, Mobx, Lodash, Observable, Router, Ramda, Webpack, Router, Reselect, Typescript
 [Segware](https://www.segware.com.br) | Florianópolis, SC | React Native, Styled Components, RxJS
+[Serasa consumidor](https://www.serasaconsumidor.com.br) | Blumenau, SC | Redux, Saga, Next, CSS Modules, Jest, Enzyme, Hooks, Ramda, ESLint(Airbnb), Monorepo
 [Shawee](https://shawee.io) | São Paulo, SP | Redux, Apollo/GraphQL
 [sigalei](https://sigalei.com.br) | São Carlos, SP | Redux, Relay, GraphQL, Material-UI
 [Softbox/LuizaLabs](https://softbox.com.br) | Uberlândia, MG | Redux, Firebase, Jest, Styled Components, Material-UI, create-react-app, Immutable
