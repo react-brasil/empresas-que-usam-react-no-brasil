@@ -779,6 +779,10 @@ Redux, Redux-Thunk, Router, Webpack, Material-UI, create-react-app
 Sorocaba, SP - São Paulo, SP   
 React Native, Typescript, Jest, Enzyme, Recompose, Rxjs, Docz
 
+[Teravoz](https://teravoz.com.br)
+São Paulo, SP
+Redux, TypeScript, Jest, AVA, SASS, Material-UI, Hooks
+
 [Timcoo](http://timcoo.com.br)               
 Belo Horizonte, MG  
 Redux, Redux Thunk
