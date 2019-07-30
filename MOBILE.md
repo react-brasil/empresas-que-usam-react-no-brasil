@@ -818,6 +818,10 @@ Redux, React Native, Jest
 São Paulo, SP  
 Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components, Router, React Testing Library, Webpack, Docz, Micro Frontends / Serveless, GraphQL/Relay, Next.js, Husk
 
+[Venturi X Soluções em TI](https://www.vntrx.com)  
+São Paulo, SP  
+React Native, Redux, Redux-Thunk, Redux Form, Jest, Webpack, Next.js, Docz, GraphQL, Apollo, Flow, TypeScript, Ant-UI, Material-UI, Flipper-UI, Styled Components, Gatsby, Cypress
+
 [Vérios Investimentos](https://www.verios.com.br/)  
 São Paulo, SP 
 
