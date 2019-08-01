@@ -541,6 +541,9 @@ React Native, Redux, Next.js, Styled Components, Jest
 São Paulo, SP  
 GraphQL, Redux
 
+[Metalúrgica Padre Cícero](http://www.metalurgicapadrecicero.ml/)
+Angical do Piauí, PI
+
 [Meu Despachante](https://meudespachante.com.br/)                                            
 Sorocaba, SP        
 Redux, Redux Thunk, Router, Styled Components, Typescript, Ant UI
