@@ -129,7 +129,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Letrus](https://www.letrus.com.br) | São Paulo, SP | Redux, ImmutableJS, Styleguidist, Webpack, Jest, Enzyme
 [Liferay](https://liferay.com) | Recife, PE | Formik, Jest, GraphQL, Redux, Webpack
 [Light Up](http://mark-up.com.br/) | São Paulo, SP | Webpack, Styled Components
-[Liv Up](https://www.livup.com.br/) | São Paulo, SP | Redux, React-Router, React Native, Webpack
+[Liv Up](https://www.livup.com.br/) | São Paulo, SP | Next.js, Redux, Styled Components, GraphQL, React-Router, Webpack, Storybook, Cypress, React Native
 [Loggi](http://www.loggi.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, MG  | React Native, React Native Web, CSS Modules, Styled Components, React-Router, GraphQL, Relay, Redux, Redux-Thunk, Redux-forms, Enzyme, Jest, Storybook (Web/Native), Webpack, NightwatchJS, MS appcenter (code-push)
 [Logicalis](https://www.la.logicalis.com/pt-Latam/) |  | Redux, Redux-Thunk, Jest, Enzyme, create-react-app
 [Loldesign](https://www.loldesign.com.br) | São Paulo, SP |
