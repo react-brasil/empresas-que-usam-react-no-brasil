@@ -499,7 +499,7 @@ Webpack, Styled Components
 
 [Liv Up](https://www.livup.com.br/)  
 São Paulo, SP  
-Redux, React-Router, React Native, Webpack
+Next.js, Redux, Styled Components, GraphQL, React-Router, Webpack, Storybook, Cypress, React Native
 
 [Loggi](http://www.loggi.com/)  
 São Paulo, SP - Rio de Janeiro, RJ - Belo Horizonte, MG   
