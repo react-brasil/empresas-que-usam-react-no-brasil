@@ -140,6 +140,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Menthor](http://www.menthor.net/) | Vitória, ES | Redux, Mongo DB, elasticsearch
 [Méliuz](https://www.meliuz.com.br/) | Belo Horizonte, MG<br/>Manaus, AM | React Native, Redux, Next.js, Styled Components, Jest
 [Mercado Livre](https://www.mercadolivre.com.br/) | São Paulo, SP | GraphQL, Redux
+[Metalúrgica Padre Cícero](http://www.metalurgicapadrecicero.ml/) | Angical do Piauí, PI |
 [Meu Despachante](https://meudespachante.com.br/)| Sorocaba, SP | Redux, Redux Thunk, Router, Styled Components, Typescript, Ant UI
 [Meus Pedidos](https://www.meuspedidos.com.br/) | Joinville, SC | Redux
 [Ministério Público do Estado do Rio de Janeiro](https://apps.mprj.mp.br/sistema/inloco/) | Rio de Janeiro, RJ | GeoServer, Leaflet, Chart.js, Intro.js
