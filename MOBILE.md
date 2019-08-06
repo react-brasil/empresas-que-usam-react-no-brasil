@@ -808,8 +808,6 @@ Redux, Jest, Saga
 Paulínia, SP  
 Redux, React Native, Router, Firebase, NativeBase
 
-#
-
 [UPX Technologies](https://www.upx.com/)                                         
 Campinas, SP  
 Redux, Router, Jest, Gatsby
