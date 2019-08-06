@@ -804,6 +804,10 @@ Redux, Jest, Saga
 
 #
 
+[Unbanked Pagamentos](https://www.unbanked.com.br)                                         
+Paulínia, SP  
+Redux, React Native, Router, Firebase, NativeBase
+
 [UPX Technologies](https://www.upx.com/)                                         
 Campinas, SP  
 Redux, Router, Jest, Gatsby

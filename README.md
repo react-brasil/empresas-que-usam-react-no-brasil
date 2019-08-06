@@ -205,6 +205,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Trackmob](https://www.trackmob.com.br/) | Curitiba, PR | Redux, Router, React-Native
 [TradersClub](https://tradersclub.com.br) | São Paulo, SP | ReactNative, Redux Thunk, Router, Webpack
 [Trilogo](https://www.trilogo.com.br/) | Fortaleza, CE | Redux, Jest, Saga
+[Unbanked Pagamentos](https://www.unbanked.com.br) | Paulínia, SP | Redux, React Native, Router, Firebase, NativeBase
 [UPX Technologies](https://www.upx.com/) | Campinas, SP | Redux, Router, Jest, Gatsby
 [Vagalume](https://www.vagalume.com.br/) | São Paulo, SP | Redux, React Native, Jest
 [Vagas.com](https://www.vagas.com.br/trabalhe-conosco/oportunidades) | São Paulo, SP | Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components, Router, React Testing Library, Webpack, Docz, Micro Frontends / Serveless, GraphQL/Relay, Next.js, Husk
