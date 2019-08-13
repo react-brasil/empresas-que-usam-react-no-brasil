@@ -461,6 +461,10 @@ GraphQL, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webp
 
 #
 
+[KeepClear](https://www.keepclear.com.br/)
+São Paulo, SP
+Hooks, Router, GraphQL, Apollo, TypeScript, Styled Components, Grommet.io, Jest, Enzyme
+
 [Krush](https://www.krush.com.br/)  
 Rio de Janeiro, RJ  
 React Native/Redux/Flux
