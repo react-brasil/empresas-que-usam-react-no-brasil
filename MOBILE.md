@@ -461,13 +461,9 @@ GraphQL, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webp
 
 #
 
-[KeepClear](https://www.keepclear.com.br/)
-São Paulo, SP
+[KeepClear](https://www.keepclear.com.br/)                                       
+São Paulo, SP                   
 Hooks, Router, GraphQL, Apollo, TypeScript, Styled Components, Grommet.io, Jest, Enzyme
-
-[Kiper](https://kiper.com.br/trabalhe-conosco/) 
-Florianópolis, SC 
-React Native
 
 [Krush](https://www.krush.com.br/)  
 Rio de Janeiro, RJ  
@@ -755,7 +751,7 @@ Redux, React Native
 [Startaê](https://startae.com/)    
 Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
 
-[stq digital](https://stqpublicidade.com.br/)  
+[STQ Digital](https://stqpublicidade.com.br/)  
 São Paulo, SP  React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 
 [Studio Sol](https://www.studiosol.com.br/)  
