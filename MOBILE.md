@@ -120,8 +120,8 @@ CSS Modules, Jest, Redux, Storybook, Webpack
 São Paulo, SP - Uberlândia, MG  
 React-Native, Redux
 
-[Cheesecake Labs](https://cheesecakelabs.com/)
-Florianópolis, SC
+[Cheesecake Labs](https://cheesecakelabs.com/)                
+Florianópolis, SC                       
 Redux, React Native, Next, Webpack, Storybook, PostCSS
 
 [Climatempo](https://www.climatempo.com.br/)  
@@ -461,13 +461,9 @@ GraphQL, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webp
 
 #
 
-[KeepClear](https://www.keepclear.com.br/)
-São Paulo, SP
+[KeepClear](https://www.keepclear.com.br/)                                       
+São Paulo, SP                   
 Hooks, Router, GraphQL, Apollo, TypeScript, Styled Components, Grommet.io, Jest, Enzyme
-
-[Kiper](https://kiper.com.br/trabalhe-conosco/) 
-Florianópolis, SC 
-React Native
 
 [Krush](https://www.krush.com.br/)  
 Rio de Janeiro, RJ  
@@ -493,12 +489,12 @@ Redux, Styled Components, Storybook, Jest, GraphQL, Enzyme, Webpack, Firebase, A
 São Paulo, SP  
 Redux, Styled Components, Jest, Storybook, React Native
 
-[Letrus](https://www.letrus.com.br)
-São Paulo, SP
+[Letrus](https://www.letrus.com.br)          
+São Paulo, SP          
 Redux, ImmutableJS, Styleguidist, Webpack, Jest, Enzyme
 
-[Liferay](https://liferay.com)
-Recife, PE
+[Liferay](https://liferay.com)         
+Recife, PE                
 Formik, Jest, GraphQL, Redux, Webpack
 
 [Light Up](http://mark-up.com.br/)  
@@ -716,15 +712,15 @@ Redux, Saga, Mobx, Lodash, Observable, Router, Ramda, Webpack, Router, Reselect,
 Florianópolis, SC     
 React Native, Styled Components, RxJS
 
-[Serasa consumidor](https://www.serasaconsumidor.com.br)
-Blumenau, SC
+[Serasa Consumidor](https://www.serasaconsumidor.com.br)        
+Blumenau, SC           
 Redux, Saga, Next, CSS Modules, Jest, Enzyme, Hooks, Ramda, ESLint(Airbnb), Monorepo
 
 [Shawee](https://shawee.io)  
 São Paulo, SP  
 Redux, Apollo/GraphQL
 
-[sigalei](https://sigalei.com.br)  
+[Sigalei](https://sigalei.com.br)  
 São Carlos, SP  
 Redux, Relay, GraphQL, Material-UI
 
@@ -755,7 +751,7 @@ Redux, React Native
 [Startaê](https://startae.com/)    
 Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
 
-[stq digital](https://stqpublicidade.com.br/)  
+[STQ Digital](https://stqpublicidade.com.br/)  
 São Paulo, SP  React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 
 [Studio Sol](https://www.studiosol.com.br/)  
@@ -787,8 +783,8 @@ Redux, Redux-Thunk, Router, Webpack, Material-UI, create-react-app
 Sorocaba, SP - São Paulo, SP   
 React Native, Typescript, Jest, Enzyme, Recompose, Rxjs, Docz
 
-[Teravoz](https://teravoz.com.br)
-São Paulo, SP
+[Teravoz](https://teravoz.com.br)      
+São Paulo, SP             
 Redux, TypeScript, Jest, AVA, SASS, Material-UI, Hooks
 
 [Timcoo](http://timcoo.com.br)               
