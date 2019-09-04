@@ -708,6 +708,10 @@ Redux, Router, Ramda, Jest e Form.
 Fortaleza, CE                                              
 React Native, Redux, Saga, ImmutableJS, Lodash
 
+[Secrel](https://secrel.com.br/)                            
+Fortaleza, CE                                              
+Hooks, React Native, Redux, Saga, Styled Components, Router, Jest, Enzyme, React Testing Library, Cypress, Storybook, Material-UI
+
 [Seeds](https://www.seeds.no)                                                             
 Vitória, ES                                           
 Redux, Saga, Mobx, Lodash, Observable, Router, Ramda, Webpack, Router, Reselect, Typescript

@@ -181,6 +181,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Samba Tech](https://sambatech.com/) | Belo Horizonte, MG |
 [Sciensa](http://sciensa.com/) | São Paulo, SP | Redux, Router, Ramda, Jest e Form.
 [Secretaria Municipal da Educação da Prefeitura de Fortaleza](http://sme.fortaleza.ce.gov.br) | Fortaleza, CE | React Native, Redux, Saga, ImmutableJS, Lodash
+[Secrel](https://secrel.com.br/) | Fortaleza, CE | Hooks, React Native, Redux, Saga, Styled Components, Router, Jest, Enzyme, React Testing Library, Cypress, Storybook, Material-UI
 [Seeds](https://www.seeds.no) | Vitória, ES | Redux, Saga, Mobx, Lodash, Observable, Router, Ramda, Webpack, Router, Reselect, Typescript
 [Segware](https://www.segware.com.br) | Florianópolis, SC | React Native, Styled Components, RxJS
 [Serasa consumidor](https://www.serasaconsumidor.com.br) | Blumenau, SC | Redux, Saga, Next, CSS Modules, Jest, Enzyme, Hooks, Ramda, ESLint(Airbnb), Monorepo
