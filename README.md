@@ -257,7 +257,7 @@ Keepfy | https://keepfy.com | GraphQL, Apollo, Docz, TypeScript, React Native, C
 [MIT]
 
 ## Slack
-https://react.now.sh (+6k membros!)
+https://react.now.sh (+7k membros!)
 
 ## Core members
 
