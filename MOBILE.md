@@ -298,6 +298,9 @@ MobX, JSS, Jest, Webpack, Storybook
 São Paulo, SP  
 GraphQL, Relay, Styled Components, Jest, Formik, Webpack, Material-UI, React Native
 
+[Fortbrasil](https://www.fortbrasil.com.br/)  
+Fortaleza, CE  Redux, React Native, Styled Components
+
 [Fortes Tecnologia em Sistemas](https://www.fortestecnologia.com.br)  
 Fortaleza, CE  Redux, Router
 
