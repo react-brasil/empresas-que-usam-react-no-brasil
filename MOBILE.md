@@ -834,7 +834,7 @@ Redux, React Native, Jest
 São Paulo, SP  
 Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components, Router, React Testing Library, Webpack, Docz, Micro Frontends / Serveless, GraphQL/Relay, Next.js, Husk
 
-[Venda.la](https://www.vntrx.com)  
+[Venda.la](https://www.vendala.com.br)  
 Ribeirão Preto, SP  
 React Native, Redux, ReduxSaga
 
