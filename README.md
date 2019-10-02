@@ -14,7 +14,6 @@ Nome | Cidade | Tecnologias Relacionadas
 [AMARO](https://amaro.com/) | São Paulo, SP | Redux, RxJS
 [AMERICANAS](https://www.americanas.com.br/) | São Paulo, SP |
 [ANTIDOTO DESIGN E TECNOLOGIA](https://www.antidotodesign.com.br/) | São Paulo, SP | React-Native, Redux, Feathersjs, Mongodb, Gunjs, Meteor
-[App2Sales](http://app2sales.com) | Feira de Santana, Bahia | React Native, Redux, Sagas
 [App Masters](https://appmasters.io) | Juiz de Fora, MG | React Native, Redux, Sagas, Firebase, Jest, Flow, Material-UI
 [Appmoove](http://appmoove.com.br) | Campo Mourão, PR | React Native, Redux
 [AQUARELA](https://aquarela.studio/) | Salvador, BA | Redux, Jest, React Native, Reactotron, GraphQL, Redux Saga, Webpack, Next.js
@@ -87,8 +86,9 @@ Nome | Cidade | Tecnologias Relacionadas
 [FW7](http://fw7.com.br/) | Blumenau, SC | Redux, React Native, Styled Components, GraphQl, Apollo, Ducks, Jest, Enzyme, Hooks, Ramda, ESLint(Standard), Final Form, Parcel, ImmutableJS
 [Geekie](http://www.geekie.com.br/) | São Paulo, SP | React Native
 [GeekHunter](https://www.geekhunter.com.br/carreiras) | Florianópolis, SC | Router, CSS Modules, Jest, Enzyme, ESLint(Airbnb)
-[GETTY/IO](https://getty.io) | São Paulo, SP | React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
+[Gerenciagram](https://gerenciagram.com.br) | Feira de Santana, Bahia | React Native, Redux, Sagas
 [Geru](https://geru.com.br/) | São Paulo, SP | Webpack, Redux, ReduxForm, Redux Thunk, Redux Saga, Router, Recompose, Reselect, Gatsby, Styled Components, Docz, Flow, GraphQL, Apollo, ImmutableJS, Jest, Enzyme
+[GETTY/IO](https://getty.io) | São Paulo, SP | React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
 [Getup Cloud](https://getupcloud.com/) | São Paulo, SP | Redux, Jest, Webpack, Storybook, Patternfly-React
 [Globo.com](https://talentos.globo.com/) | Rio de Janeiro, RJ, Porto Alegre — RS | React Native
 [Goomer](https://www.goomer.com.br/) | Sorocaba, SP | CSS Modules, Jest, Redux, Storybook, Webpack

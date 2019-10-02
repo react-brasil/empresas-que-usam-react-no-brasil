@@ -37,10 +37,6 @@ São Paulo, SP
 São Paulo, SP  
 React-Native, Redux, Feathersjs, Mongodb, Gunjs, Meteor
 
-[App2Sales](http://app2sales.com)  
-Feira de Santana, Bahia  
-React Native, Redux, Sagas
-
 [App Masters](https://appmasters.io)  
 Juiz de Fora, MG  
 React Native, Redux, Sagas, Firebase, Jest, Flow, Material-UI
@@ -325,6 +321,14 @@ React Native
 [GeekHunter](https://www.geekhunter.com.br/carreiras)  
 Florianópolis, SC  
 Router, CSS Modules, Jest, Enzyme, ESLint(Airbnb)
+
+[Gerenciagram](https://gerenciagram.com.br)  
+Feira de Santana, Bahia  
+React Native, Redux, Sagas
+
+[Geru](https://geru.com.br/)  
+São Paulo, SP  
+Webpack, Redux, ReduxForm, Redux Thunk, Redux Saga, Router, Recompose, Reselect, Gatsby, Styled Components, Docz, Flow, GraphQL, Apollo, ImmutableJS, Jest, Enzyme
 
 [GETTY/IO](https://getty.io)  
 São Paulo, SP  
