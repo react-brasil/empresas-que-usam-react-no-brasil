@@ -836,7 +836,7 @@ Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components, Route
 
 [Venda.la](https://www.vendala.com.br)  
 Ribeirão Preto, SP  
-React Native, Redux, ReduxSaga
+React Native, Redux, Redux-Saga
 
 [Venturi X Soluções em TI](https://www.vntrx.com)  
 São Paulo, SP  
