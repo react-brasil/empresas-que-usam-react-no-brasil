@@ -117,7 +117,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Intelie](https://intelie.com.br) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Redux Thunk,Styled Components, MobX, Jest, Enzyme, Flux
 [Intuitech](http://www.intuite.ch) |  | Redux, React Native
 [Invillia](https://invillia.com/) | Araraquara, SP | React Native, Redux, Redux Thunk, Styled Components
-[ioasys](https://ioasys.com.br/) | Belo Horizonte, MG<br/>Lavras, MG<br/>Aracaju, SE | React Native, Redux, Redux Thunk
+[ioasys](https://ioasys.com.br/) | Belo Horizonte, MG<br/>São Paulo, SP<br/>Lavras, MG<br/>Aracaju, SE | React Native, Redux, Redux-Thunk, Ducks, Saga, Styled Components, Jest
 [Isobar Brasil](http://www.isobar.com/br/en/) | São Paulo, SP |
 [JP7](https://www.jp7.com.br) | São Paulo, SP | React Native, Redux, GraphQL
 [Junto Seguros](https://www.juntoseguros.com/) | Curitiba, PR | Styled Components, MobX, Jest, Storybook
