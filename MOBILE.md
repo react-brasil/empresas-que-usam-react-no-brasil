@@ -771,6 +771,10 @@ Belo Horizonte, MG  Redux, GraphQL, Relay
 [Submarino](https://www.submarino.com.br/)  
 São Paulo, SP 
 
+[SumUp](https://sumup.com/)  
+São Paulo, SP 
+GraphQL, Apollo, Jest, Enzyme, React Testing Library, Styled Components
+
 [Superlógica](https://www.superlogica.com/)  
 Campinas, SP  React Native, Redux
 
