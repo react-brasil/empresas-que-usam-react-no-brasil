@@ -446,8 +446,8 @@ Araraquara, SP
 React Native, Redux, Redux Thunk, Styled Components
 
 [ioasys](https://ioasys.com.br/)  
-Belo Horizonte, MG - Lavras, MG - Aracaju, SE  
-React Native, Redux, Redux Thunk
+Belo Horizonte, MG - São Paulo, SP - Lavras, MG - Aracaju, SE  
+React Native, Redux, Redux Thunk, Styled Components, Jest
 
 [Isobar Brasil](http://www.isobar.com/br/en/)  
 São Paulo, SP 
