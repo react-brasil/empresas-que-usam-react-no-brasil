@@ -323,7 +323,7 @@ Florianópolis, SC
 Router, CSS Modules, Jest, Enzyme, ESLint(Airbnb)
 
 [Gerenciagram](https://gerenciagram.com.br)  
-Feira de Santana, Bahia  
+Feira de Santana, BA  
 React Native, Redux, Sagas
 
 [Geru](https://geru.com.br/)  

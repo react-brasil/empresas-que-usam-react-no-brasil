@@ -86,7 +86,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [FW7](http://fw7.com.br/) | Blumenau, SC | Redux, React Native, Styled Components, GraphQl, Apollo, Ducks, Jest, Enzyme, Hooks, Ramda, ESLint(Standard), Final Form, Parcel, ImmutableJS
 [Geekie](http://www.geekie.com.br/) | São Paulo, SP | React Native
 [GeekHunter](https://www.geekhunter.com.br/carreiras) | Florianópolis, SC | Router, CSS Modules, Jest, Enzyme, ESLint(Airbnb)
-[Gerenciagram](https://gerenciagram.com.br) | Feira de Santana, Bahia | React Native, Redux, Sagas
+[Gerenciagram](https://gerenciagram.com.br) | Feira de Santana, BA | React Native, Redux, Sagas
 [Geru](https://geru.com.br/) | São Paulo, SP | Webpack, Redux, ReduxForm, Redux Thunk, Redux Saga, Router, Recompose, Reselect, Gatsby, Styled Components, Docz, Flow, GraphQL, Apollo, ImmutableJS, Jest, Enzyme
 [GETTY/IO](https://getty.io) | São Paulo, SP | React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
 [Getup Cloud](https://getupcloud.com/) | São Paulo, SP | Redux, Jest, Webpack, Storybook, Patternfly-React
