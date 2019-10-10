@@ -536,6 +536,10 @@ Redux, Redux Saga
 Rio de Janeiro, RJ  
 Redux, Saga, GraphQL, Jest, Enzyme
 
+[Magazine Luiza](https://www.magazineluiza.com.br)
+São Paulo, SP
+Redux, Jest, Enzyme
+
 [Matera](http://www.matera.com/br/)  
 Campinas, SP  
 Redux, Flux, Enzyme, Redux-Thunk, Mocha, Router
