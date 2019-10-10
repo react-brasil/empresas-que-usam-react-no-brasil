@@ -308,6 +308,10 @@ Redux, Redux-Thunk, Jest
 São Paulo, SP  
 Redux, Redux Thunk
 
+[Fundação CERTI](https://certi.org.br/)
+Florianópolis, SC
+Redux, Apollo, Relay, Jest
+
 [FW7](http://fw7.com.br/)
 Blumenau, SC
 Redux, React Native, Styled Components, GraphQl, Apollo, Ducks, Jest, Enzyme, Hooks, Ramda, ESLint(Standard), Final Form, Parcel, ImmutableJS
