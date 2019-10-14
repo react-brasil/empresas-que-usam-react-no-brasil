@@ -1,8 +1,19 @@
-# Empresas que usam React no Brasil
-[Para versão mobile acesse aqui.](MOBILE.md)
+# Empresas que usam React no Brasil 🇧🇷🥥🌴☀️
+[📱 Para versão mobile acesse aqui.](MOBILE.md)
 
-> OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/blob/master/CONTRIBUTING.md)
+Repositório responsável em listar empresas e projetos que utilizam nosso querido **[React](https://reactjs.org/)**
 
+Todas as empresas e/ou projetos são bem-vindxs e gostariamos muito de ver está lista crescer, sinta-se livre para contribuir.
+
+Alguns projetos são de startups ainda em concepção ou incubadas dentro de empresas que podem ter potencial de virar produto independente e merecem destaque, indique o seu projeto caso se enquadre nessas situações
+
+> caso tenha dificuldades sempre pode perguntar no **[Slack](https://react.now.sh)**
+
+## Contribuições, dúvidas e melhorias. 😃
+
+Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/issues)** nesse repositório. Mais fique atento se a issue já não foi feita antes e antes de realizar sua contribuição dê uma olhada nas **[regras](CONTRIBUTING.md)** 😉e desde já agradecemos.
+
+## Empresas
 Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
 [Accenture](https://www.accenture.com/br-pt/careers/recife) | São Paulo, SP<br />Recife, PE | Redux, React Native
@@ -242,9 +253,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [ZX Ventures](https://zx-ventures.com/) |  | React-Native, Redux, GraphQL, Apollo/Relay
 [12min](https://12min.com/) |  | React Native, Redux, React Navigation, Saga, Cycle, Flow, Reactotron, ESLint(Airbnb)
 
-## Projetos que usam React no Brasil
-
-> Obs. Alguns projetos são de startups ainda em concepção ou incubadas dentro de empresas que podem ter potencial de virar produto independente e merecem destaque, indique o seu projeto caso se enquadre nessas situações.
+## Projetos
 
 Nome | Link | Tecnologias | Empresa
 ------------ | ------- | ------------ | ------------
