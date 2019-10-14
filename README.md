@@ -23,7 +23,7 @@
 
 Repositório responsável em listar empresas e projetos que utilizam nosso querido **[React](https://reactjs.org/)**
 
-Todas as empresas e/ou projetos são bem-vindxs e gostaríamos muito de ver esta lista crescer, sinta-se livre para contribuir.
+Se sua empresa e/ou projeto utiliza alguma tecnologia do ecossistema React, não deixe de adicionar aqui neste listas abrindo um **[Pull Request](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/pulls)**
 
 Alguns projetos são de startups ainda em concepção ou incubadas dentro de empresas que podem ter potencial de virar produto independente e merecem destaque, indique o seu projeto caso se enquadre nessas situações
 
