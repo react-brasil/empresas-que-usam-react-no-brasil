@@ -1,4 +1,24 @@
-# Empresas que usam React no Brasil 🇧🇷🥥🌴☀️
+
+<div align="center">
+  <img  width="350" height="350" src="https://avatars2.githubusercontent.com/u/16929016?s=200&v=4" width="260" alt="React Brasil">
+	<br>
+	<br>
+	<p>
+		<a href="https://reactconf.com.br/">
+			<b>reactconf.com.br</b>
+		</a>
+	</p>
+	<br>
+</div>
+<p align="center">
+	<sub><i>Também confira nossos outros projetos</i></sub>
+  <br/>
+	<a href="https://github.com/react-brasil/awesome-react-events-br">Eventos sobre React</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/react-brasil/me-contrata/issues?q=is%3Aopen+is%3Aissue">Procurando talentos?</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/react-brasil/vagas/issues?q=is%3Aopen+is%3Aissue">Procurando emprego?</a>&nbsp;&nbsp;&nbsp;
+</p>
+<br/>
+
 [📱 Para versão mobile acesse aqui.](MOBILE.md)
 
 Repositório responsável em listar empresas e projetos que utilizam nosso querido **[React](https://reactjs.org/)**
