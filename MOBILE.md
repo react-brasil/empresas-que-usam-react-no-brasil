@@ -308,6 +308,10 @@ Redux, Redux-Thunk, Jest
 São Paulo, SP  
 Redux, Redux Thunk
 
+[Fundação CERTI](https://certi.org.br/)
+Florianópolis, SC
+Redux, Apollo, Relay, Jest
+
 [FW7](http://fw7.com.br/)
 Blumenau, SC
 Redux, React Native, Styled Components, GraphQl, Apollo, Ducks, Jest, Enzyme, Hooks, Ramda, ESLint(Standard), Final Form, Parcel, ImmutableJS
@@ -499,6 +503,10 @@ Redux, Styled Components, Storybook, Jest, GraphQL, Enzyme, Webpack, Firebase, A
 [LaPag](https://lapag.com.br)  
 São Paulo, SP  
 Redux, Styled Components, Jest, Storybook, React Native
+
+[Leroy Merlin Brasil](https://www.leroymerlin.com.br)
+São Paulo, SP
+React Native, Styled Components, Jest, Enzyme, Firebase, Razzle, Webpack, Rollup
 
 [Letrus](https://www.letrus.com.br)          
 São Paulo, SP          
