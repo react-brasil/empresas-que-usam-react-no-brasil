@@ -23,7 +23,7 @@
 
 Repositório responsável em listar empresas e projetos que utilizam nosso querido **[React](https://reactjs.org/)**
 
-Todas as empresas e/ou projetos são bem-vindxs e gostariamos muito de ver está lista crescer, sinta-se livre para contribuir.
+Todas as empresas e/ou projetos são bem-vindas e gostaríamos muito de ver esta lista crescer, sinta-se livre para contribuir.
 
 Alguns projetos são de startups ainda em concepção ou incubadas dentro de empresas que podem ter potencial de virar produto independente e merecem destaque, indique o seu projeto caso se enquadre nessas situações
 
