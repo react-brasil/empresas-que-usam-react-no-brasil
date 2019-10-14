@@ -83,6 +83,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Foton](https://fotontech.io) | Florianópolis, SC | GraphQL, Relay, Apollo, Styled Components, Jest, Formik, React Native, Webpack
 [Fractal Tecnologia](http://www.fractaltecnologia.com.br) | João Pessoa, PB | Redux, Redux-Thunk, Jest
 [Fred](https://fredbots.com/) | São Paulo, SP | Redux, Redux Thunk
+[Fundação CERTI](https://certi.org.br/) | Florianópolis, SC | Redux, Apollo, Relay, Jest
 [FW7](http://fw7.com.br/) | Blumenau, SC | Redux, React Native, Styled Components, GraphQl, Apollo, Ducks, Jest, Enzyme, Hooks, Ramda, ESLint(Standard), Final Form, Parcel, ImmutableJS
 [Geekie](http://www.geekie.com.br/) | São Paulo, SP | React Native
 [GeekHunter](https://www.geekhunter.com.br/carreiras) | Florianópolis, SC | Router, CSS Modules, Jest, Enzyme, ESLint(Airbnb)
