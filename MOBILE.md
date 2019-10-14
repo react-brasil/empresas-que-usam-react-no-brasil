@@ -504,6 +504,10 @@ Redux, Styled Components, Storybook, Jest, GraphQL, Enzyme, Webpack, Firebase, A
 São Paulo, SP  
 Redux, Styled Components, Jest, Storybook, React Native
 
+[Leroy Merlin Brasil](https://www.leroymerlin.com.br)
+São Paulo, SP
+React Native, Styled Components, Jest, Enzyme, Firebase, Razzle, Webpack, Rollup
+
 [Letrus](https://www.letrus.com.br)          
 São Paulo, SP          
 Redux, ImmutableJS, Styleguidist, Webpack, Jest, Enzyme
