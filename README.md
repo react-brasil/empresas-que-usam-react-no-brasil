@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img  width="350" height="350" src="https://avatars2.githubusercontent.com/u/16929016?s=200&v=4" width="260" alt="React Brasil">
+  <img  width="350" height="350" src="https://avatars2.githubusercontent.com/u/16929016?s=500&v=4" width="350" alt="React Brasil">
 	<br>
 	<br>
 	<p>
