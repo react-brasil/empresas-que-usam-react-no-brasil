@@ -1,4 +1,4 @@
-Estou respeirando os seguintes itens:
+Estou respeitando os seguintes itens:
 - [ ] Lí o CONTRIBUTING.md
 - [ ] Coloquei em ordem alfabética
 - [ ] Atualizei o arquivo README.md
