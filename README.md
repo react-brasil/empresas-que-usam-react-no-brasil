@@ -189,6 +189,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Napp Solutions](https://nappsolutions.com/) | Leme, SP | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 [NG Informática](https://www.ngi.com.br) | Joinville, SC | Redux, Ramda, GraphQL, Apollo, Flow, TypeScript, Material-UI, Flipper-UI, React Native, Expo, Styled Components, Docz, Gatsby, Cypress
 [NSC Comunicação](https://www.nsccomunicacao.com.br) | Florianópolis, SC | React Native, Next.js, Redux, Apollo, GraphQL, Ramda, Recompose, Functional Programming
+[NTConsult](http://www.ntconsult.com.br/sitentc/home/) | Porto Alegre, RS | React Native, Typescript, Jest
 [Nubank](https://nubank.com.br/) | São Paulo, SP<br/>Campinas, SP<br/>Rio de Janeiro — RJ | React Native, GraphQL
 [Nuvem Shop](https://www.nuvemshop.com.br/) | São Paulo, SP<br/>Belo Horizonte — MG | React Native, Redux, Next.js, Docz
 [OLX](http://www.olx.com.br/) | São Paulo, SP<br/>Belo Horizonte, MG<br/>Rio de Janeiro, RJ | Redux, Saga

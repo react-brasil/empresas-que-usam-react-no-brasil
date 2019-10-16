@@ -614,8 +614,12 @@ Redux, Ramda, GraphQL, Apollo, Flow, TypeScript, Material-UI, Flipper-UI, React 
 Florianópolis, SC
 React Native, Next.js, Redux, Apollo, GraphQL, Ramda, Recompose, Functional Programming
 
-[Nubank](https://nubank.com.br/)
-São Paulo, SP - Campinas, SP - Rio de Janeiro — RJ
+[NTConsult](http://www.ntconsult.com.br/sitentc/home/)
+Porto Alegre, RS 
+React Native, Typescript, Jest
+
+[Nubank](https://nubank.com.br/)  
+São Paulo, SP - Campinas, SP - Rio de Janeiro — RJ  
 React Native, GraphQL
 
 [Nuvem Shop](https://www.nuvemshop.com.br/)
