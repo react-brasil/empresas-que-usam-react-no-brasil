@@ -712,7 +712,7 @@ Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redu
 
 [Rocketseat] (https://rocketseat.com.br) 
 Rio do Sul, SC 
-Treinamentos imersivos para dominar as tecnologias mais modernas no menor tempo possível. Linguagens NodeJS, ReactJS e React Native.
+NodeJS, ReactJS e React Native.
 
 [RPC (Afiliada Globo)](https://redeglobo.globo.com/rpc/)                                   
 Curitiba, PR                          
