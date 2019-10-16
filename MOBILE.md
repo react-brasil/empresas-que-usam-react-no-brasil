@@ -549,7 +549,7 @@ São Paulo, SP
 Redux, Jest, Enzyme
 
 [Magrathea Laboratories](https://www.magrathealabs.com/)
-Joinvill, SC
+Joinville, SC
 Redux, React Native
 
 [Matera](http://www.matera.com/br/)  
