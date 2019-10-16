@@ -549,8 +549,12 @@ Redux, Saga, GraphQL, Jest, Enzyme
 São Paulo, SP
 Redux, Jest, Enzyme
 
-[Matera](http://www.matera.com/br/)
-Campinas, SP
+[Magrathea Laboratories](https://www.magrathealabs.com/)
+Joinville, SC
+Redux, React Native
+
+[Matera](http://www.matera.com/br/)  
+Campinas, SP  
 Redux, Flux, Enzyme, Redux-Thunk, Mocha, Router
 
 [MaxMilhas](https://www.maxmilhas.com.br/)
