@@ -105,6 +105,10 @@ Redux, Redux-Thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
 
 #
 
+[Cappta](https://cappta.com.br)
+São Paulo, SP
+React Native, Redux
+
 [CARGOBR](https://cargobr.com/)
 Barueri, SP
 McFly
