@@ -768,6 +768,10 @@ Redux, Relay, GraphQL, Material-UI
 Uberlândia, MG
 Redux, Firebase, Jest, Styled Components, Material-UI, create-react-app, Immutable
 
+[SoftExpert Software](https://www.softexpert.com.br/)
+Joinville, SC
+React Native, Redux
+
 [Softplan](https://www.softplan.com.br/)
 Florianópolis, SC
 Redux, ReactNative

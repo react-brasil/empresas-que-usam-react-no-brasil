@@ -226,6 +226,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Shawee](https://shawee.io) | São Paulo, SP | Redux, Apollo/GraphQL
 [sigalei](https://sigalei.com.br) | São Carlos, SP | Redux, Relay, GraphQL, Material-UI
 [Softbox/LuizaLabs](https://softbox.com.br) | Uberlândia, MG | Redux, Firebase, Jest, Styled Components, Material-UI, create-react-app, Immutable
+[SoftExpert Software](https://www.softexpert.com.br/) | Joinville, SC | React Native, Redux
 [Softplan](https://www.softplan.com.br/) | Florianópolis, SC | Redux, ReactNative
 [Softin Sistemas](https://softin.com.br/) | Joinville, SC | Redux
 [Som Livre](https://www.somlivre.com/) | Rio de Janeiro, RJ | React Native
