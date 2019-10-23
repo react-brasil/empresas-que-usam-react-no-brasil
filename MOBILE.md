@@ -327,6 +327,10 @@ Redux, React Native, Styled Components, GraphQl, Apollo, Ducks, Jest, Enzyme, Ho
 
 #
 
+[Gamers Club](https://vagas.gamersclub.com.br)
+Sorocaba, SP
+Redux, Router, Jest, Enzyme, Saga, Typescript, Storybook
+
 [Geekie](http://www.geekie.com.br/)
 São Paulo, SP
 React Native
@@ -513,8 +517,8 @@ Redux, Styled Components, Storybook, Jest, GraphQL, Enzyme, Webpack, Firebase, A
 São Paulo, SP
 Redux, Styled Components, Jest, Storybook, React Native
 
-[Leroy Merlin Brasil](https://www.leroymerlin.com.br)  
-São Paulo, SP  
+[Leroy Merlin Brasil](https://www.leroymerlin.com.br)
+São Paulo, SP
 React Native, Styled Components, Jest, Enzyme, Firebase, Razzle, Webpack, Rollup
 
 [Letrus](https://www.letrus.com.br)
@@ -561,8 +565,8 @@ Redux, Jest, Enzyme
 Joinville, SC
 Redux, React Native
 
-[Matera](http://www.matera.com/br/)  
-Campinas, SP  
+[Matera](http://www.matera.com/br/)
+Campinas, SP
 Redux, Flux, Enzyme, Redux-Thunk, Mocha, Router
 
 [MaxMilhas](https://www.maxmilhas.com.br/)
@@ -627,11 +631,11 @@ Florianópolis, SC
 React Native, Next.js, Redux, Apollo, GraphQL, Ramda, Recompose, Functional Programming
 
 [NTConsult](http://www.ntconsult.com.br/sitentc/home/)
-Porto Alegre, RS 
+Porto Alegre, RS
 React Native, Typescript, Jest
 
-[Nubank](https://nubank.com.br/)  
-São Paulo, SP - Campinas, SP - Rio de Janeiro — RJ  
+[Nubank](https://nubank.com.br/)
+São Paulo, SP - Campinas, SP - Rio de Janeiro — RJ
 React Native, GraphQL
 
 [Nuvem Shop](https://www.nuvemshop.com.br/)
