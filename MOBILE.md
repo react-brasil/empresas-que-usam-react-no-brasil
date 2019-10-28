@@ -760,6 +760,10 @@ Redux, Saga, Mobx, Lodash, Observable, Router, Ramda, Webpack, Router, Reselect,
 Florianópolis, SC
 React Native, Styled Components, RxJS
 
+[Seo Zé](https://www.seoze.com)
+Vinhedo, SP
+Redux, Styled Components, Unform
+
 [Serasa Consumidor](https://www.serasaconsumidor.com.br)
 Blumenau, SC
 Redux, Saga, Next, CSS Modules, Jest, Enzyme, Hooks, Ramda, ESLint(Airbnb), Monorepo
