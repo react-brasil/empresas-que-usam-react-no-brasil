@@ -561,6 +561,10 @@ Redux, Saga, GraphQL, Jest, Enzyme
 São Paulo, SP
 Redux, Jest, Enzyme
 
+[Magnetis](https://www.magnetis.com.br)
+São Paulo, SP
+React Native, Redux, Redux Loop, Jest, Enzyme, Styled Components, Typescript
+
 [Magrathea Laboratories](https://www.magrathealabs.com/)
 Joinville, SC
 Redux, React Native
