@@ -561,6 +561,10 @@ Redux, Redux Saga
 Rio de Janeiro, RJ
 Redux, Saga, GraphQL, Jest, Enzyme
 
+[MAiS Resultados](https://www.mais-resultados.com/) 
+Rio de Janeiro, RJ 
+Redux, Redux Form, Jest, Enzyme
+
 [Magazine Luiza](https://www.magazineluiza.com.br)
 São Paulo, SP
 Redux, Jest, Enzyme
