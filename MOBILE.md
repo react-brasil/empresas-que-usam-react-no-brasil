@@ -23,6 +23,10 @@ Redux, Redux-Thunk, Styled Components, Storybook, Material-UI
 São José dos Campos, SP
 React, React Native
 
+[Allcom](https://www.allcomsistemas.com.br/)
+Bauru, SP
+React, React Native
+
 [allya](https://www.allya.com.br/)
 São Paulo, SP
 Redux, React Native
@@ -625,6 +629,10 @@ React Native, Redux
 [Napp Solutions](https://nappsolutions.com/)
 Leme, SP
 React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
+
+[NewWay](https://gruponewway.com.br)
+Bauru, SP
+React, Redux
 
 [NG Informática](https://www.ngi.com.br)
 Joinville, SC
