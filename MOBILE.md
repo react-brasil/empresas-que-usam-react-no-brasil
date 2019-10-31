@@ -202,6 +202,10 @@ Redux, Redux-Thunk, Reselect, Jest, Webpack, Firebase, Lodash, Storybook
 Florianópolis, SC - Chapecó, SC
 Redux, Jest, Enzyme
 
+[DevGrid](https://devgrid.co.uk)
+Caxias do Sul, RS - Florianópolis, SC
+Redux, React Native, Router, Material UI, GraphQL, Next.js, MobX, Jest, Enzyme, Cypress
+
 [Dextra](http://dextra.com.br)
 São Paulo, SP - Campinas, SP
 Flux, Jest, MobX, React Native, Redux
