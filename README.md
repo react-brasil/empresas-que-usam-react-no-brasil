@@ -66,6 +66,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [CARGOBR](https://cargobr.com/) | Barueri, SP | McFly
 [Catho](https://www.catho.com.br) | Barueri, SP | CSS Modules, Jest, Redux, Storybook, Webpack
 [Cedro Technologies](http://www.cedrotech.com/) | São Paulo, SP<br/>Uberlândia, MG | React-Native, Redux
+[CESAR](http://www.cesar.org.br/) | Recife, PE | React-Native
 [Cheesecake Labs](https://cheesecakelabs.com/) | Florianópolis, SC | Redux, React Native, Next, Webpack, Storybook, PostCSS
 [Climatempo](https://www.climatempo.com.br/) | São Paulo, SP | React Native, Redux
 [Codengage](https://www.codengage.com/) | Dois Vizinhos, PR | React Native, GraphQL, Jest, styled-components, react-testing-library, Cypress, recompose, hooks, ramda, Docz, Material-ui
