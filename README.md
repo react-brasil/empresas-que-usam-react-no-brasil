@@ -262,6 +262,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Venturi X Soluções em TI](https://www.vntrx.com/) | São Paulo, SP | React Native, Redux, Redux-Thunk, Redux Form, Jest, Webpack, Next.js, Docz, GraphQL, Apollo, Flow, TypeScript, Ant-UI, Material-UI, Flipper-UI, Styled Components, Gatsby, Cypress
 [Vérios Investimentos](https://www.verios.com.br/) | São Paulo, SP |
 [Vindi](https://vindi.com.br/) | São Paulo, SP | Redux, Saga
+[Viitra](http://viitra.com/) | Recife, PE | React, Redux, GraphQL, Node
 [Vinta Software](https://vintasoftware.com/) | Recife, PE | ESLint, Enzyme, Formik, ImmutableJS, Jest, Next.js, Normalizr, Prettier, React Router, Redux, Redux Form, Redux Saga, Redux Thunk, Styled Components, Webpack
 [Vizir Software Studio](https://vizir.com.br/) | São Paulo, SP | React Native, Redux, Apollo/GraphQL, Jest, Detox(e2e), Styled Components
 [VML Brasil](https://www.vml.com/brazil/) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Isomorphic, SSR, Saga, Jest, Ramda, ARc
