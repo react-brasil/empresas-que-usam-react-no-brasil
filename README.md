@@ -175,6 +175,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Loldesign](https://www.loldesign.com.br) | São Paulo, SP |
 [Lunes](https://lunes.io) | Cajamar, SP | Redux, Redux Saga
 [M4U](https://www.m4u.com.br/) | Rio de Janeiro, RJ | Redux, Saga, GraphQL, Jest, Enzyme
+[MAiS Resultados](https://www.mais-resultados.com/) | Rio de Janeiro, RJ | Redux, Redux Form, Jest, Enzyme
 [Magazine Luiza](https://www.magazineluiza.com.br) | São Paulo, SP | Redux, Jest, Enzyme
 [Magnetis](https://www.magnetis.com.br) | São Paulo, SP | React Native, Redux, Redux Loop, Jest, Enzyme, Styled Components, Typescript
 [Magrathea Laboratories](https://www.magrathealabs.com/) | Joinville, SC | Redux, React Native
