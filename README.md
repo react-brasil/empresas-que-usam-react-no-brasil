@@ -41,6 +41,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Agilize Contabilidade Online](https://www.agilize.com.br/)| Salvador, BA | Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
 [Agrotis](https://www.agrotis.com)| Curitiba, PR | Redux, Redux-Thunk, Styled Components, Storybook, Material-UI
 [Agrotools](https://www.agrotools.com.br)| São José dos Campos, SP | React, React Native
+[Allcom](https://www.allcomsistemas.com.br/) | Bauru, SP | React, React Native
 [allya](https://www.allya.com.br/) | São Paulo, SP | Redux, React Native
 [Alumy](https://alumy.com) | Sorocaba, SP | Redux, Redux Form, React Native
 [AMARO](https://amaro.com/) | São Paulo, SP | Redux, RxJS
@@ -192,6 +193,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Mooven Consulting](http://www.moovenconsulting.com.br) | São Paulo, SP | Redux
 [Multiware Tecnologia](http://multiwaretecnologia.com.br) | Sinop, MT | React Native, Redux
 [Napp Solutions](https://nappsolutions.com/) | Leme, SP | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
+[NewWay](https://gruponewway.com.br) | Bauru, SP | React, Redux
 [NG Informática](https://www.ngi.com.br) | Joinville, SC | Redux, Ramda, GraphQL, Apollo, Flow, TypeScript, Material-UI, Flipper-UI, React Native, Expo, Styled Components, Docz, Gatsby, Cypress
 [NSC Comunicação](https://www.nsccomunicacao.com.br) | Florianópolis, SC | React Native, Next.js, Redux, Apollo, GraphQL, Ramda, Recompose, Functional Programming
 [NTConsult](http://www.ntconsult.com.br/sitentc/home/) | Porto Alegre, RS | React Native, Typescript, Jest
