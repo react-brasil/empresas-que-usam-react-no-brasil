@@ -125,6 +125,10 @@ CSS Modules, Jest, Redux, Storybook, Webpack
 São Paulo, SP - Uberlândia, MG
 React-Native, Redux
 
+[CESAR](http://www.cesar.org.br/)
+Recife, PE
+React-Native
+
 [CITi](https://citi.org.br/)
 Recife, PE
 Redux, Mongo, Firebase
