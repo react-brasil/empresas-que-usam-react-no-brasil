@@ -125,6 +125,10 @@ CSS Modules, Jest, Redux, Storybook, Webpack
 São Paulo, SP - Uberlândia, MG
 React-Native, Redux
 
+[CITi](https://citi.org.br/)
+Recife, PE
+Redux, Mongo, Firebase
+
 [Cheesecake Labs](https://cheesecakelabs.com/)
 Florianópolis, SC
 Redux, React Native, Next, Webpack, Storybook, PostCSS
