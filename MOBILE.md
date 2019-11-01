@@ -129,6 +129,10 @@ React-Native, Redux
 Recife, PE
 React-Native
 
+[CITi](https://citi.org.br/)
+Recife, PE
+Redux, Mongo, Firebase
+
 [Cheesecake Labs](https://cheesecakelabs.com/)
 Florianópolis, SC
 Redux, React Native, Next, Webpack, Storybook, PostCSS
