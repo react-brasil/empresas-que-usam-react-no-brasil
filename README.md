@@ -34,8 +34,8 @@ Alguns projetos são de startups ainda em concepção ou incubadas dentro de emp
 Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/issues)** nesse repositório. Mais fique atento se a issue já não foi feita antes e antes de realizar sua contribuição dê uma olhada nas **[regras](CONTRIBUTING.md)** 😉e desde já agradecemos.
 
 ## Empresas
-Nome | Cidade | Tecnologias Relacionadas
-:------------: | ------------------------ | ------------
+Nome | Cidade | Tecnologias Relacionadas | Contrato
+:------------: | ------------------------ | ------------ | -
 [Accenture](https://www.accenture.com/br-pt/careers/recife) | São Paulo, SP<br />Recife, PE | Redux, React Native
 [Agfa HealthCare Brasil](https://global.agfahealthcare.com/brazil)| Recife, PE | Redux, React Native, Redux Form
 [Agilize Contabilidade Online](https://www.agilize.com.br/)| Salvador, BA | Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
@@ -182,7 +182,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [M4U](https://www.m4u.com.br/) | Rio de Janeiro, RJ | Redux, Saga, GraphQL, Jest, Enzyme
 [MAiS Resultados](https://www.mais-resultados.com/) | Rio de Janeiro, RJ | Redux, Redux Form, Jest, Enzyme
 [Magazine Luiza](https://www.magazineluiza.com.br) | São Paulo, SP | Redux, Jest, Enzyme
-[Magnetis](https://www.magnetis.com.br) | São Paulo, SP | React Native, Redux, Redux Loop, Jest, Enzyme, Styled Components, Typescript
+[Magnetis](https://www.magnetis.com.br) | São Paulo, SP | React Native, Redux, Redux Loop, Jest, Enzyme, Styled Components, Typescript | 🏠 🏢
 [Magrathea Laboratories](https://www.magrathealabs.com/) | Joinville, SC | Redux, React Native
 [Matera](http://www.matera.com/br/) | Campinas, SP | Redux, Flux, Enzyme, Redux-Thunk, Mocha, Router
 [MaxMilhas](https://www.maxmilhas.com.br/) | Belo Horizonte, MG | Redux, React Native
