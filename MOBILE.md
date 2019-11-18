@@ -751,6 +751,10 @@ Redux, Router
 São Paulo, SP
 Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
 
+[Rocketseat] (https://rocketseat.com.br) 
+Rio do Sul, SC 
+NodeJS, ReactJS e React Native.
+
 [RPC (Afiliada Globo)](https://redeglobo.globo.com/rpc/)
 Curitiba, PR
 React Native, Redux, Redux-Thunk, Redux-Forms, MobX, Rematch, Router
