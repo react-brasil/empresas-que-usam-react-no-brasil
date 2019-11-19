@@ -94,6 +94,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Digital Pages](https://portugues.digitalpages.com.br/) | São Paulo, SP |
 [Digital Innovation One](http://digitalinnovation.one/) | Araraquara, SP | React Native, Redux, Firebase
 [Diin](https://diin.com.br/) | São Paulo, SP<br/>São Carlos, SP | React Native, Redux, Jest
+[e-Core](https://www.e-core.com/) | Porto Alegre, RS<br/>São Paulo, SP | Redux, Webpack
 [Easynvest](https://www.easynvest.com.br/) | São Paulo, SP | Jest, Redux, ReduxForm, Ducks, Styled Components
 [Easy Carros](https://easycarros.com/) | São Paulo, SP | React-Native, Redux, Saga, GraphQL
 [EBANX](https://www.ebanx.com/br/carreiras) | Curitiba, PR  | Redux, React Native

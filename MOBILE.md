@@ -234,6 +234,10 @@ React Native, Redux, Jest
 
 #
 
+[e-Core](https://www.e-core.com/)
+Porto Alegre, RS - São Paulo, SP
+Redux, Webpack
+
 [Easynvest](https://www.easynvest.com.br/)
 São Paulo, SP
 Jest, Redux, ReduxForm, Ducks, Styled Components
