@@ -389,7 +389,7 @@ Jest, Storybook, Reach Router, Styled Components, Parcel
 
 [GreenMile](http://greenmile.com/)
 Fortaleza, CE
-Redux, Jest, Saga
+Redux, Redux Saga, Enzyme, Jest, ImmutableJS, Reselect, Storybook
 
 [Grifo](http://gri.fo/)
 Porto Alegre, RS
