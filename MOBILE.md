@@ -989,6 +989,10 @@ JSS, Apollo/GraphQL, Jest, Enzyme
 
 #
 
+[Zaal Tecnologia](http://www.zaal.com.br/) 
+Três Rios, RJ
+React-Native, Redux Persist, Saga, Reactotron, ESLint(Airbnb), Styled Components, Hooks, Prettier, Formik, Ducks, Ant UI, Jest 
+
 [Zap Imóveis](https://www.zapimoveis.com.br/)
 São Paulo, SP
 Redux, Jest, GraphQL
