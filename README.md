@@ -134,6 +134,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Go Backlog](https://gobacklog.com/) | Governador Valadares, MG |Jest, Storybook, Reach Router, Styled Components, Parcel
 [GreenMile](http://greenmile.com/) | Fortaleza, CE | Redux, Redux Saga, Enzyme, Jest, ImmutableJS, Reselect, Storybook
 [Grifo](http://gri.fo/) | Porto Alegre, RS | Jest, Redux, React Native
+[Gupy](http://tech-career.gupy.io/) | São Paulo, SP | Redux, Redux-Saga, Jest, Enzyme, Storybook/Docz, Webpack, Material UI
 [Gympass](https://www.gympass.com/) | São Paulo, SP |
 [Hi Platform](https://www.hiplatform.com)| São Paulo, SP | Jest, Redux, Sagas, Styled Components, Immutable, Material-UI, Reselect
 [HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC | GraphQL, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
