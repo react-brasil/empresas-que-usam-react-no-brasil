@@ -68,7 +68,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Cedro Technologies](http://www.cedrotech.com/) | São Paulo, SP<br/>Uberlândia, MG | React-Native, Redux
 [CESAR](http://www.cesar.org.br/) | Recife, PE | React-Native
 [CITi](https://citi.org.br/) | Recife, PE | Redux, Mongo, Firebase
-[Cheesecake Labs](https://cheesecakelabs.com/) | Florianópolis, SC | Redux, React Native, Next, Webpack, Storybook, PostCSS
+[Cheesecake Labs](https://cheesecakelabs.com/) | Florianópolis, SC | Redux, React Native, Next, Webpack, Storybook, PostCSS, React Router, Hooks, Context API
 [Climatempo](https://www.climatempo.com.br/) | São Paulo, SP | React Native, Redux
 [Codengage](https://www.codengage.com/) | Dois Vizinhos, PR | React Native, GraphQL, Jest, styled-components, react-testing-library, Cypress, recompose, hooks, ramda, Docz, Material-ui
 [Coderockr](http://coderockr.com) | Joinville, SC | React Native, Redux, Next, ImmutableJS, CSS Modules, Storybook, Firebase
