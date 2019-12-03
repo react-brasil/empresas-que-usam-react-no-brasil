@@ -135,7 +135,7 @@ Redux, Mongo, Firebase
 
 [Cheesecake Labs](https://cheesecakelabs.com/)
 Florianópolis, SC
-Redux, React Native, Next, Webpack, Storybook, PostCSS
+Redux, React Native, Next, Webpack, Storybook, PostCSS, React Router, Hooks, Context API
 
 [Climatempo](https://www.climatempo.com.br/)
 São Paulo, SP
