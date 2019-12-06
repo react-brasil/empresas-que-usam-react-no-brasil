@@ -395,6 +395,10 @@ Redux, Redux Saga, Enzyme, Jest, ImmutableJS, Reselect, Storybook
 Porto Alegre, RS
 Jest, Redux, React Native
 
+[Gupy](http://tech-career.gupy.io)
+São Paulo, SP
+Redux, Redux-Saga, Jest, Enzyme, Storybook/Docz, Webpack, Material UI
+
 [Gympass](https://www.gympass.com/)
 São Paulo, SP
 
