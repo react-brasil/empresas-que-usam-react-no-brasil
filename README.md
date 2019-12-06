@@ -281,6 +281,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Wizard](https://www.wizard.com.br) | São Paulo, SP | React Native, Redux, Sagas, Router
 [XP Investimentos](https://www.xpi.com.br/) | São Paulo, SP | Redux, Jest, React-Native
 [Yube](http://www.yube.com.br/) | São Paulo, SP | JSS, Apollo/GraphQL, Jest, Enzyme
+[Zaal Tecnologia](http://www.zaal.com.br/) | Três Rios, RJ | React-Native, Redux Persist, Saga, Reactotron, ESLint(Airbnb), Styled Components, Hooks, Prettier, Formik, Ducks, Ant UI, Jest 
 [Zap Imóveis](https://www.zapimoveis.com.br/) | São Paulo, SP | Redux, Jest, GraphQL
 [ZeroSoft](https://www.zerosoft.com.br/) | Ribeirão Preto, SP | Redux, Styled Components, Router, Material-UI, Webpack, Router, React Native, Monorepo
 [Zimp](https://zimp.me/) | São Paulo, SP |
