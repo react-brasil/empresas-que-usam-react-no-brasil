@@ -145,7 +145,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Horizon](https://www.horizonci.com.br/) | Salvador, BA | Redux, React Native, Electron
 [Icarus Tech](http://icarustech.com.br) | Florianópolis, SC | Redux
 [ICA CARD](https://icacard.com.br/) | Salvador, BA | Redux, React Native, Next.js
-[iClinic](https://iclinic.com.br/) | Ribeirão Preto, SP | React Native, Flux, Redux, Saga, Jest
+[iClinic](https://iclinic.com.br/) | Ribeirão Preto, SP | React Native, Flux, Redux, Saga, Jest | 🏠🏢
 [iFood](https://ifood.com.br) | São Paulo, SP<br/>Campinas, SP<br/>Salvador, BA | Redux, Recompose, Ducks, Saga, Jest, Enzyme, actionz
 [Ilegra](http://ilegra.com/)| São Paulo, SP<br/>Porto Alegre, RS | Redux, Saga, Styled Components
 [In Loco](http://inloco.com.br) | Recife, PE | React Native, Redux, GraphQL, Apollo, Jest, Enzyme, Deck&#46;gl, Mapbox, Leaflet, Semantic-UI, Storybook, Webpack
@@ -182,7 +182,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [M4U](https://www.m4u.com.br/) | Rio de Janeiro, RJ | Redux, Saga, GraphQL, Jest, Enzyme
 [MAiS Resultados](https://www.mais-resultados.com/) | Rio de Janeiro, RJ | Redux, Redux Form, Jest, Enzyme
 [Magazine Luiza](https://www.magazineluiza.com.br) | São Paulo, SP | Redux, Jest, Enzyme
-[Magnetis](https://www.magnetis.com.br) | São Paulo, SP | React Native, Redux, Redux Loop, Jest, Enzyme, Styled Components, Typescript | 🏠 🏢
+[Magnetis](https://www.magnetis.com.br) | São Paulo, SP | React Native, Redux, Redux Loop, Jest, Enzyme, Styled Components, Typescript | 🏠🏢
 [Magrathea Laboratories](https://www.magrathealabs.com/) | Joinville, SC | Redux, React Native
 [Matera](http://www.matera.com/br/) | Campinas, SP | Redux, Flux, Enzyme, Redux-Thunk, Mocha, Router
 [MaxMilhas](https://www.maxmilhas.com.br/) | Belo Horizonte, MG | Redux, React Native
