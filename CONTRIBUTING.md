@@ -12,6 +12,7 @@ Rio de Janeiro, RJ
 São Paulo, SP
 ```
 * Coloque apenas cidades brasileiras
+* Adicione o tipo de contrato oferecido pela empresa. 🏠: Remoto e 🏢: Alocado
 * Ao adicionar uma nova empresa ou projeto, lembre-se de alimentar tanto o README.md como o MOBILE.md
 
 > caso tenha dificuldades sempre pode perguntar no **[Slack](https://react.now.sh)**
