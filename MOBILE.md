@@ -214,7 +214,7 @@ Redux, Jest, Enzyme
 Caxias do Sul, RS - Florianópolis, SC
 Redux, React Native, Router, Material UI, GraphQL, Next.js, MobX, Jest, Enzyme, Cypress
 
-[DEX] (https://dex.company) 
+[DEX](https://dex.company) 
 São Paulo, SP
 Cornélio Procópio, PR 
 Redux, Context API, React Native, Jest, Enzyme, Styled Component
