@@ -732,6 +732,10 @@ Redux, RxJS
 Campinas, SP
 React Native, Redux, Redux Saga, GraphQL, Material-UI, Styled Components, Flow, TypeScript
 
+[PWI](https://www.pwi.com.br)
+São paulo, SP
+React Native, redux, typescript, Enzyme
+
 #
 
 [Qualyteam](http://www.qualyteam.com/)
