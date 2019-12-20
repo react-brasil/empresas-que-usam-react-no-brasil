@@ -219,6 +219,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Pragmatismo.io](http://pragmatismo.io) | Rio de Janeiro, RJ |
 [Printi](https://printi.com.br) | São Paulo, SP | Redux, RxJS
 [ProFUSION](https://profusion.mobi) | Campinas, SP | React Native, Redux, Redux Saga, GraphQL, Material-UI, Styled Components, Flow, TypeScript
+[PWI](https://www.pwi.com.br) | São Paulo, SP | React Native, redux, typescript, Enzyme
 [Qualyteam](http://www.qualyteam.com/) | Balneário Camboriú, SC | Redux, Saga, Jest, Enzyme
 [QUANTO](https://contaquanto.com.br/) | São Paulo, SP | React Native, GraphQL, Relay, Redux, Jest, Styled Components
 [QuintoAndar](https://quintoandar.com.br) | São Paulo, SP | Redux, Jest, Styled Components
