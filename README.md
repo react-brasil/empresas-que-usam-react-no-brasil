@@ -88,6 +88,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [DeepX](https://www.deepx.it/) | Porto Alegre, RS | Redux, Redux-Thunk, Reselect, Jest, Webpack, Firebase, Lodash, Storybook
 [Desbravador Software](http://www.desbravador.com.br/) | Florianópolis, SC<br/> Chapecó, SC | Redux, Jest, Enzyme
 [DevGrid](https://devgrid.co.uk) | Caxias do Sul, RS<br/>Florianópolis, SC | Redux, React Native, Router, Material UI, GraphQL, Next.js, MobX, Jest, Enzyme, Cypress
+[DEX](https://dex.company) | São Paulo, SP <br/> Cornélio Procópio, PR | Redux, Context API, React Native, Jest, Enzyme, Styled Component
 [Dextra](http://dextra.com.br) | São Paulo, SP<br/>Campinas, SP | Flux, Jest, MobX, React Native, Redux
 [Diebold Nixdorf](https://www.dieboldnixdorf.com.br/) | Indaiatuba, SP |
 [Digibee](https://www.digibee.com.br/) | São Paulo, SP | React-Native, Rematch, Redux, GraphQL, Styled Components
