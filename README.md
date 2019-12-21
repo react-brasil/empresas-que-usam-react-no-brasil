@@ -199,6 +199,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Mooven Consulting](http://www.moovenconsulting.com.br) | São Paulo, SP | Redux
 [Multiware Tecnologia](http://multiwaretecnologia.com.br) | Sinop, MT | React Native, Redux
 [Napp Solutions](https://nappsolutions.com/) | Leme, SP | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
+[Nexo Jornal](https://nexojornal.com.br) | São Paulo, SP | SSR Node, Isomorphic, GraphQL, Hooks, Styled Components, Router, Jest, React Testing Library, Cypress, Storybook, Webpack, Webpack, ESLint(Airbnb), Prettier, Formik, Docusaurus | 🏢
 [NG Informática](https://www.ngi.com.br) | Joinville, SC | Redux, Ramda, GraphQL, Apollo, Flow, TypeScript, Material-UI, Flipper-UI, React Native, Expo, Styled Components, Docz, Gatsby, Cypress
 [NSC Comunicação](https://www.nsccomunicacao.com.br) | Florianópolis, SC | React Native, Next.js, Redux, Apollo, GraphQL, Ramda, Recompose, Functional Programming
 [NTConsult](http://www.ntconsult.com.br/sitentc/home/) | Porto Alegre, RS | React Native, Typescript, Jest

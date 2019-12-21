@@ -656,6 +656,11 @@ React Native, Redux
 Leme, SP
 React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 
+[Nexo Jornal](https://nexojornal.com.br)
+São Paulo, SP
+SSR Node, Isomorphic, GraphQL, Hooks, Styled Components, Router, Jest, React Testing Library, Cypress, Storybook, Webpack, Webpack, ESLint(Airbnb), Prettier, Formik, Docusaurus
+🏢
+
 [NG Informática](https://www.ngi.com.br)
 Joinville, SC
 Redux, Ramda, GraphQL, Apollo, Flow, TypeScript, Material-UI, Flipper-UI, React Native, Expo, Styled Components, Docz, Gatsby, Cypress
