@@ -658,7 +658,7 @@ React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 
 [Nexo Jornal](https://nexojornal.com.br)
 São Paulo, SP
-SSR Node, Isomorphic, GraphQL, Hooks, Styled Components, Router, Jest, React Testing Library, Cypress, Storybook, Webpack, Webpack, ESLint(Airbnb), Prettier, Formik, Docusaurus
+SSR Node, Isomorphic, GraphQL, Hooks, Styled Components, Router, Jest, React Testing Library, Cypress, Storybook, Webpack, ESLint(Airbnb), Prettier, Formik, Docusaurus
 🏢
 
 [NG Informática](https://www.ngi.com.br)
