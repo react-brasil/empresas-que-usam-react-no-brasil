@@ -360,6 +360,10 @@ React Native
 Florianópolis, SC
 Router, CSS Modules, Jest, Enzyme, ESLint(Airbnb)
 
+[GEN](https://genshopp.dinbrasil.com.br/gen/)
+São Paulo, SP
+React Native, Redux, Apollo, GraphQl, Jets
+
 [Gerenciagram](https://gerenciagram.com.br)
 Feira de Santana, BA
 React Native, Redux, Sagas
