@@ -228,7 +228,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Raise Sistemas](https://raisesistemas.com.br) | Rio de Janeiro, RJ | React Native
 [Requisittus](https://requisittus.com.br) | Lajeado, RS | Redux, Router
 [Rivendel](https://rivendel.com.br/) | São Paulo, SP | Treinamento/consultoria aos clientes e produtos internos com Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
-[Rocketseat] (https://rocketseat.com.br) | Rio do Sul, SC | NodeJS, ReactJS e React Native.
+[Rocketseat](https://rocketseat.com.br) | Rio do Sul, SC | NodeJS, ReactJS e React Native.
 [RPC (Afiliada Globo)](https://redeglobo.globo.com/rpc/) | Curitiba, PR | React Native, Redux, Redux-Thunk, Redux-Forms, MobX, Rematch, Router
 [Samba Tech](https://sambatech.com/) | Belo Horizonte, MG |
 [Sciensa](http://sciensa.com/) | São Paulo, SP | Redux, Router, Ramda, Jest e Form.
@@ -300,6 +300,7 @@ Nome | Link | Tecnologias | Empresa
 ------------ | ------- | ------------ | ------------
 BeerSwarm | https://beerswarm.com/ | Redux, Saga, Jest, React-Leaflet, Router, [react-leaflet-googlemutant](https://github.com/produtoreativo/react-leaflet-googlemutant) | [Produto Reativo](http://www.produtoreativo.com.br/)
 Bíblia Online | https://www.bibliaonline.com.br | Isomorphic, Redux, Saga, Material-UI, JSS, Jest, TypeScript | [Jose Peleteiro](https://peleteiro.net)
+Labor | https://getlabor.com.br/ | Expo, Gatsby, React Native, Webpack | [Novatics](https://www.novatics.com.br/)
 Mambo Delivery | https://www.mambo.com.br/ | Redux, Vtex | [Corebiz](http://www.corebiz.com.br/)
 Mobills Web | https://web.mobills.com.br/ | Redux, React Router, Material-UI, Redux Form
 Moeda | https://moedaseeds.com | Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo | [Moeda](https://moedaseeds.com)
