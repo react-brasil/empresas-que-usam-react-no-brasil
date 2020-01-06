@@ -665,6 +665,11 @@ SSR Node, Isomorphic, GraphQL, Hooks, Styled Components, Router, Jest, React Tes
 Joinville, SC
 Redux, Ramda, GraphQL, Apollo, Flow, TypeScript, Material-UI, Flipper-UI, React Native, Expo, Styled Components, Docz, Gatsby, Cypress
 
+[Novatics](https://www.novatics.com.br/)
+Brasília, DF
+Cypress, Expo, Flow, Gatsby, GraphQL, Jest, Prettier, React Native, Redux, Styled Components, TypeScript, Webpack
+🏢
+
 [NSC Comunicação](https://www.nsccomunicacao.com.br)
 Florianópolis, SC
 React Native, Next.js, Redux, Apollo, GraphQL, Ramda, Recompose, Functional Programming

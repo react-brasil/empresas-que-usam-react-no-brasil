@@ -201,6 +201,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Napp Solutions](https://nappsolutions.com/) | Leme, SP | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 [Nexo Jornal](https://nexojornal.com.br) | São Paulo, SP | SSR Node, Isomorphic, GraphQL, Hooks, Styled Components, Router, Jest, React Testing Library, Cypress, Storybook, Webpack, ESLint(Airbnb), Prettier, Formik, Docusaurus | 🏢
 [NG Informática](https://www.ngi.com.br) | Joinville, SC | Redux, Ramda, GraphQL, Apollo, Flow, TypeScript, Material-UI, Flipper-UI, React Native, Expo, Styled Components, Docz, Gatsby, Cypress
+[Novatics](https://www.novatics.com.br/) | Brasília, DF | Cypress, Expo, Flow, Gatsby, GraphQL, Jest, Prettier, React Native, Redux, Styled Components, TypeScript, Webpack | 🏢
 [NSC Comunicação](https://www.nsccomunicacao.com.br) | Florianópolis, SC | React Native, Next.js, Redux, Apollo, GraphQL, Ramda, Recompose, Functional Programming
 [NTConsult](http://www.ntconsult.com.br/sitentc/home/) | Porto Alegre, RS | React Native, Typescript, Jest
 [Nubank](https://nubank.com.br/) | São Paulo, SP<br/>Campinas, SP<br/>Rio de Janeiro — RJ | React Native, GraphQL
@@ -227,7 +228,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Raise Sistemas](https://raisesistemas.com.br) | Rio de Janeiro, RJ | React Native
 [Requisittus](https://requisittus.com.br) | Lajeado, RS | Redux, Router
 [Rivendel](https://rivendel.com.br/) | São Paulo, SP | Treinamento/consultoria aos clientes e produtos internos com Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
-[Rocketseat] (https://rocketseat.com.br) | Rio do Sul, SC | NodeJS, ReactJS e React Native.
+[Rocketseat](https://rocketseat.com.br) | Rio do Sul, SC | NodeJS, ReactJS e React Native.
 [RPC (Afiliada Globo)](https://redeglobo.globo.com/rpc/) | Curitiba, PR | React Native, Redux, Redux-Thunk, Redux-Forms, MobX, Rematch, Router
 [Samba Tech](https://sambatech.com/) | Belo Horizonte, MG |
 [Sciensa](http://sciensa.com/) | São Paulo, SP | Redux, Router, Ramda, Jest e Form.
@@ -299,6 +300,7 @@ Nome | Link | Tecnologias | Empresa
 ------------ | ------- | ------------ | ------------
 BeerSwarm | https://beerswarm.com/ | Redux, Saga, Jest, React-Leaflet, Router, [react-leaflet-googlemutant](https://github.com/produtoreativo/react-leaflet-googlemutant) | [Produto Reativo](http://www.produtoreativo.com.br/)
 Bíblia Online | https://www.bibliaonline.com.br | Isomorphic, Redux, Saga, Material-UI, JSS, Jest, TypeScript | [Jose Peleteiro](https://peleteiro.net)
+Labor | https://getlabor.com.br/ | Expo, Gatsby, React Native, Webpack | [Novatics](https://www.novatics.com.br/)
 Mambo Delivery | https://www.mambo.com.br/ | Redux, Vtex | [Corebiz](http://www.corebiz.com.br/)
 Mobills Web | https://web.mobills.com.br/ | Redux, React Router, Material-UI, Redux Form
 Moeda | https://moedaseeds.com | Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo | [Moeda](https://moedaseeds.com)
