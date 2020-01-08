@@ -233,6 +233,10 @@ React-Native, Rematch, Redux, GraphQL, Styled Components
 [Digital Pages](https://portugues.digitalpages.com.br/)
 São Paulo, SP
 
+[Digital Innovation One](http://digitalinnovation.one/)
+Araraquara, SP
+React Native, Redux, Firebase, Styled Components, Jest
+
 [Diin](https://diin.com.br/)
 São Paulo, SP - São Carlos, SP
 React Native, Redux, Jest
