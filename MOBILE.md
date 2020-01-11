@@ -512,6 +512,10 @@ React Native, Redux, GraphQL
 Curitiba, PR
 Styled Components, MobX, Jest, Storybook
 
+[Juntos Somos Mais](https://www.juntossomosmais.com.br/)
+São Paulo, SP
+React Native, Jest, Enzyme, Styled Components, Storybook
+
 [Jusbrasil](https://www.jusbrasil.com.br)
 São Paulo, SP - Salvador, BA
 GraphQL, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
