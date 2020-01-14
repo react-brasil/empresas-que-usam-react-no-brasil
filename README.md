@@ -162,6 +162,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Isobar Brasil](http://www.isobar.com/br/en/) | São Paulo, SP |
 [JP7](https://www.jp7.com.br) | São Paulo, SP | React Native, Redux, GraphQL
 [Junto Seguros](https://www.juntoseguros.com/) | Curitiba, PR | Styled Components, MobX, Jest, Storybook
+[Juntos Somos Mais](https://www.juntossomosmais.com.br/) | São Paulo, SP | React Native, Jest, Enzyme, Styled Components, Storybook | 🏠🏢
 [Jusbrasil](https://www.jusbrasil.com.br) | São Paulo, SP<br/>Salvador, BA | GraphQL, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
 [KeepClear](https://www.keepclear.com.br/) | São Paulo, SP | Hooks, Router, GraphQL, Apollo, TypeScript, Styled Components, Grommet.io, Jest, Enzyme
 [Kiper](https://kiper.com.br/trabalhe-conosco/) | Florianópolis, SC | React Native
