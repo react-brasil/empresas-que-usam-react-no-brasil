@@ -241,6 +241,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Serasa consumidor](https://www.serasaconsumidor.com.br) | Blumenau, SC | Redux, Saga, Next, CSS Modules, Jest, Enzyme, Hooks, Ramda, ESLint(Airbnb), Monorepo
 [Shawee](https://shawee.io) | São Paulo, SP | Redux, Apollo/GraphQL
 [sigalei](https://sigalei.com.br) | São Carlos, SP | Redux, Relay, GraphQL, Material-UI
+[Simplifica CI](https://simplificaci.com.br) | São José do Rio Preto, SP | Redux, Redux Thunk, Styled Components
 [Softbox/LuizaLabs](https://softbox.com.br) | Uberlândia, MG | Redux, Firebase, Jest, Styled Components, Material-UI, create-react-app, Immutable
 [SoftExpert Software](https://www.softexpert.com.br/) | Joinville, SC | React Native, Redux
 [Softplan](https://www.softplan.com.br/) | Florianópolis, SC | Redux, ReactNative
