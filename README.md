@@ -132,7 +132,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Getup Cloud](https://getupcloud.com/) | São Paulo, SP | Redux, Jest, Webpack, Storybook, Patternfly-React
 [Globo.com](https://talentos.globo.com/) | Rio de Janeiro, RJ, Porto Alegre — RS | React Native
 [Goomer](https://www.goomer.com.br/) | Sorocaba, SP | CSS Modules, Jest, Redux, Storybook, Webpack
-[Go Backlog](https://gobacklog.com/) | Governador Valadares, MG |Jest, Storybook, Reach Router, Styled Components, Parcel
+[GoBacklog](https://gobacklog.com/) | Governador Valadares, MG | Gatsby, Jest, Storybook, Reach Router, Styled Components, Parcel
 [GreenMile](http://greenmile.com/) | Fortaleza, CE | Redux, Redux Saga, Enzyme, Jest, ImmutableJS, Reselect, Storybook
 [Grifo](http://gri.fo/) | Porto Alegre, RS | Jest, Redux, React Native
 [Gupy](http://tech-career.gupy.io/) | São Paulo, SP | Redux, Redux-Saga, Jest, Enzyme, Storybook/Docz, Webpack, Material UI
