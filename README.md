@@ -124,6 +124,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Fundação CERTI](https://certi.org.br/) | Florianópolis, SC | Redux, Apollo, Relay, Jest
 [FW7](http://fw7.com.br/) | Blumenau, SC | Redux, React Native, Styled Components, GraphQl, Apollo, Ducks, Jest, Enzyme, Hooks, Ramda, ESLint(Standard), Final Form, Parcel, ImmutableJS
 [Gamers Club](https://vagas.gamersclub.com.br) | Sorocaba, SP | Redux, Router, Jest, Enzyme, Saga, Typescript, Storybook
+[Gen](https://genshopp.dinbrasil.com.br/gen/) | São Paulo, SP | React Native, Redux, Apollo, GraphQl, Jets
 [Geekie](http://www.geekie.com.br/) | São Paulo, SP | React Native
 [GeekHunter](https://www.geekhunter.com.br/carreiras) | Florianópolis, SC | Router, CSS Modules, Jest, Enzyme, ESLint(Airbnb)
 [Gerenciagram](https://gerenciagram.com.br) | Feira de Santana, BA | React Native, Redux, Sagas
