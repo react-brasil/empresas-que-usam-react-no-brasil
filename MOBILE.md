@@ -707,6 +707,7 @@ Styled Components, Material UI, Apollo, GraphQL, Prisma
 [OLX](http://www.olx.com.br/)
 São Paulo, SP - Belo Horizonte, MG - Rio de Janeiro, RJ
 Redux, Saga
+🏠🏢
 
 [OneMarket](https://onemarket.com.br)
 São Paulo, SP  GraphQL, Apollo, Saga, Glamorous
