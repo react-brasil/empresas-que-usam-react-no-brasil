@@ -983,7 +983,7 @@ Redux, Isomorphic, SSR, Saga, Jest, Ramda, ARc
 
 [Voltbras](https://voltbras.com.br/)
 Florianópolis, SC
-React, React Native, Redux, Apollo/GraphQL, Styled Components, NodeJS, Golang, Prisma
+React Native, Redux, Apollo/GraphQL, Styled Components, NodeJS, Golang, Prisma
 
 [VTEX](https://pt.vtex.com/)
 São Paulo, SP - Rio de Janeiro, RJ
