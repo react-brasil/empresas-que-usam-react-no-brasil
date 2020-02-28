@@ -835,7 +835,7 @@ React Native, Styled Components, RxJS
 
 [Serviço Nacional de Aprendizagem Comecial - SENAC/SE](http://www.se.senac.br/)
 Aracaju, SE
-NodeJS, ReactJS, Redux, Saga, Styled Components, Unform
+NodeJS, Redux, Saga, Styled Components, Unform
 
 [Seo Zé](https://www.seoze.com)
 Vinhedo, SP
