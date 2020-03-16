@@ -4,8 +4,9 @@
 
 Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
-[Accenture](https://www.accenture.com/br-pt/careers/recife) | Recife, PE | Redux, React Native
+[Accenture](https://www.accenture.com/br-pt/careers/recife) | Recife, PE<br/>São Paulo, SP  | React Native, Redux, Redux Saga, Redux-Thunk, Jest, Styled Components, Jest, GraphQL, 
 [Agilize Contabilidade Online](https://www.agilize.com.br/)| Salvador, BA | Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
+[Allya](https://www.allya.com.br/) | São Paulo, SP | Redux, React Native
 [AMARO](https://amaro.com/) | São Paulo, SP | Redux, RxJS
 [AMERICANAS](https://www.americanas.com.br/) | São Paulo, SP |
 [App2Sales](http://app2sales.com) | Feira de Santana, Bahia | React Native, Redux, Sagas
@@ -30,7 +31,6 @@ Nome | Cidade | Tecnologias Relacionadas
 [Climatempo](https://www.climatempo.com.br/) | São Paulo, SP | React Native, Redux
 [Codengage](https://www.codengage.com/) | Dois Vizinhos, PR | React Native, GraphQL, Jest, styled-components, react-testing-library, Cypress, recompose, hooks, ramda, Docz, Material-ui
 [CWI Software](https://www.cwi.com.br/) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Porto Alegre, RS<br/>Passo Fundo, RS<br/>Gravataí, RS<br/>São Leopoldo, RS | Redux, React Native, Styled Components, Recompose
-[allya](https://www.allya.com.br/) | São Paulo, SP | Redux, React Native
 [Compila](http://compila.com.br/) | São Paulo, SP |
 [Conpass](https://conpass.io/) | Florianópolis, SC | Redux, Saga, Mocha
 [ConvergenceWorks](http://convergence.works) | São Paulo — SP, Salvador — BA | React Native, Redux, Sagas, Ignite
