@@ -4,7 +4,7 @@
 
 Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
-[Accenture](https://www.accenture.com/br-pt/careers/recife) | Recife, PE<br/>São Paulo, SP  | React Native, Redux, Redux Saga, Redux-Thunk, Jest, Styled Components, Jest, GraphQL, 
+[Accenture](https://www.accenture.com/br-pt/careers/recife) | Recife, PE<br/>São Paulo, SP  | React Native, Redux, Redux Saga, Redux-Thunk, Jest, Styled Components, Jest 
 [Agilize Contabilidade Online](https://www.agilize.com.br/)| Salvador, BA | Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
 [Allya](https://www.allya.com.br/) | São Paulo, SP | Redux, React Native
 [AMARO](https://amaro.com/) | São Paulo, SP | Redux, RxJS
