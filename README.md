@@ -62,6 +62,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [BovControl](https://bovcontrol.com) | São Paulo, SP | Redux, Saga, MobX
 [Boticário](https://www.boticario.com.br/) |  | Redux, Apollo, Graphql
 [Buscapé](https://www.buscape.com.br) | São Paulo, SP | Redux, Redux-Thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
+[Caju Benefícios](https://caju.com.br) | São Paulo, SP | React, redux, saga, relay, graphql, cypress, styled components, react-testing-library, hooks
 [Cappta](https://cappta.com.br) | São Paulo, SP | React Native, Redux
 [CARGOBR](https://cargobr.com/) | Barueri, SP | McFly
 [Catho](https://www.catho.com.br) | Barueri, SP | CSS Modules, Jest, Redux, Storybook, Webpack
