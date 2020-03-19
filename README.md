@@ -221,6 +221,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Pipefy](https://pipefy.com) | São Paulo, SP<br/>Curitiba, PR | GraphQL, React Native
 [Pismo](https://pismo.io/) | São Paulo, SP | Redux, MobX, RxJS, Jest
 [PLING](https://pling.net.br/) | Porto Alegre, RS | Next.js
+[Popcode Mobile Solutions](https://popcode.com.br/) | Aracaju, SE | React Native, Redux, Sagas, Firebase, Jest, Flow | 🏠🏢
 [Pragmatismo.io](http://pragmatismo.io) | Rio de Janeiro, RJ |
 [Printi](https://printi.com.br) | São Paulo, SP | Redux, RxJS
 [ProFUSION](https://profusion.mobi) | Campinas, SP | React Native, Redux, Redux Saga, GraphQL, Material-UI, Styled Components, Flow, TypeScript
@@ -239,6 +240,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Secrel](https://secrel.com.br/) | Fortaleza, CE | Hooks, React Native, Redux, Saga, Styled Components, Router, Jest, Enzyme, React Testing Library, Cypress, Storybook, Material-UI
 [Seeds](https://www.seeds.no) | Vitória, ES | Redux, Saga, Mobx, Lodash, Observable, Router, Ramda, Webpack, Router, Reselect, Typescript
 [Segware](https://www.segware.com.br) | Florianópolis, SC | React Native, Styled Components, RxJS
+[Serviço Nacional de Aprendizagem Comecial - SENAC/SE](http://www.se.senac.br/) | Aracaju, SE | NodeJS, Redux, Saga, Styled Components, Unform | 🏢
 [Seo Zé](https://www.seoze.com) | Vinhedo, SP | Redux, Styled Components, Unform
 [Serasa consumidor](https://www.serasaconsumidor.com.br) | Blumenau, SC | Redux, Saga, Next, CSS Modules, Jest, Enzyme, Hooks, Ramda, ESLint(Airbnb), Monorepo
 [Shawee](https://shawee.io) | São Paulo, SP | Redux, Apollo/GraphQL

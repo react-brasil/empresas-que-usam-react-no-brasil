@@ -753,6 +753,10 @@ Redux, MobX, RxJS, Jest
 Porto Alegre, RS
 Next.js
 
+[Popcode Mobile Solutions](https://popcode.com.br/)
+Aracaju, SE
+React Native, Redux, Sagas, Firebase, Jest, Flow
+
 [Pragmatismo.io](http://pragmatismo.io)
 Rio de Janeiro, RJ
 
@@ -828,6 +832,10 @@ Redux, Saga, Mobx, Lodash, Observable, Router, Ramda, Webpack, Router, Reselect,
 [Segware](https://www.segware.com.br)
 Florianópolis, SC
 React Native, Styled Components, RxJS
+
+[Serviço Nacional de Aprendizagem Comecial - SENAC/SE](http://www.se.senac.br/)
+Aracaju, SE
+NodeJS, Redux, Saga, Styled Components, Unform
 
 [Seo Zé](https://www.seoze.com)
 Vinhedo, SP
