@@ -990,6 +990,10 @@ React Native, Redux, Apollo/GraphQL, Jest, Detox(e2e), Styled Components
 São Paulo, SP - Rio de Janeiro, RJ
 Redux, Isomorphic, SSR, Saga, Jest, Ramda, ARc
 
+[Voltbras](https://voltbras.com.br/)
+Florianópolis, SC
+React Native, Redux, Apollo/GraphQL, Styled Components, NodeJS, Golang, Prisma
+
 [VTEX](https://pt.vtex.com/)
 São Paulo, SP - Rio de Janeiro, RJ
 Redux, Apollo GraphQL, Jest, React Native
