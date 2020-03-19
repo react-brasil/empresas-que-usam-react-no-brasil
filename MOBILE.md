@@ -845,6 +845,10 @@ Redux, Apollo/GraphQL
 São Carlos, SP
 Redux, Relay, GraphQL, Material-UI
 
+[Simplifica CI](https://simplificaci.com.br)
+São José do Rio Preto, SP
+Redux, Redux Thunk, Styled Components
+
 [Softbox/LuizaLabs](https://www.softbox.com.br/)
 Uberlândia, MG
 Redux, Firebase, Jest, Styled Components, Material-UI, create-react-app, Immutable
