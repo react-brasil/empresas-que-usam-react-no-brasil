@@ -111,7 +111,7 @@ Redux, Redux-Thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
 
 [Caju Benefícios](https://caju.com.br)
 São Paulo, SP
-React native, redux, sagas, relay, graphql, cypress, styled components, react-testing-library, hooks
+React Native, Redux, Sagas, Relay, GraphQL, Cypress, Styled-components, React Testing Library, Hooks
 
 [Cappta](https://cappta.com.br)
 São Paulo, SP
