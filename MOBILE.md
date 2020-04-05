@@ -768,6 +768,10 @@ Rio de Janeiro, RJ
 São Paulo, SP
 Redux, RxJS
 
+[Ponto GO](https://www.pontogo.com.br/)
+Fortaleza, CE
+React Native, Redux, Redux Saga, Firebase, Material-UI, Styled Components
+
 [ProFUSION](https://profusion.mobi)
 Campinas, SP
 React Native, Redux, Redux Saga, GraphQL, Material-UI, Styled Components, Flow, TypeScript
