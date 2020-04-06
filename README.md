@@ -274,6 +274,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Trilogo](https://www.trilogo.com.br/) | Fortaleza, CE | Redux, Jest, Saga
 [Unbanked Pagamentos](https://www.unbanked.com.br) | Paulínia, SP | Redux, React Native, Router, Firebase, NativeBase
 [UPX Technologies](https://www.upx.com/) | Campinas, SP | Redux, Router, Jest, Gatsby
+[Unimed Fortaleza](https://www.unimedfortaleza.com.br/) | Fortaleza, CE | Redux, Saga, Redux Thunk, Hooks, Router, Webpack, create-react-app, React Admin, Ant UI | 🏢
 [Vagalume](https://www.vagalume.com.br/) | São Paulo, SP | Redux, React Native, Jest
 [Vagas.com](https://www.vagas.com.br/trabalhe-conosco/oportunidades) | São Paulo, SP | Redux, Redux-Thunk, Redux Form, Redux Final Form, Jest, Styled Components, Router, React Testing Library, Webpack, Docz, Micro Frontends / Serveless, GraphQL/Relay, Next.js, Husk
 [Venda.la](https://www.vendala.com.br) | Ribeirão Preto, SP | React Native, Redux, Redux-Saga

@@ -965,6 +965,11 @@ Redux, React Native, Router, Firebase, NativeBase
 Campinas, SP
 Redux, Router, Jest, Gatsby
 
+[Unimed Fortaleza](https://www.unimedfortaleza.com.br/)
+Fortaleza, CE
+Redux, Saga, Redux Thunk, Hooks, Router, Webpack, create-react-app, React Admin, Ant UI
+🏢
+
 #
 
 [Vagalume](https://www.vagalume.com.br/)
