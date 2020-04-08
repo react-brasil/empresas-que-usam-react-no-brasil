@@ -771,6 +771,7 @@ Redux, RxJS
 [Ponto GO](https://www.pontogo.com.br/)
 Fortaleza, CE
 React Native, Redux, Redux Saga, Firebase, Material-UI, Styled Components
+🏢
 
 [ProFUSION](https://profusion.mobi)
 Campinas, SP
