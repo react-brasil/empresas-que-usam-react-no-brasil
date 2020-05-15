@@ -664,7 +664,7 @@ Redux
 
 [Mout'S](https://mouts.info)
 Blumenau, SC
-React, React Native
+React Native, Redux, Styled Component, Hooks, Router, Jest, Formik
 🏠🏢
 
 [Multiware Tecnologia](http://multiwaretecnologia.com.br)
