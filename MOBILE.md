@@ -666,6 +666,10 @@ Redux
 Sinop, MT
 React Native, Redux
 
+[Mutuus Seguros](https://www.mutuus.net)
+Canoas, RS
+React, React Router, Redux, Saga
+
 #
 
 [Napp Solutions](https://nappsolutions.com/)
