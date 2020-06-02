@@ -7,6 +7,10 @@ OBS: Antes de realizar sua contribuição dê uma olhada nas  [regras](https://g
 São Paulo, SP - Recife, PE
 Redux, React Native
 
+[ACERTA! Crédito Fácil](https://acertapromotora.com.br)
+Santo Cristo, RS
+Typescript, Context API, Hooks, Atomic Design, Styled Components, Reach Router, Formik, Testing Library, Cypress, ESLint, Husky, Prettier
+
 [Agfa HealthCare Brasil](https://global.agfahealthcare.com/brazil)
 Recife, PE
 Redux, React Native, Redux Form
