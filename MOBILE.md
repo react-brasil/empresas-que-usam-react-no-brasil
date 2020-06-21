@@ -42,6 +42,10 @@ São Paulo, SP
 São Paulo, SP
 React-Native, Redux, Feathersjs, Mongodb, Gunjs, Meteor
 
+[Ao Cubo](https://aocubo.com)
+São Paulo, SP
+React-Native, React, Redux, Next, Graphql
+
 [App Masters](https://appmasters.io)
 Juiz de Fora, MG
 React Native, Redux, Sagas, Firebase, Jest, Flow, Material-UI
@@ -286,6 +290,10 @@ NextJs, Redux, ReduxForm, Styled Components, React Native
 Uberlândia, MG
 GraphQL, Jest, Next.js, React Native, Redux, Reselect
 
+[Energisa](https://www.energisa.com.br)
+João Pessoa, PB
+React Native, Styled Components, Redux, Detox
+
 [Entria](https://entria.com.br/)
 São Paulo, SP
 GraphQL, Relay, Styled Components, Jest, Formik, Webpack, Material-UI, React Native
@@ -403,6 +411,10 @@ CSS Modules, Jest, Redux, Storybook, Webpack
 [GoBacklog](https://gobacklog.com/)
 Governador Valadares, MG
 Gatsby, Jest, Storybook, Reach Router, Styled Components, Parcel
+
+[Go-K](https://gok.digital)
+São Paulo, SP
+React Native, Gatsby, Next, Redux, Redux, Thunk Ducks, Firebase, Styled Components, Jest, GraphQL, Apollo, Storybook, TypeScript
 
 [GreenMile](http://greenmile.com/)
 Fortaleza, CE
