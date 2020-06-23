@@ -46,7 +46,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [AMARO](https://amaro.com/) | São Paulo, SP | Redux, RxJS
 [AMERICANAS](https://www.americanas.com.br/) | São Paulo, SP |
 [ANTIDOTO DESIGN E TECNOLOGIA](https://www.antidotodesign.com.br/) | São Paulo, SP | React-Native, Redux, Feathersjs, Mongodb, Gunjs, Meteor
-[Ao Cubo](https://aocubo.com) | São Paulo, SP | React-Native, Redux, Next, Graphql | 🏢
+[Ao Cubo](https://aocubo.com) | São Paulo, SP | React Native, Redux, Next, GraphQL | 🏢
 [App Masters](https://appmasters.io) | Juiz de Fora, MG | React Native, Redux, Sagas, Firebase, Jest, Flow, Material-UI
 [Appmoove](http://appmoove.com.br) | Campo Mourão, PR | React Native, Redux
 [AQUARELA](https://aquarela.studio/) | Salvador, BA | Redux, Jest, React Native, Reactotron, GraphQL, Redux Saga, Webpack, Next.js
@@ -137,7 +137,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Globo.com](https://talentos.globo.com/) | Rio de Janeiro, RJ, Porto Alegre — RS | React Native
 [Goomer](https://www.goomer.com.br/) | Sorocaba, SP | CSS Modules, Jest, Redux, Storybook, Webpack
 [GoBacklog](https://gobacklog.com/) | Governador Valadares, MG | Gatsby, Jest, Storybook, Reach Router, Styled Components, Parcel
-[Go-K](https://gok.digital) | São Paulo, SP | React, React Native, Gatsby, Next, Redux, Redux, Thunk Ducks, Firebase, Styled Components, Jest, GraphQL, Apollo, Storybook, TypeScript | 🏠 🏢
+[Go-K](https://gok.digital) | São Paulo, SP | React Native, Gatsby, Next, Redux, Redux, Thunk Ducks, Firebase, Styled Components, Jest, GraphQL, Apollo, Storybook, TypeScript | 🏠 🏢
 [GreenMile](http://greenmile.com/) | Fortaleza, CE | Redux, Redux Saga, Enzyme, Jest, ImmutableJS, Reselect, Storybook
 [Grifo](http://gri.fo/) | Porto Alegre, RS | Jest, Redux, React Native
 [Gupy](http://tech-career.gupy.io/) | São Paulo, SP | Redux, Redux-Saga, Jest, Enzyme, Storybook/Docz, Webpack, Material UI
