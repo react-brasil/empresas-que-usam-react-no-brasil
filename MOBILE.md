@@ -44,7 +44,7 @@ React-Native, Redux, Feathersjs, Mongodb, Gunjs, Meteor
 
 [Ao Cubo](https://aocubo.com)
 São Paulo, SP
-React-Native, Redux, Next, Graphql
+React Native, Redux, Next, GraphQL
 
 [App Masters](https://appmasters.io)
 Juiz de Fora, MG
