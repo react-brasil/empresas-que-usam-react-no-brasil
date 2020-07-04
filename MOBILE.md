@@ -174,7 +174,7 @@ Redux, Saga, Mocha
 
 [Contraktor](https://contraktor.com.br/)
 Curitiba, PR
-React, Redux, Saga, Ducks, Webpack
+Redux, Saga, Ducks, Webpack
 
 [ConvergenceWorks](http://convergence.works)
 São Paulo — SP, Salvador — BA

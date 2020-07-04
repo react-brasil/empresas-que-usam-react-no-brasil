@@ -78,7 +78,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Compila](http://compila.com.br/) | São Paulo, SP |
 [Conductor](https://conductor.com.br/) | João Pessoa, PB <br/> Barueri, SP <br/> Porto Alegre, RS| Redux, Router, Saga, ReduxForm, Jest, Enzyme
 [Conpass](https://conpass.io/) | Florianópolis, SC | Redux, Saga, Mocha
-[Contraktor](https://contraktor.com.br) | Curitiba, PR | React, Redux, Saga, Ducks, Webpack
+[Contraktor](https://contraktor.com.br) | Curitiba, PR | Redux, Saga, Ducks, Webpack
 [ConvergenceWorks](http://convergence.works) | São Paulo — SP, Salvador — BA | React Native, Redux, Sagas, Ignite
 [Corebiz](http://www.corebiz.com.br/) | Barueri, SP | Redux
 [Crave Food Systems](http://cravefood.services/) | Ribeirão Preto, SP | Redux, Webpack
