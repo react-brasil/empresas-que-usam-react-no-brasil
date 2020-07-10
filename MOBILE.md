@@ -184,6 +184,10 @@ Redux
 Ribeirão Preto, SP
 Redux, Webpack
 
+[Creditas](https://www.creditas.com/)
+Porto Alegre, RS - Recife, PE - São Paulo, SP
+Typescript, Formik, CRA, Gatsby, Emotion, RTL, Jest, SWR, Redux, Lerna, single-spa
+
 [Cubos](https://cubos.io)
 Salvador, BA
 Mobx, Redux, Jest

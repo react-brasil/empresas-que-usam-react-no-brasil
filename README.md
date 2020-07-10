@@ -81,6 +81,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [ConvergenceWorks](http://convergence.works) | São Paulo — SP, Salvador — BA | React Native, Redux, Sagas, Ignite
 [Corebiz](http://www.corebiz.com.br/) | Barueri, SP | Redux
 [Crave Food Systems](http://cravefood.services/) | Ribeirão Preto, SP | Redux, Webpack
+[Creditas](https://www.creditas.com/) | Porto Alegre, RS <br/> Recife, PE <br/> São Paulo, SP | Typescript, Formik, CRA, Gatsby, Emotion, RTL, Jest, SWR, Redux, Lerna, single-spa
 [Cubos](https://cubos.io) | Salvador, BA | Mobx, Redux, Jest
 [Curso Ênfase](https://www.cursoenfase.com.br) | São Carlos, SP<br/>Rio de Janeiro, RJ | GraphQL, Relay, Redux, Ducks, Material-ui, Webpack
 [CWI Software](https://www.cwi.com.br/) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Porto Alegre, RS<br/>Passo Fundo, RS<br/>Gravataí, RS<br/>São Leopoldo, RS | Redux, React Native, Styled Components, Recompose
