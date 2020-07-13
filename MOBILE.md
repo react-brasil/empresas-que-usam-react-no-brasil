@@ -172,6 +172,10 @@ Redux, Router, Saga, ReduxForm, Jest, Enzyme
 Florianópolis, SC
 Redux, Saga, Mocha
 
+[Contraktor](https://contraktor.com.br/)
+Curitiba, PR
+Redux, Saga, Ducks, Webpack
+
 [ConvergenceWorks](http://convergence.works)
 São Paulo — SP, Salvador — BA
 React Native, Redux, Sagas, Ignite
