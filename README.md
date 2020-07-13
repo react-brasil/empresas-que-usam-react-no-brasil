@@ -34,7 +34,7 @@ Alguns projetos são de startups ainda em concepção ou incubadas dentro de emp
 Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/issues)** nesse repositório. Mais fique atento se a issue já não foi feita antes e antes de realizar sua contribuição dê uma olhada nas **[regras](CONTRIBUTING.md)** 😉e desde já agradecemos.
 
 ## Empresas
-Nome | Cidade | Tecnologias Relacionadas | Alocaçao
+Nome | Cidade | Tecnologias Relacionadas | Alocação
 :------------: | ------------------------ | ------------ | -
 [Accenture](https://www.accenture.com/br-pt/careers/recife) | São Paulo, SP<br />Recife, PE | Redux, React Native
 [ACERTA! Crédito Fácil](https://acertapromotora.com.br) | Santo Cristo, RS<br />| Typescript, Context API, Hooks, Atomic Design, Styled Components, Reach Router, Formik, Testing Library, Cypress, ESLint, Husky, Prettier
