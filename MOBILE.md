@@ -541,6 +541,10 @@ React Native/Redux/Flux
 [kunst](https://kunst.com.br/)
 Gatsby, Styled Components, Redux, GraphQL, Next.js, Apollo, React Native
 
+[Kovi](https://www.kovi.com.br/) 
+São Paulo, SP 
+Hooks, GraphQL, Apollo, Typescript, Styled Components, Jest
+
 #
 
 [Labfy](https://labfy.digital)
