@@ -168,7 +168,7 @@ Nome | Cidade | Tecnologias Relacionadas | Contrato
 [Jusbrasil](https://www.jusbrasil.com.br) | São Paulo, SP<br/>Salvador, BA | GraphQL, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webpack, Material-UI
 [KeepClear](https://www.keepclear.com.br/) | São Paulo, SP | Hooks, Router, GraphQL, Apollo, TypeScript, Styled Components, Grommet.io, Jest, Enzyme
 [Kiper](https://kiper.com.br/trabalhe-conosco/) | Florianópolis, SC | React Native
-[Kovi](https://www.kovi.com.br/) | São Paulo, SP | Hooks, GraphQL, Apollo, Typescript, Styled Components, Jets
+[Kovi](https://www.kovi.com.br/) | São Paulo, SP | Hooks, GraphQL, Apollo, Typescript, Styled Components, Jest
 [Krush](https://www.krush.com.br/) | Rio de Janeiro, RJ | React Native/Redux/Flux
 [kunst](https://kunst.com.br/) |   | Gatsby, Styled Components, Redux, GraphQL, Next.js, Apollo, React Native
 [Labfy](https://labfy.digital) | Leme, SP | Redux, Material-UI, Webpack, Redux-Thunk, Jest, GraphQL, MongoDB, Relay
