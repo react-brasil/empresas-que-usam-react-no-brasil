@@ -834,6 +834,11 @@ React Native
 Lajeado, RS
 Redux, Router
 
+[Riachuelo](https://riachuelo.com.br/)
+São Paulo, SP
+Redux, Redux Thunk, Ducks, Next.js, Material-UI, Jest, Enzyme, TypeScript
+🏠 🏢
+
 [Rivendel](https://rivendel.com.br/)
 São Paulo, SP
 Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
