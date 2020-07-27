@@ -106,7 +106,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [EBANX](https://www.ebanx.com/br/carreiras) | Curitiba, PR  | Redux, React Native
 [EcompJr](http://ecompjr.com.br/) | Feira de Santana, BA |
 [EcoStage](http://www.ecostage.com.br) | São Paulo, SP | Redux
-[Editora Sanar](https://www.editorasanar.com.br) | Salvador, BA | Redux, Redux-Saga, React Native
+[Sanar](https://www.sanarmed.com) | Salvador, BA | React Native, Apollo, NextJS, Gatsby, Styled Components, Jest, Testing Library, Detox, Storybook
 [EloMilhas](https://elomilhas.com.br) | Recife, PE | Redux
 [eMasters](https://emastersapp.com/) | São Paulo, SP | NextJs, Redux, ReduxForm, Styled Components, React Native
 [eNe Soluções](http://enesolucoes.com.br/) | Uberlândia, MG | GraphQL, Jest, Next.js, React Native, Redux, Reselect
