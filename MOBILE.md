@@ -286,9 +286,9 @@ Feira de Santana, BA
 São Paulo, SP
 Redux
 
-[Editora Sanar](https://www.editorasanar.com.br)
+[Sanar](https://www.sanarmed.com)
 Salvador, BA
-Redux, Redux-Saga, React Native
+React Native, Apollo, NextJS, Gatsby, Styled Components, Jest, Testing Library, Detox, Storybook
 
 [EloMilhas](https://elomilhas.com.br)
 Recife, PE
