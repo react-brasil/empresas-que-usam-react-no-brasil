@@ -125,7 +125,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Fortbrasil](https://www.fortbrasil.com.br/) | Fortaleza, CE | Redux, React Native, Styled Components
 [Fortes Tecnologia em Sistemas](https://www.fortestecnologia.com.br) | Fortaleza, CE | Redux, Router
 [Foton](https://fotontech.io) | Florianópolis, SC | GraphQL, Relay, Apollo, Styled Components, Jest, Formik, React Native, Webpack
-[Fractal Tecnologia](http://www.fractaltecnologia.com.br) | João Pessoa, PB | Redux, Redux-Thunk, Jest
+[Fractal Tecnologia](http://www.fractaltecnologia.com.br) | João Pessoa, PB | Redux, Redux-Thunk, Redux-Saga, Redux-form, Emotion, Jest
 [Fred](https://fredbots.com/) | São Paulo, SP | Redux, Redux Thunk
 [Fundação CERTI](https://certi.org.br/) | Florianópolis, SC | Redux, Apollo, Relay, Jest
 [FW7](http://fw7.com.br/) | Blumenau, SC | Redux, React Native, Styled Components, GraphQl, Apollo, Ducks, Jest, Enzyme, Hooks, Ramda, ESLint(Standard), Final Form, Parcel, ImmutableJS
@@ -251,6 +251,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Secrel](https://secrel.com.br/) | Fortaleza, CE | Hooks, React Native, Redux, Saga, Styled Components, Router, Jest, Enzyme, React Testing Library, Cypress, Storybook, Material-UI
 [Seeds](https://www.seeds.no) | Vitória, ES | Redux, Saga, Mobx, Lodash, Observable, Router, Ramda, Webpack, Router, Reselect, Typescript
 [Segware](https://www.segware.com.br) | Florianópolis, SC | React Native, Styled Components, RxJS
+[ServiceNet](https://www.servicenet.com.br/) | João Pessoa, PB | React Native, Redux, Styled-Components | 🏠 🏢
 [Serviço Nacional de Aprendizagem Comecial - SENAC/SE](http://www.se.senac.br/) | Aracaju, SE | NodeJS, Redux, Saga, Styled Components, Unform | 🏢
 [Seo Zé](https://www.seoze.com) | Vinhedo, SP | Redux, Styled Components, Unform
 [Serasa consumidor](https://www.serasaconsumidor.com.br) | Blumenau, SC | Redux, Saga, Next, CSS Modules, Jest, Enzyme, Hooks, Ramda, ESLint(Airbnb), Monorepo
@@ -258,6 +259,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [sigalei](https://sigalei.com.br) | São Carlos, SP | Redux, Relay, GraphQL, Material-UI
 [Simplifica CI](https://simplificaci.com.br) | São José do Rio Preto, SP | Redux, Redux Thunk, Styled Components
 [Softbox/LuizaLabs](https://softbox.com.br) | Uberlândia, MG | Redux, Firebase, Jest, Styled Components, Material-UI, create-react-app, Immutable
+[Softcon](http://www.softcomtecnologia.com.br/trabalhe-conosco) | João Pessoa, PB | React Native | 🏢
 [SoftExpert Software](https://www.softexpert.com.br/) | Joinville, SC | React Native, Redux
 [Softplan](https://www.softplan.com.br/) | Florianópolis, SC | Redux, ReactNative
 [Softin Sistemas](https://softin.com.br/) | Joinville, SC | Redux
