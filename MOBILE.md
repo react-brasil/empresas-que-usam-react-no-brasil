@@ -360,7 +360,7 @@ Fortaleza, CE  Redux, Router
 
 [Fractal Tecnologia](http://www.fractaltecnologia.com.br)
 João Pessoa, PB
-Redux, Redux-Thunk, Jest
+Redux, Redux-Thunk, Redux-Saga, Redux-form, Emotion, Jest
 
 [Fred](https://fredbots.com/)
 São Paulo, SP
@@ -876,6 +876,10 @@ Redux, Saga, Mobx, Lodash, Observable, Router, Ramda, Webpack, Router, Reselect,
 Florianópolis, SC
 React Native, Styled Components, RxJS
 
+[ServiceNet](https://www.servicenet.com.br/)
+João Pessoa, PB
+React Native, Redux, Styled-Components
+
 [Serviço Nacional de Aprendizagem Comecial - SENAC/SE](http://www.se.senac.br/)
 Aracaju, SE
 NodeJS, Redux, Saga, Styled Components, Unform
@@ -903,6 +907,10 @@ Redux, Redux Thunk, Styled Components
 [Softbox/LuizaLabs](https://www.softbox.com.br/)
 Uberlândia, MG
 Redux, Firebase, Jest, Styled Components, Material-UI, create-react-app, Immutable
+
+[Softcon](http://www.softcomtecnologia.com.br)
+João Pessoa, PB
+React Native
 
 [SoftExpert Software](https://www.softexpert.com.br/)
 Joinville, SC
