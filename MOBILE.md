@@ -634,6 +634,10 @@ Redux, Redux Form, Jest, Enzyme
 São Paulo, SP
 Redux, Jest, Enzyme
 
+[Magazord](https://www.magazord.com.br/)
+Rio do Sul, SC
+ReactJS, React Router, Material-UI
+
 [Magnetis](https://www.magnetis.com.br)
 São Paulo, SP
 React Native, Redux, Redux Loop, Jest, Enzyme, Styled Components, Typescript
