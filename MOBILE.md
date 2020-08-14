@@ -630,6 +630,10 @@ Redux, Saga, GraphQL, Jest, Enzyme
 Rio de Janeiro, RJ
 Redux, Redux Form, Jest, Enzyme
 
+[Magapay](https://www.magapay.com.br/)
+Rio do Sul, SC
+React Admin, React Router, Redux, Material-UI
+
 [Magazine Luiza](https://www.magazineluiza.com.br)
 São Paulo, SP
 Redux, Jest, Enzyme
