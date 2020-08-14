@@ -636,7 +636,7 @@ Redux, Jest, Enzyme
 
 [Magazord](https://www.magazord.com.br/)
 Rio do Sul, SC
-ReactJS, React Router, Material-UI
+React Router, Material-UI
 
 [Magnetis](https://www.magnetis.com.br)
 São Paulo, SP
