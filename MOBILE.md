@@ -638,6 +638,10 @@ React Admin, React Router, Redux, Material-UI
 São Paulo, SP
 Redux, Jest, Enzyme
 
+[Magazord](https://www.magazord.com.br/)
+Rio do Sul, SC
+React Router, Material-UI
+
 [Magnetis](https://www.magnetis.com.br)
 São Paulo, SP
 React Native, Redux, Redux Loop, Jest, Enzyme, Styled Components, Typescript

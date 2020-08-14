@@ -194,6 +194,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [MAiS Resultados](https://www.mais-resultados.com/) | Rio de Janeiro, RJ | Redux, Redux Form, Jest, Enzyme
 [Magapay](https://www.magapay.com.br/) | Rio do Sul, SC | React Admin, React Router, Redux, Material-UI
 [Magazine Luiza](https://www.magazineluiza.com.br) | São Paulo, SP | Redux, Jest, Enzyme
+[Magazord](https://www.magazord.com.br/) | Rio do Sul, SC | React Router, Material-UI
 [Magnetis](https://www.magnetis.com.br) | São Paulo, SP | React Native, Redux, Redux Loop, Jest, Enzyme, Styled Components, Typescript | 🏠🏢
 [Magrathea Laboratories](https://www.magrathealabs.com/) | Joinville, SC | Redux, React Native
 [Matera](http://www.matera.com/br/) | Campinas, SP | Redux, Flux, Enzyme, Redux-Thunk, Mocha, Router
