@@ -846,6 +846,10 @@ React Native
 Lajeado, RS
 Redux, Router
 
+[Rethink](https://rethink.dev)
+Belo Horizonte, MG
+React Web & Native, Styled Components, Router, Redux, Saga, Material-UI, Jest, Enzyme, Typescript, Immutable.js, GraphQL
+
 [Riachuelo](https://riachuelo.com.br/)
 São Paulo, SP
 Redux, Redux Thunk, Ducks, Next.js, Material-UI, Jest, Enzyme, TypeScript
