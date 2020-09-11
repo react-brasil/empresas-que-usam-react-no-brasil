@@ -39,7 +39,7 @@ Redux, Redux Form, React Native
 São Paulo, SP
 Redux, RxJS
 
-[AMERICANAS](https://www.americanas.com.br/)
+[Americanas](https://www.americanas.com.br/)
 São Paulo, SP
 
 [ANTIDOTO DESIGN E TECNOLOGIA](https://www.antidotodesign.com.br/)
