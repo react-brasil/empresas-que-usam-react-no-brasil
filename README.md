@@ -243,6 +243,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [QuintoAndar](https://quintoandar.com.br) | São Paulo, SP | Redux, Jest, Styled Components
 [Raise Sistemas](https://raisesistemas.com.br) | Rio de Janeiro, RJ | React Native
 [Requisittus](https://requisittus.com.br) | Lajeado, RS | Redux, Router
+[Rethink](https://rethink.dev) | Belo Horizonte, MG | React Web & Native, Styled Components, Router, Redux, Saga, Material-UI, Jest, Enzyme, Typescript, Immutable.js, GraphQL
 [Riachuelo](https://riachuelo.com.br/) | São Paulo, SP | Redux, Redux Thunk, Ducks, Next.js, Material-UI, Jest, Enzyme, TypeScript | 🏠 🏢
 [Rivendel](https://rivendel.com.br/) | São Paulo, SP | Treinamento/consultoria aos clientes e produtos internos com Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
 [Rocketseat](https://rocketseat.com.br) | Rio do Sul, SC | NodeJS, ReactJS e React Native.
