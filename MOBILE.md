@@ -968,6 +968,10 @@ São Paulo, SP
 São Paulo, SP
 GraphQL, Apollo, Jest, Enzyme, React Testing Library, Styled Components
 
+[Suntech](https://www.suntech.com.br)
+Florianópolis, SC
+Hooks, Ant UI
+
 [Superlógica](https://www.superlogica.com/)
 Campinas, SP  React Native, Redux
 
