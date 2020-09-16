@@ -197,6 +197,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Magazord](https://www.magazord.com.br/) | Rio do Sul, SC | React Router, Material-UI
 [Magnetis](https://www.magnetis.com.br) | São Paulo, SP | React Native, Redux, Redux Loop, Jest, Enzyme, Styled Components, Typescript | 🏠🏢
 [Magrathea Laboratories](https://www.magrathealabs.com/) | Joinville, SC | Redux, React Native
+[Mapfry](https://www.mapfry.com) | São Paulo, SP | React, React-Router, Redux, Styled Components, Typescript, Mapbox, Hooks, Storybook | 🏠
 [Matera](http://www.matera.com/br/) | Campinas, SP | Redux, Flux, Enzyme, Redux-Thunk, Mocha, Router
 [MaxMilhas](https://www.maxmilhas.com.br/) | Belo Horizonte, MG | Redux, React Native
 [Menthor](http://www.menthor.net/) | Vitória, ES | Redux, Mongo DB, elasticsearch
