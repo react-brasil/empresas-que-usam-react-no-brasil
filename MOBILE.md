@@ -653,7 +653,7 @@ Redux, React Native
 
 [Mapfry](https://www.mapfry.com)
 São Paulo, SP
-Redux, Styled Components, Typescript, Mapbox, Hooks, Storybook
+React-Router, Redux, Styled Components, Typescript, Mapbox, Hooks, Storybook
 
 [Matera](http://www.matera.com/br/)
 Campinas, SP
