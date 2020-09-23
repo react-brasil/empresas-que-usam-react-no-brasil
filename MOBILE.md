@@ -846,6 +846,11 @@ Redux, Jest, Styled Components
 Rio de Janeiro, RJ
 React Native
 
+[RankMyAPP](https://www.rankmyapp.com/)
+São Paulo, SP
+Redux, Redux Thunk, Ducks, Hooks, Material-UI, Styled Components, Jest, Immutable.js, TypeScript
+🏠 🏢
+
 [Requisittus](https://requisittus.com.br)
 Lajeado, RS
 Redux, Router
