@@ -136,6 +136,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Gerenciagram](https://gerenciagram.com.br) | Feira de Santana, BA | React Native, Redux, Sagas
 [Geru](https://geru.com.br/) | São Paulo, SP | Webpack, Redux, ReduxForm, Redux Thunk, Redux Saga, Router, Recompose, Reselect, Gatsby, Styled Components, Docz, Flow, GraphQL, Apollo, ImmutableJS, Jest, Enzyme
 [GETTY/IO](https://getty.io) | São Paulo, SP | React Native, Redux, Apollo/GraphQL, Jest, Relay, Styled Components, Next.js
+[GetNet](https://site.getnet.com.br/) | Porto Alegre, RS | React, Redux, Node | 🏠
 [Getup Cloud](https://getupcloud.com/) | São Paulo, SP | Redux, Jest, Webpack, Storybook, Patternfly-React
 [Globo.com](https://talentos.globo.com/) | Rio de Janeiro, RJ, Porto Alegre — RS | React Native
 [Goomer](https://www.goomer.com.br/) | Sorocaba, SP | CSS Modules, Jest, Redux, Storybook, Webpack
