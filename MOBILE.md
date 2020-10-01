@@ -586,6 +586,10 @@ Redux, Styled Components, Storybook, Jest, GraphQL, Enzyme, Webpack, Firebase, A
 São Paulo, SP
 Redux, Styled Components, Jest, Storybook, React Native
 
+[Lambda3](https://lambda3.com.br)
+São Paulo, SP
+Redux, Styled Components, Jest, Storybook, React Native, Enzyme, Webpack, Redux-Thunk, Redux-Saga
+
 [Leroy Merlin Brasil](https://www.leroymerlin.com.br)
 São Paulo, SP
 React Native, Styled Components, Jest, Enzyme, Firebase, Razzle, Webpack, Rollup

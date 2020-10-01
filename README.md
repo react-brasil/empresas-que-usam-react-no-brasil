@@ -181,6 +181,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Laborit](http://www.laborit.com.br/) | São Paulo, SP, Ribeirão Preto — SP | Redux
 [Labcodes](http://labcodes.com.br/) | Recife, PE | Redux, Styled Components, Storybook, Jest, GraphQL, Enzyme, Webpack, Firebase, Apollo, Recompose, React-Router, Cypress
 [LaPag](https://lapag.com.br) | São Paulo, SP | Redux, Styled Components, Jest, Storybook, React Native
+[Lambda3](https://lambda3.com.br) | São Paulo, SP | Redux, Styled Components, Jest, Storybook, React Native, Enzyme, Webpack, Redux-Thunk, Redux-Saga | 🏢
 [Leroy Merlin Brasil](https://www.leroymerlin.com.br) | São Paulo, SP | React Native, Styled Components, Jest, Enzyme, Firebase, Razzle, Webpack, Rollup
 [Letrus](https://www.letrus.com.br) | São Paulo, SP | Redux, ImmutableJS, Styleguidist, Webpack, Jest, Enzyme
 [Liferay](https://liferay.com) | Recife, PE | Formik, Jest, GraphQL, Redux, Webpack
