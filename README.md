@@ -63,7 +63,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Brasal](http://brasal.com.br) | Brasília, DF<br/>Uberlândia, MG | React Native, Redux, React VR
 [BovControl](https://bovcontrol.com) | São Paulo, SP | Redux, Saga, MobX
 [Boticário](https://www.boticario.com.br/) |  | Redux, Apollo, Graphql
-[Bowe](https://bowe.com.br/) | Uberlândia, MG | React, Context API, Material UI
+[Bowe](https://bowe.com.br/) | Uberlândia, MG | Context API, Material UI, Webpack, Enzyme | 🏠 e 🏢
 [Buscapé](https://www.buscape.com.br) | São Paulo, SP | Redux, Redux-Thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
 [Caju Benefícios](https://caju.com.br) | São Paulo, SP | React Native, Redux, Sagas, Relay, GraphQL, Cypress, Styled-components, React Testing Library, Hooks
 [Cappta](https://cappta.com.br) | São Paulo, SP | React Native, Redux
