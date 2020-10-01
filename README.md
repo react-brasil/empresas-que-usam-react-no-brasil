@@ -208,7 +208,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Ministério Público do Estado do Rio de Janeiro](https://apps.mprj.mp.br/sistema/inloco/) | Rio de Janeiro, RJ | GeoServer, Leaflet, Chart.js, Intro.js
 [MixBR Games](http://www.mixbrgames.com/) |  | Redux, Styled Components
 [Mobills](https://www.mobills.com.br/) | Fortaleza, CE | Redux, React Router, Material-UI, Redux Form
-[Mobly](https://www.mobly.com.br/) | São Paulo, SP | Vue.JS, React Native, Angular.JS, GraphQL, Node.js, MongoDB, Docker
+[Mobly](https://www.mobly.com.br/) | São Paulo, SP | React Native, GraphQL, Node.js, MongoDB, Docker
 [Monkey Exchange](https://www.monkey.exchange/) | São Paulo, SP | Redux, MobX
 [Mooven Consulting](http://www.moovenconsulting.com.br) | São Paulo, SP | Redux
 [Mout'S](https://mouts.info) | Blumenau, SC | React Native, Redux, Saga, Styled Components, Hooks, Router, Jest, Formik | 🏠🏢
