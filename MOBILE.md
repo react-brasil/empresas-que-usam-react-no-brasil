@@ -616,6 +616,10 @@ Redux, Redux-Thunk, Jest, Enzyme, create-react-app
 [Loldesign](https://www.loldesign.com.br)
 São Paulo, SP
 
+[LuizaLabs](https://medium.com/luizalabs)
+Franca, SP
+Mobx, Jest, Styled Components, Semantic-UI, create-react-app, Webpack, Typescript, React Native, Mocha, Nock
+
 [Lunes](https://lunes.io)
 Cajamar, SP
 Redux, Redux Saga
