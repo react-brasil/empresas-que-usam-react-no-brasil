@@ -111,6 +111,10 @@ Redux, Saga, MobX
 [Boticário](https://www.boticario.com.br/)
 Redux, Apollo, Graphql
 
+[Bowe](https://bowe.com.br)
+Uberlândia, MG
+Context API, Material UI, Webpack, Enzyme
+
 [Buscapé](https://www.buscape.com.br)
 São Paulo, SP
 Redux, Redux-Thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
