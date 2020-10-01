@@ -590,6 +590,10 @@ Redux, Styled Components, Jest, Storybook, React Native
 São Paulo, SP
 Redux, Styled Components, Jest, Storybook, React Native, Enzyme, Webpack, Redux-Thunk, Redux-Saga
 
+[LEAD](http://leadfortaleza.com.br/portal) 
+Fortaleza, CE
+React Native, Redux, Redux Thunk, Ducks, Saga
+
 [Leroy Merlin Brasil](https://www.leroymerlin.com.br)
 São Paulo, SP
 React Native, Styled Components, Jest, Enzyme, Firebase, Razzle, Webpack, Rollup

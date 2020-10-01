@@ -182,6 +182,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Labcodes](http://labcodes.com.br/) | Recife, PE | Redux, Styled Components, Storybook, Jest, GraphQL, Enzyme, Webpack, Firebase, Apollo, Recompose, React-Router, Cypress
 [LaPag](https://lapag.com.br) | São Paulo, SP | Redux, Styled Components, Jest, Storybook, React Native
 [Lambda3](https://lambda3.com.br) | São Paulo, SP | Redux, Styled Components, Jest, Storybook, React Native, Enzyme, Webpack, Redux-Thunk, Redux-Saga | 🏢
+[LEAD](http://leadfortaleza.com.br/portal) | Fortaleza, CE | React Native, Redux, Redux Thunk, Ducks, Saga | 🏠🏢
 [Leroy Merlin Brasil](https://www.leroymerlin.com.br) | São Paulo, SP | React Native, Styled Components, Jest, Enzyme, Firebase, Razzle, Webpack, Rollup
 [Letrus](https://www.letrus.com.br) | São Paulo, SP | Redux, ImmutableJS, Styleguidist, Webpack, Jest, Enzyme
 [Liferay](https://liferay.com) | Recife, PE | Formik, Jest, GraphQL, Redux, Webpack
