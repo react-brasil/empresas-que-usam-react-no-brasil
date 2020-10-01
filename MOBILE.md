@@ -694,6 +694,10 @@ Redux, Styled Components
 Fortaleza, CE
 Redux, React Router, Material-UI, Redux Form
 
+[Mobly](https://www.mobly.com.br/)
+São Paulo, SP
+Vue.JS, React / React Native, Angular.JS, GraphQL, Node.js, MongoDB, Docker
+
 [Monkey Exchange](https://www.monkey.exchange/)
 São Paulo, SP
 Redux, MobX
