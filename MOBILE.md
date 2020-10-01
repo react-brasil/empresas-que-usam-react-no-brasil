@@ -412,6 +412,10 @@ Webpack, Redux, ReduxForm, Redux Thunk, Redux Saga, Router, Recompose, Reselect,
 São Paulo, SP
 Redux, Jest, Webpack, Storybook, Patternfly-React
 
+[GetNet](https://site.getnet.com.br/)
+Porto Alegre, RS
+Redux, Node
+
 [Globo.com](https://talentos.globo.com/)
 Rio de Janeiro, RJ, Porto Alegre — RS
 React Native
