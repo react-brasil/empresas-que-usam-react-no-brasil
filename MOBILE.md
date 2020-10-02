@@ -539,6 +539,10 @@ React Native, Redux, Redux Thunk, Styled Components
 Belo Horizonte, MG - São Paulo, SP - Lavras, MG - Aracaju, SE
 React Native, Redux, Redux Thunk, Styled Components, Jest
 
+[Irriga Global](https://irriga.net/)
+Santa Maria, RS
+React Native, Redux
+
 [Isobar Brasil](http://www.isobar.com/br/en/)
 São Paulo, SP
 
