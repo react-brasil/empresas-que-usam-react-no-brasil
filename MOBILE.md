@@ -238,9 +238,9 @@ Redux, Jest, Enzyme
 Caxias do Sul, RS - Florianópolis, SC
 Redux, React Native, Router, Material UI, GraphQL, Next.js, MobX, Jest, Enzyme, Cypress
 
-[DEX](https://dex.company) 
+[DEX](https://dex.company)
 São Paulo, SP
-Cornélio Procópio, PR 
+Cornélio Procópio, PR
 Redux, Context API, React Native, Jest, Enzyme, Styled Component
 
 [Dextra](http://dextra.com.br)
@@ -573,8 +573,8 @@ React Native/Redux/Flux
 [kunst](https://kunst.com.br/)
 Gatsby, Styled Components, Redux, GraphQL, Next.js, Apollo, React Native
 
-[Kovi](https://www.kovi.com.br/) 
-São Paulo, SP 
+[Kovi](https://www.kovi.com.br/)
+São Paulo, SP
 Hooks, GraphQL, Apollo, Typescript, Styled Components, Jest
 
 #
@@ -598,7 +598,7 @@ Redux, Styled Components, Jest, Storybook, React Native
 São Paulo, SP
 Redux, Styled Components, Jest, Storybook, React Native, Enzyme, Webpack, Redux-Thunk, Redux-Saga
 
-[LEAD](http://leadfortaleza.com.br/portal) 
+[LEAD](http://leadfortaleza.com.br/portal)
 Fortaleza, CE
 React Native, Redux, Redux Thunk, Ducks, Saga
 
@@ -773,8 +773,8 @@ React Native, Redux, Next.js, Docz
 
 #
 
-[Ochain](https://www.ochain.com.br/) 
-Florianópolis, SC 
+[Ochain](https://www.ochain.com.br/)
+Florianópolis, SC
 Styled Components, Material UI, Apollo, GraphQL, Prisma
 
 [OLX](http://www.olx.com.br/)
@@ -888,8 +888,8 @@ Redux, Redux Thunk, Ducks, Next.js, Material-UI, Jest, Enzyme, TypeScript
 São Paulo, SP
 Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
 
-[Rocketseat] (https://rocketseat.com.br) 
-Rio do Sul, SC 
+[Rocketseat] (https://rocketseat.com.br)
+Rio do Sul, SC
 NodeJS, ReactJS e React Native.
 
 [RPC (Afiliada Globo)](https://redeglobo.globo.com/rpc/)
@@ -1113,6 +1113,10 @@ Redux, Apollo GraphQL, Jest, React Native
 
 #
 
+[WA Project](https://www.waproject.com.br/)
+São Paulo, SP
+Redux, Context API, Hooks, TypeScript, React Native, Material UI, Formik
+
 [Wealth Systems](http://wssim.com.br)
 Cascavel, PR
 Immutable
@@ -1151,9 +1155,9 @@ JSS, Apollo/GraphQL, Jest, Enzyme
 
 #
 
-[Zaal Tecnologia](http://www.zaal.com.br/) 
+[Zaal Tecnologia](http://www.zaal.com.br/)
 Três Rios, RJ
-React-Native, Redux Persist, Saga, Reactotron, ESLint(Airbnb), Styled Components, Hooks, Prettier, Formik, Ducks, Ant UI, Jest 
+React-Native, Redux Persist, Saga, Reactotron, ESLint(Airbnb), Styled Components, Hooks, Prettier, Formik, Ducks, Ant UI, Jest
 
 [Zap Imóveis](https://www.zapimoveis.com.br/)
 São Paulo, SP
