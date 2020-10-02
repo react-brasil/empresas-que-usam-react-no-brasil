@@ -309,6 +309,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [VML Brasil](https://www.vml.com/brazil/) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Isomorphic, SSR, Saga, Jest, Ramda, ARc
 [Voltbras](https://voltbras.com.br/) | Florianópolis, SC | React Native, Redux, Apollo/GraphQL, Styled Components, NodeJS, Golang, Prisma
 [VTEX](https://pt.vtex.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Apollo GraphQL, Jest, React Native
+[WA Project](https://www.waproject.com.br/) | São Paulo, SP | Redux, Context API, Hooks, TypeScript, React Native, Material UI, Formik
 [Wealth Systems](http://wssim.com.br) | Cascavel, PR | Immutable
 [Webedia](http://webedia.com.br/) | Rio de Janeiro, RJ | Redux, Jest, GraphQL
 [WebJump](http://www.webjump.com.br) | São Paulo, SP | GraphQL, Redux, Hooks, Styled Components, Router, Apollo, Jest, React Native, Enzyme
@@ -318,7 +319,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Wizard](https://www.wizard.com.br) | São Paulo, SP | React Native, Redux, Sagas, Router
 [XP Investimentos](https://www.xpi.com.br/) | São Paulo, SP | Redux, Jest, React-Native
 [Yube](http://www.yube.com.br/) | São Paulo, SP | JSS, Apollo/GraphQL, Jest, Enzyme
-[Zaal Tecnologia](http://www.zaal.com.br/) | Três Rios, RJ | React-Native, Redux Persist, Saga, Reactotron, ESLint(Airbnb), Styled Components, Hooks, Prettier, Formik, Ducks, Ant UI, Jest 
+[Zaal Tecnologia](http://www.zaal.com.br/) | Três Rios, RJ | React-Native, Redux Persist, Saga, Reactotron, ESLint(Airbnb), Styled Components, Hooks, Prettier, Formik, Ducks, Ant UI, Jest
 [Zap Imóveis](https://www.zapimoveis.com.br/) | São Paulo, SP | Redux, Jest, GraphQL
 [ZeroSoft](https://www.zerosoft.com.br/) | Ribeirão Preto, SP | Redux, Styled Components, Router, Material-UI, Webpack, Router, React Native, Monorepo
 [Zimp](https://zimp.me/) | São Paulo, SP |
