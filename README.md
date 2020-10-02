@@ -254,6 +254,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Rivendel](https://rivendel.com.br/) | São Paulo, SP | Treinamento/consultoria aos clientes e produtos internos com Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
 [Rocketseat](https://rocketseat.com.br) | Rio do Sul, SC | NodeJS, ReactJS e React Native.
 [RPC (Afiliada Globo)](https://redeglobo.globo.com/rpc/) | Curitiba, PR | React Native, Redux, Redux-Thunk, Redux-Forms, MobX, Rematch, Router
+[Salvus](https://salvus.me/) | Recife, PE | Redux, Redux Thunk, React Native 
 [Samba Tech](https://sambatech.com/) | Belo Horizonte, MG |
 [Sciensa](http://sciensa.com/) | São Paulo, SP | Redux, Router, Ramda, Jest e Form.
 [Secretaria Municipal da Educação da Prefeitura de Fortaleza](http://sme.fortaleza.ce.gov.br) | Fortaleza, CE | React Native, Redux, Saga, ImmutableJS, Lodash
