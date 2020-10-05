@@ -258,6 +258,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [RPC (Afiliada Globo)](https://redeglobo.globo.com/rpc/) | Curitiba, PR | React Native, Redux, Redux-Thunk, Redux-Forms, MobX, Rematch, Router
 [Samba Tech](https://sambatech.com/) | Belo Horizonte, MG |
 [Sciensa](http://sciensa.com/) | São Paulo, SP | Redux, Router, Ramda, Jest e Form.
+[Seasoned](http://seasoned.cc/) | Porto Alegre, RS | Material-UI, Lodash, Jest, React Testing Library, Hooks, Jest, [Croods](https://github.com/SeasonedSoftware/croods/) | 🏠
 [Secretaria Municipal da Educação da Prefeitura de Fortaleza](http://sme.fortaleza.ce.gov.br) | Fortaleza, CE | React Native, Redux, Saga, ImmutableJS, Lodash
 [Secrel](https://secrel.com.br/) | Fortaleza, CE | Hooks, React Native, Redux, Saga, Styled Components, Router, Jest, Enzyme, React Testing Library, Cypress, Storybook, Material-UI
 [Seeds](https://www.seeds.no) | Vitória, ES | Redux, Saga, Mobx, Lodash, Observable, Router, Ramda, Webpack, Router, Reselect, Typescript
