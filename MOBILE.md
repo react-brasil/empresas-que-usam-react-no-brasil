@@ -909,6 +909,11 @@ Belo Horizonte, MG
 São Paulo, SP
 Redux, Router, Ramda, Jest e Form.
 
+[Seasoned](http://seasoned.cc/)
+Porto Alegre, RS
+Material-UI, Lodash, Jest, React Testing Library, Hooks, Jest, [Croods](https://github.com/SeasonedSoftware/croods/)
+🏠
+
 [Secretaria Municipal da Educação da Prefeitura de Fortaleza](http://sme.fortaleza.ce.gov.br)
 Fortaleza, CE
 React Native, Redux, Saga, ImmutableJS, Lodash
