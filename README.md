@@ -8,18 +8,24 @@
     </p>
 </p>
 
+<p align="center">
+    <a href="MOBILE.md"><b>Versão Mobile</b></a>
+	·
+    <a href="README.md"><b>Versão Desktop</b></a>
+</p>
+
 <div align="center">
 
-[![](https://img.shields.io/badge/-Sobre-00A9FF)](#about-the-project)
-[![](https://img.shields.io/badge/-Empresas-00A9FF)](#features)
-[![](https://img.shields.io/badge/-Projetos-00A9FF)](#getting-started)
-[![](https://img.shields.io/badge/-Contribuir-00A9FF)](#to-contribute)
+[![](https://img.shields.io/badge/-Sobre-00A9FF)](#Introdução)
+[![](https://img.shields.io/badge/-Empresas-00A9FF)](#Empresas)
+[![](https://img.shields.io/badge/-Projetos-00A9FF)](#Projetos)
+[![](https://img.shields.io/badge/-Contribuir-00A9FF)](#contribuições-dúvidas-e-melhorias-)
 [![](https://img.shields.io/badge/-reactconf-00A9FF)](https://reactconf.com.br/)
 <br>
 
 [![Slack](https://img.shields.io/badge/-Slack-212121?&labelColor=00A9FF&logo=slack&logoColor=212121&link=https://react.now.sh/)](https://react.now.sh/)
 [![](https://img.shields.io/badge/-Core%20Members-333333)](#contributors)
-[![](https://img.shields.io/badge/-Licença-333333)](/LICENSE)
+[![](https://img.shields.io/badge/-Licença-333333)](#Licença)
 [![](https://img.shields.io/badge/-Adicionar%20Empresa-333333)](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/issues)
 
 </div>
@@ -29,26 +35,26 @@
 		<i>Também confira nossos outros projetos</i>
 	</sub>
 	<br>
+	<sup>
     <a href="https://github.com/react-brasil/awesome-react-events-br">Eventos sobre React</a>
     ·
     <a href="https://github.com/react-brasil/me-contrata/issues?q=is%3Aopen+is%3Aissue">Procurando talentos?</a>
 	·
     <a href="https://github.com/react-brasil/vagas/issues?q=is%3Aopen+is%3Aissue">Procurando emprego?</a>
+	</sup>
 </p>
 
-[📱 Para versão mobile acesse aqui.](MOBILE.md)
+## Introdução
 
-Repositório responsável em listar empresas e projetos que utilizam nosso querido **[React](https://reactjs.org/)**
+Se sua empresa e/ou projeto utiliza alguma tecnologia do ecossistema React, não deixe de adicionar aqui nesta lista, abrindo um **[Pull Request](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/pulls).**
 
-Se sua empresa e/ou projeto utiliza alguma tecnologia do ecossistema React, não deixe de adicionar aqui neste listas abrindo um **[Pull Request](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/pulls)**
+Alguns projetos são de startups ainda em concepção ou incubadas dentro de empresas que podem ter potencial de virar produto independente e merecem destaque, indique o seu projeto caso se enquadre nessas situações.
 
-Alguns projetos são de startups ainda em concepção ou incubadas dentro de empresas que podem ter potencial de virar produto independente e merecem destaque, indique o seu projeto caso se enquadre nessas situações
+> Caso tenha dificuldades sempre pode perguntar no **[Slack](https://react.now.sh)**.
 
-> caso tenha dificuldades sempre pode perguntar no **[Slack](https://react.now.sh)**
+## Contribuições, dúvidas e melhorias
 
-## Contribuições, dúvidas e melhorias. 😃
-
-Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/issues)** nesse repositório. Mais fique atento se a issue já não foi feita antes e antes de realizar sua contribuição dê uma olhada nas **[regras](CONTRIBUTING.md)** 😉e desde já agradecemos.
+Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/issues)** nesse repositório. Mais fique atento se a issue já não foi feita antes e antes de realizar sua contribuição dê uma olhada nas **[regras](CONTRIBUTING.md)** e desde já agradecemos.
 
 ## Empresas
 
@@ -365,11 +371,7 @@ Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil
 
 ## Licença
 
-[MIT]
-
-## Slack
-
-https://react.now.sh (+10k membros!)
+MIT
 
 ## Core members
 
