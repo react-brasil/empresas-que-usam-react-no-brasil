@@ -10,14 +10,14 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/-Sobre-61DAFB)](#about-the-project)
-[![](https://img.shields.io/badge/-Empresas-61DAFB)](#features)
-[![](https://img.shields.io/badge/-Projetos-61DAFB)](#getting-started)
-[![](https://img.shields.io/badge/-Contribuir-61DAFB)](#to-contribute)
-[![](https://img.shields.io/badge/-reactconf-0D97FF)](https://reactconf.com.br/)
+[![](https://img.shields.io/badge/-Sobre-00A9FF)](#about-the-project)
+[![](https://img.shields.io/badge/-Empresas-00A9FF)](#features)
+[![](https://img.shields.io/badge/-Projetos-00A9FF)](#getting-started)
+[![](https://img.shields.io/badge/-Contribuir-00A9FF)](#to-contribute)
+[![](https://img.shields.io/badge/-reactconf-00A9FF)](https://reactconf.com.br/)
 <br>
 
-[![Slack](https://img.shields.io/badge/-Slack-212121?&labelColor=61DAFB&logo=slack&logoColor=212121&link=https://react.now.sh/)](https://react.now.sh/)
+[![Slack](https://img.shields.io/badge/-Slack-212121?&labelColor=00A9FF&logo=slack&logoColor=212121&link=https://react.now.sh/)](https://react.now.sh/)
 [![](https://img.shields.io/badge/-Core%20Members-333333)](#contributors)
 [![](https://img.shields.io/badge/-Licença-333333)](/LICENSE)
 [![](https://img.shields.io/badge/-Adicionar%20Empresa-333333)](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/issues)
@@ -25,21 +25,16 @@
 </div>
 
 <p align="center">
+	<sub>
+		<i>Também confira nossos outros projetos</i>
+	</sub>
+	<br>
     <a href="https://github.com/react-brasil/awesome-react-events-br">Eventos sobre React</a>
     ·
     <a href="https://github.com/react-brasil/me-contrata/issues?q=is%3Aopen+is%3Aissue">Procurando talentos?</a>
 	·
     <a href="https://github.com/react-brasil/vagas/issues?q=is%3Aopen+is%3Aissue">Procurando emprego?</a>
 </p>
-
-<p align="center">
-	<sub><i>Também confira nossos outros projetos</i></sub>
-  <br/>
-	<a href="https://github.com/react-brasil/awesome-react-events-br">Eventos sobre React</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/react-brasil/me-contrata/issues?q=is%3Aopen+is%3Aissue">Procurando talentos?</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/react-brasil/vagas/issues?q=is%3Aopen+is%3Aissue">Procurando emprego?</a>&nbsp;&nbsp;&nbsp;
-</p>
-<br/>
 
 [📱 Para versão mobile acesse aqui.](MOBILE.md)
 
