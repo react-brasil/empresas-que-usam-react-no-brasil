@@ -1,7 +1,48 @@
-# Empresas que usam React no Brasil
->📱Versão mobile, [para versão desktop💻 acesse aqui.](README.md)
+<p align="center">
+    <img width="150px" src="https://avatars2.githubusercontent.com/u/16929016?s=500&v=4" align="center" alt="React Brasil Logo" />
+    <h2 align="center">
+        Empresas que utilizam React no Brasil
+    </h2>
+    <p align="center">
+        Repositório responsável em listar empresas e projetos que utilizam nosso querido <a href="https://reactjs.org/"><b>React</b></a>.
+    </p>
+</p>
 
-OBS: Antes de realizar sua contribuição dê uma olhada nas  [regras](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/blob/master/CONTRIBUTING.md)
+<p align="center">
+    <a href="MOBILE.md">Versão Mobile</a>
+	·
+    <a href="README.md"><b>Versão Desktop</b></a>
+</p>
+
+<div align="center">
+
+[![](https://img.shields.io/badge/-Sobre-61DAFB)](#Introdução)
+[![](https://img.shields.io/badge/-Empresas-61DAFB)](#Empresas)
+[![](https://img.shields.io/badge/-Projetos-61DAFB)](#Projetos)
+[![](https://img.shields.io/badge/-Contribuir-61DAFB)](#contribuições-dúvidas-e-melhorias-)
+[![](https://img.shields.io/badge/-reactconf-61DAFB)](https://reactconf.com.br/)
+<br>
+
+[![Slack](https://img.shields.io/badge/-Slack-212121?&labelColor=61DAFB&logo=slack&logoColor=212121&link=https://react.now.sh/)](https://react.now.sh/)
+[![](https://img.shields.io/badge/-Core%20Members-333333)](#core-members)
+[![](https://img.shields.io/badge/-Licença-333333)](#Licença)
+[![](https://img.shields.io/badge/-Adicionar%20Empresa-333333)](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/issues)
+
+</div>
+
+## Introdução
+
+Se sua empresa e/ou projeto utiliza alguma tecnologia do ecossistema React, não deixe de adicionar aqui nesta lista, abrindo um **[Pull Request](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/pulls).**
+
+Alguns projetos são de startups ainda em concepção ou incubadas dentro de empresas que podem ter potencial de virar produto independente e merecem destaque, indique o seu projeto caso se enquadre nessas situações.
+
+> Caso tenha dificuldades sempre pode perguntar no **[Slack](https://react.now.sh)**.
+
+## Contribuições, dúvidas e melhorias
+
+Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/issues)** nesse repositório. Mais fique atento se a issue já não foi feita antes e antes de realizar sua contribuição dê uma olhada nas **[regras](CONTRIBUTING.md)** e desde já agradecemos.
+
+## Empresas
 
 [Accenture](https://www.accenture.com/br-pt/careers/recife)
 São Paulo, SP - Recife, PE
@@ -169,7 +210,7 @@ React Native, Redux, Next, ImmutableJS, CSS Modules, Storybook, Firebase
 São Paulo, SP
 
 [Conductor](https://conductor.com.br/)
-João Pessoa, PB - Barueri, SP  - Porto Alegre, RS
+João Pessoa, PB - Barueri, SP - Porto Alegre, RS
 Redux, Router, Saga, ReduxForm, Jest, Enzyme
 
 [Conpass](https://conpass.io/)
@@ -215,7 +256,7 @@ Material UI, JSS, Redux, Gatsby, Storybook, React-Router, RTL, Jest, Formik
 #
 
 [Daksa Marketing & Tecnologia](https://www.daksa.com.br/)
-Jaboticabal, SP  React
+Jaboticabal, SP React
 Native, React Native Cache Store, Redux, NativeBase
 
 [Dalla Soluções](http://dallasolucoes.com.br/)
@@ -357,10 +398,10 @@ São Paulo, SP
 GraphQL, Relay, Styled Components, Jest, Formik, Webpack, Material-UI, React Native
 
 [Fortbrasil](https://www.fortbrasil.com.br/)
-Fortaleza, CE  Redux, React Native, Styled Components
+Fortaleza, CE Redux, React Native, Styled Components
 
 [Fortes Tecnologia em Sistemas](https://www.fortestecnologia.com.br)
-Fortaleza, CE  Redux, Router
+Fortaleza, CE Redux, Router
 
 [Fractal Tecnologia](http://www.fractaltecnologia.com.br)
 João Pessoa, PB
@@ -487,7 +528,7 @@ Florianópolis, SC
 Redux
 
 [ICA CARD](https://icacard.com.br/)
-Salvador, BA  Redux, React Native, Next.js
+Salvador, BA Redux, React Native, Next.js
 
 [iClinic](https://iclinic.com.br/)
 Ribeirão Preto, SP
@@ -588,7 +629,7 @@ Leme, SP
 Redux, Material-UI, Webpack, Redux-Thunk, Jest, GraphQL, MongoDB, Relay
 
 [Laborit](http://www.laborit.com.br/)
-São Paulo, SP, Ribeirão Preto — SP  Redux
+São Paulo, SP, Ribeirão Preto — SP Redux
 
 [Labcodes](http://labcodes.com.br/)
 Recife, PE
@@ -787,7 +828,7 @@ Redux, Saga
 🏠🏢
 
 [OneMarket](https://onemarket.com.br)
-São Paulo, SP  GraphQL, Apollo, Saga, Glamorous
+São Paulo, SP GraphQL, Apollo, Saga, Glamorous
 
 [Oi](https://oi.com.br/)
 São Paulo, SP - Belo Horizonte, MG - Rio de Janeiro, RJ
@@ -998,10 +1039,10 @@ São Paulo, SP<br/> Palo Alto, CA
 Redux, React Native, Graphql
 
 [STQ Digital](https://stqpublicidade.com.br/)
-São Paulo, SP  React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
+São Paulo, SP React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 
 [Studio Sol](https://www.studiosol.com.br/)
-Belo Horizonte, MG  Redux, GraphQL, Relay
+Belo Horizonte, MG Redux, GraphQL, Relay
 
 [Submarino](https://www.submarino.com.br/)
 São Paulo, SP
@@ -1015,10 +1056,10 @@ Florianópolis, SC
 Hooks, Ant UI
 
 [Superlógica](https://www.superlogica.com/)
-Campinas, SP  React Native, Redux
+Campinas, SP React Native, Redux
 
 [Superplayer](https://www.superplayer.fm)
-São Paulo, SP - Porto Alegre, RS  Redux, GraphQL
+São Paulo, SP - Porto Alegre, RS Redux, GraphQL
 
 #
 
@@ -1190,3 +1231,43 @@ React-Native, Redux, GraphQL, Apollo/Relay
 
 [12min](https://12min.com/)
 React Native, Redux, React Navigation, Saga, Cycle, Flow, Reactotron, ESLint(Airbnb)
+
+## Projetos
+
+[BeerSwarm](https://beerswarm.com/)
+Redux, Saga, Jest, React-Leaflet, Router, [react-leaflet-googlemutant](https://github.com/produtoreativo/react-leaflet-googlemutant)
+
+[Bíblia Online](https://www.bibliaonline.com.br)
+Isomorphic, Redux, Saga, Material-UI, JSS, Jest, TypeScript
+
+[Labor](https://getlabor.com.br/)
+Expo, Gatsby, React Native, Webpack
+
+[Mambo Delivery](https://www.mambo.com.br/)
+Redux, Vtex
+
+[Mobills Web](https://web.mobills.com.br/)
+Redux, React Router, Material-UI, Redux Form
+
+[Moeda](https://moedaseeds.com) Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
+
+[Pilot](https://github.com/pagarme/pilot) CSS Modules, Storybook
+
+[Pluks](https://pluks.com.br/) Redux, React Native, Expo
+
+[Storia Imóveis](https://www.storiaimoveis.com.br/) Redux, Saga
+
+[Rung](https://www.rung.com.br/) Redux, Ramda, Flow, React Native, Expo, Gatsby, Material-UI
+
+[Keepfy](https://keepfy.com) GraphQL, Apollo, Docz, TypeScript, React Native, Cypress, Flipper-UI, Styled Components
+
+## Licença
+
+[MIT]
+
+## Core members
+
+| [![Gabriel Ferreira](https://avatars1.githubusercontent.com/u/17201177?s=64&v=4)](https://github.com/gabrielferreiraa) | [![Nic](https://avatars0.githubusercontent.com/u/66042?s=64&v=4)](https://github.com/nic) |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Gabriel Ferreira                                                                                                       | Nic                                                                                       |
+| [@gabrielferreiraa](https://github.com/gabrielferreiraa)                                                               | [@nic](https://github.com/nic)                                                            |

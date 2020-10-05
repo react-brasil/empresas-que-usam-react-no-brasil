@@ -11,20 +11,20 @@
 <p align="center">
     <a href="MOBILE.md"><b>Versão Mobile</b></a>
 	·
-    <a href="README.md"><b>Versão Desktop</b></a>
+    <a href="README.md">Versão Desktop</a>
 </p>
 
 <div align="center">
 
-[![](https://img.shields.io/badge/-Sobre-00A9FF)](#Introdução)
-[![](https://img.shields.io/badge/-Empresas-00A9FF)](#Empresas)
-[![](https://img.shields.io/badge/-Projetos-00A9FF)](#Projetos)
-[![](https://img.shields.io/badge/-Contribuir-00A9FF)](#contribuições-dúvidas-e-melhorias-)
-[![](https://img.shields.io/badge/-reactconf-00A9FF)](https://reactconf.com.br/)
+[![](https://img.shields.io/badge/-Sobre-61DAFB)](#Introdução)
+[![](https://img.shields.io/badge/-Empresas-61DAFB)](#Empresas)
+[![](https://img.shields.io/badge/-Projetos-61DAFB)](#Projetos)
+[![](https://img.shields.io/badge/-Contribuir-61DAFB)](#contribuições-dúvidas-e-melhorias-)
+[![](https://img.shields.io/badge/-reactconf-61DAFB)](https://reactconf.com.br/)
 <br>
 
-[![Slack](https://img.shields.io/badge/-Slack-212121?&labelColor=00A9FF&logo=slack&logoColor=212121&link=https://react.now.sh/)](https://react.now.sh/)
-[![](https://img.shields.io/badge/-Core%20Members-333333)](#contributors)
+[![Slack](https://img.shields.io/badge/-Slack-212121?&labelColor=61DAFB&logo=slack&logoColor=212121&link=https://react.now.sh/)](https://react.now.sh/)
+[![](https://img.shields.io/badge/-Core%20Members-333333)](#core-members)
 [![](https://img.shields.io/badge/-Licença-333333)](#Licença)
 [![](https://img.shields.io/badge/-Adicionar%20Empresa-333333)](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/issues)
 
@@ -371,7 +371,7 @@ Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil
 
 ## Licença
 
-MIT
+[MIT]
 
 ## Core members
 
