@@ -548,6 +548,11 @@ São Paulo, SP
 
 #
 
+[JetSoft](https://www.jetsoft.com.br/)
+São Paulo, SP
+React Native, Redux
+🏢
+
 [JP7](https://www.jp7.com.br)
 São Paulo, SP
 React Native, Redux, GraphQL
