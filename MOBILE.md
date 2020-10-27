@@ -344,6 +344,10 @@ Redux, Jest, MobX, WebRTC
 
 #
 
+[Fábrica de Software IFRS](https://github.com/fabsoftwareifrs)
+Bento Gonçalves, RS
+Sequelize, Express, Apollo, GraphQL, Node 
+
 [Face Digital](https://facedigital.com.br/)
 Joinville, SC
 Redux, React Native, Redux Thunk, Next.js
