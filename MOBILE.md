@@ -920,6 +920,9 @@ Curitiba, PR
 React Native, Redux, Redux-Thunk, Redux-Forms, MobX, Rematch, Router
 
 #
+[Salvus](https://salvus.me/)
+Recife, PE
+Redux, Redux Thunk, React Native 
 
 [Samba Tech](https://sambatech.com/)
 Belo Horizonte, MG
