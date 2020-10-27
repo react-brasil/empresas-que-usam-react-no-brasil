@@ -643,7 +643,7 @@ São Paulo, SP
 
 [Luby](https://www.luby.com.br/)
 São Paulo, SP
-React Native, ReactJs
+React Native
 🏠🏢
 
 [LuizaLabs](https://medium.com/luizalabs)
