@@ -552,6 +552,11 @@ São Paulo, SP
 
 #
 
+[JetSoft](https://www.jetsoft.com.br/)
+São Paulo, SP
+React Native, Redux
+🏢
+
 [JP7](https://www.jp7.com.br)
 São Paulo, SP
 React Native, Redux, GraphQL
@@ -639,6 +644,11 @@ Redux, Redux-Thunk, Jest, Enzyme, create-react-app
 
 [Loldesign](https://www.loldesign.com.br)
 São Paulo, SP
+
+[Luby](https://www.luby.com.br/)
+São Paulo, SP
+React Native
+🏠🏢
 
 [LuizaLabs](https://medium.com/luizalabs)
 Franca, SP
