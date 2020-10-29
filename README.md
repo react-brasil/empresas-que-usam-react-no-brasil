@@ -64,6 +64,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [BovControl](https://bovcontrol.com) | São Paulo, SP | Redux, Saga, MobX
 [Boticário](https://www.boticario.com.br/) |  | Redux, Apollo, Graphql
 [Bowe](https://bowe.com.br/) | Uberlândia, MG | Context API, Material UI, Webpack, Enzyme | 🏠 e 🏢
+[BuildBox](https://www.buildbox.com.br) |  Campinas - SP | Typescript, ReactJS, React Native, Redux , Styled Components.
 [Buscapé](https://www.buscape.com.br) | São Paulo, SP | Redux, Redux-Thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
 [Caju Benefícios](https://caju.com.br) | São Paulo, SP | React Native, Redux, Sagas, Relay, GraphQL, Cypress, Styled-components, React Testing Library, Hooks
 [Cappta](https://cappta.com.br) | São Paulo, SP | React Native, Redux
@@ -333,7 +334,6 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Zup IT Innovation](http://www.zup.com.br/) | São Paulo, SP<br/>Uberlândia, MG | Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable
 [ZX Ventures](https://zx-ventures.com/) |  | React-Native, Redux, GraphQL, Apollo/Relay
 [12min](https://12min.com/) |  | React Native, Redux, React Navigation, Saga, Cycle, Flow, Reactotron, ESLint(Airbnb)
-[BuildBox](https://www.buildbox.com.br) |  Campinas - SP | Typescript, ReactJS, React Native, Redux , Styled Components.
 
 ## Projetos
 
