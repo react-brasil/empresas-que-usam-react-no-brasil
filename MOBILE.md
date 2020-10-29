@@ -115,6 +115,10 @@ Redux, Apollo, Graphql
 Uberlândia, MG
 Context API, Material UI, Webpack, Enzyme
 
+[BuildBox](https://www.buildbox.com.br)
+Campinas - SP
+Typescript, Redux , Styled Components.
+
 [Buscapé](https://www.buscape.com.br)
 São Paulo, SP
 Redux, Redux-Thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
