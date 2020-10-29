@@ -333,6 +333,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Zup IT Innovation](http://www.zup.com.br/) | São Paulo, SP<br/>Uberlândia, MG | Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable
 [ZX Ventures](https://zx-ventures.com/) |  | React-Native, Redux, GraphQL, Apollo/Relay
 [12min](https://12min.com/) |  | React Native, Redux, React Navigation, Saga, Cycle, Flow, Reactotron, ESLint(Airbnb)
+[BuildBox](https://www.buildbox.com.br) |  Campinas - SP | Typescript, ReactJS, React Native, Redux , Styled Components.
 
 ## Projetos
 
