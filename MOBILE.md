@@ -70,6 +70,9 @@ Redux, RxJS
 São Carlos, SP
 Redux, ImmutableJS, Redux Thunk, Styled Components, Jest, Webpack, Next.js
 
+[ASAAS Gestão Financeira](https://www.asaas.com/)
+Joinville, SC
+
 [Astrocoders](https://astrocoders.com)
 Sorocaba, SP
 GraphQL, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor

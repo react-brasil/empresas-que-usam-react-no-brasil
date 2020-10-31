@@ -53,6 +53,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [AQUARELA](https://aquarela.studio/) | Salvador, BA | Redux, Jest, React Native, Reactotron, GraphQL, Redux Saga, Webpack, Next.js
 [Arizona Marketing Flow](https://www.arizona.global/) | São Paulo, SP | Redux, RxJS
 [Arquivei](https://www.arquivei.com.br/) | São Carlos, SP | Redux, ImmutableJS, Redux Thunk, Styled Components, Jest, Webpack, Next.js
+[ASAAS Gestão Financeira](https://www.asaas.com/) | Joinville, SC |
 [Astrocoders](https://astrocoders.com) | Sorocaba, SP | GraphQL, Apollo, Relay, Recompose, Styled Components, Redux, Sagas, Redux Logics, React Native, Next, Jest, Meteor
 [Audora Gerencial](http://www.audora.com.br/audora/index.html)| Maceió, AL | Redux
 [Autopass](http://www.autopass.com.br/)| São Paulo, SP | React Native, Redux, Jest, Styled Components, Recompose, Redux Thunk, Firebase, Reselect, Redux Form
