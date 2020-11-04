@@ -100,13 +100,13 @@ Redux, React Native, Styled Components, Jest
 Lajeado, RS
 React Native, Redux, Router, Hooks, Typescript
 
-[Brasal](http://brasal.com.br)
-Brasília, DF - Uberlândia, MG
-React Native, Redux, React VR
-
 [BitX Software House](https://bybitx.com/)
 Belém, PA
 React Native, Router, Hooks, Context API
+
+[Brasal](http://brasal.com.br)
+Brasília, DF - Uberlândia, MG
+React Native, Redux, React VR
 
 [BovControl](https://bovcontrol.com)
 São Paulo, SP
