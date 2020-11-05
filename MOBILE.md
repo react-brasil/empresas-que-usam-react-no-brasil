@@ -96,13 +96,17 @@ Jest, Redux, Functional Programming, Styled Components
 São Paulo, SP
 Redux, React Native, Styled Components, Jest
 
-[Brasal](http://brasal.com.br)
-Brasília, DF - Uberlândia, MG
-React Native, Redux, React VR
+[BIMachine](https://bimachine.com.br/)
+Lajeado, RS
+React Native, Redux, Router, Hooks, Typescript
 
 [BitX Software House](https://bybitx.com/)
 Belém, PA
 React Native, Router, Hooks, Context API
+
+[Brasal](http://brasal.com.br)
+Brasília, DF - Uberlândia, MG
+React Native, Redux, React VR
 
 [BovControl](https://bovcontrol.com)
 São Paulo, SP
