@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/-Sobre-61DAFB)](#Introdução)
 [![](https://img.shields.io/badge/-Empresas-61DAFB)](#Empresas)
 [![](https://img.shields.io/badge/-Projetos-61DAFB)](#Projetos)
-[![](https://img.shields.io/badge/-Contribuir-61DAFB)](#contribuições-dúvidas-e-melhorias-)
+[![](https://img.shields.io/badge/-Contribuir-61DAFB)](#contribuições-dúvidas-e-melhorias)
 [![](https://img.shields.io/badge/-React%20Conf-61DAFB)](https://reactconf.com.br/)
 <br>
 
@@ -676,7 +676,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 
 ## Licença
 
-[MIT]
+[MIT](/LICENSE)
 
 ## Core members
 
