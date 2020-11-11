@@ -137,13 +137,17 @@ Jest, Redux, Functional Programming, Styled Components
 São Paulo, SP
 Redux, React Native, Styled Components, Jest
 
-[Brasal](http://brasal.com.br)
-Brasília, DF - Uberlândia, MG
-React Native, Redux, React VR
+[BIMachine](https://bimachine.com.br/)
+Lajeado, RS
+React Native, Redux, Router, Hooks, Typescript
 
 [BitX Software House](https://bybitx.com/)
 Belém, PA
 React Native, Router, Hooks, Context API
+
+[Brasal](http://brasal.com.br)
+Brasília, DF - Uberlândia, MG
+React Native, Redux, React VR
 
 [BovControl](https://bovcontrol.com)
 São Paulo, SP
@@ -155,6 +159,10 @@ Redux, Apollo, Graphql
 [Bowe](https://bowe.com.br)
 Uberlândia, MG
 Context API, Material UI, Webpack, Enzyme
+
+[BuildBox](https://www.buildbox.com.br)
+Campinas - SP
+Typescript, Redux , Styled Components.
 
 [Buscapé](https://www.buscape.com.br)
 São Paulo, SP
@@ -385,6 +393,10 @@ Redux, Jest, MobX, WebRTC
 
 #
 
+[Fábrica de Software IFRS](https://github.com/fabsoftwareifrs)
+Bento Gonçalves, RS
+Sequelize, Express, Apollo, GraphQL, Node 
+
 [Face Digital](https://facedigital.com.br/)
 Joinville, SC
 Redux, React Native, Redux Thunk, Next.js
@@ -589,6 +601,11 @@ São Paulo, SP
 
 #
 
+[JetSoft](https://www.jetsoft.com.br/)
+São Paulo, SP
+React Native, Redux
+🏢
+
 [JP7](https://www.jp7.com.br)
 São Paulo, SP
 React Native, Redux, GraphQL
@@ -676,6 +693,11 @@ Redux, Redux-Thunk, Jest, Enzyme, create-react-app
 
 [Loldesign](https://www.loldesign.com.br)
 São Paulo, SP
+
+[Luby](https://www.luby.com.br/)
+São Paulo, SP
+React Native
+🏠🏢
 
 [LuizaLabs](https://medium.com/luizalabs)
 Franca, SP
@@ -887,6 +909,11 @@ Fortaleza, CE
 React Native, Redux, Redux Saga, Firebase, Material-UI, Styled Components
 🏢
 
+[Poupachef](https://poupachef.com.br)
+São Paulo, SP
+React Native, Redux
+🏠 🏢
+
 [ProFUSION](https://profusion.mobi)
 Campinas, SP
 React Native, Redux, Redux Saga, GraphQL, Material-UI, Styled Components, Flow, TypeScript
@@ -942,6 +969,9 @@ Curitiba, PR
 React Native, Redux, Redux-Thunk, Redux-Forms, MobX, Rematch, Router
 
 #
+[Salvus](https://salvus.me/)
+Recife, PE
+Redux, Redux Thunk, React Native 
 
 [Samba Tech](https://sambatech.com/)
 Belo Horizonte, MG
