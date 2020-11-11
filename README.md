@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/-Empresas-61DAFB)](#Empresas)
 [![](https://img.shields.io/badge/-Projetos-61DAFB)](#Projetos)
 [![](https://img.shields.io/badge/-Contribuir-61DAFB)](#contribuições-dúvidas-e-melhorias-)
-[![](https://img.shields.io/badge/-reactconf-61DAFB)](https://reactconf.com.br/)
+[![](https://img.shields.io/badge/-React%20Conf-61DAFB)](https://reactconf.com.br/)
 <br>
 
 [![Slack](https://img.shields.io/badge/-Slack-212121?&labelColor=61DAFB&logo=slack&logoColor=212121&link=https://react.now.sh/)](https://react.now.sh/)
@@ -57,6 +57,7 @@ Alguns projetos são de startups ainda em concepção ou incubadas dentro de emp
 Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil/empresas-que-usam-react-no-brasil/issues)** nesse repositório. Mais fique atento se a issue já não foi feita antes e antes de realizar sua contribuição dê uma olhada nas **[regras](CONTRIBUTING.md)** e desde já agradecemos.
 
 ## Empresas
+
 <<<<<<< HEAD
 
 |                                             Nome                                              | Cidade                                                                                                              | Tecnologias Relacionadas                                                                                                                                                                                             | Alocação |
@@ -353,6 +354,7 @@ Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil
 |                          [Zup IT Innovation](http://www.zup.com.br/)                          | São Paulo, SP<br/>Uberlândia, MG                                                                                    | Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable                                                                                                                                       |
 |                            [ZX Ventures](https://zx-ventures.com/)                            |                                                                                                                     | React-Native, Redux, GraphQL, Apollo/Relay                                                                                                                                                                           |
 |                                  [12min](https://12min.com/)                                  |                                                                                                                     | React Native, Redux, React Navigation, Saga, Cycle, Flow, Reactotron, ESLint(Airbnb)                                                                                                                                 |
+
 =======
 Nome | Cidade | Tecnologias Relacionadas | Alocação
 :------------: | ------------------------ | ------------ | -
@@ -383,9 +385,9 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [BitX Software House](https://bybitx.com/) | Belém, PA | React Native, Router, Hooks, Context API
 [Brasal](http://brasal.com.br) | Brasília, DF<br/>Uberlândia, MG | React Native, Redux, React VR
 [BovControl](https://bovcontrol.com) | São Paulo, SP | Redux, Saga, MobX
-[Boticário](https://www.boticario.com.br/) |  | Redux, Apollo, Graphql
+[Boticário](https://www.boticario.com.br/) | | Redux, Apollo, Graphql
 [Bowe](https://bowe.com.br/) | Uberlândia, MG | Context API, Material UI, Webpack, Enzyme | 🏠 e 🏢
-[BuildBox](https://www.buildbox.com.br) |  Campinas - SP | Typescript, Redux , Styled Components | 🏠🏢
+[BuildBox](https://www.buildbox.com.br) | Campinas - SP | Typescript, Redux , Styled Components | 🏠🏢
 [Buscapé](https://www.buscape.com.br) | São Paulo, SP | Redux, Redux-Thunk, Router, Enzyme, Webpack, Mongo DB, Mocha
 [Caju Benefícios](https://caju.com.br) | São Paulo, SP | React Native, Redux, Sagas, Relay, GraphQL, Cypress, Styled-components, React Testing Library, Hooks
 [Cappta](https://cappta.com.br) | São Paulo, SP | React Native, Redux
@@ -426,7 +428,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [e-Core](https://www.e-core.com/) | Porto Alegre, RS<br/>São Paulo, SP | Redux, Webpack
 [Easynvest](https://www.easynvest.com.br/) | São Paulo, SP | Jest, Redux, ReduxForm, Ducks, Styled Components
 [Easy Carros](https://easycarros.com/) | São Paulo, SP | React-Native, Redux, Saga, GraphQL
-[EBANX](https://www.ebanx.com/br/carreiras) | Curitiba, PR  | Redux, React Native
+[EBANX](https://www.ebanx.com/br/carreiras) | Curitiba, PR | Redux, React Native
 [EcompJr](http://ecompjr.com.br/) | Feira de Santana, BA |
 [EcoStage](http://www.ecostage.com.br) | São Paulo, SP | Redux
 [Sanar](https://www.sanarmed.com) | Salvador, BA | React Native, Apollo, NextJS, Gatsby, Styled Components, Jest, Testing Library, Detox, Storybook
@@ -442,7 +444,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Eventials](https://www.eventials.com/) | Blumenau, SC | Redux, Jest, Styled Components, Docz, Material-ui
 [Evino](https://evino.com.br/https://entria.com.br/) | São Paulo, SP | Redux, Jest, CSS Modules
 [Evolux](https://www.evolux.net.br/) | Natal, RN | Redux, Jest, MobX, WebRTC
-[Fábrica de Software IFRS](https://github.com/fabsoftwareifrs) | Bento Gonçalves, RS | Sequelize, Express, Apollo, GraphQL, Node 
+[Fábrica de Software IFRS](https://github.com/fabsoftwareifrs) | Bento Gonçalves, RS | Sequelize, Express, Apollo, GraphQL, Node
 [Face Digital](https://facedigital.com.br/) | Joinville, SC | Redux, React Native, Redux Thunk, Next.js
 [Faicon](https://www.faicon.com/) | Rio de Janeiro, SP | MobX, JSS, Jest, Webpack, Storybook
 [Feedback House](https://feedback.house/) | São Paulo, SP | GraphQL, Relay, Styled Components, Jest, Formik, Webpack, Material-UI, React Native
@@ -473,7 +475,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Hi Platform](https://www.hiplatform.com)| São Paulo, SP | Jest, Redux, Sagas, Styled Components, Immutable, Material-UI, Reselect
 [HBSIS](https://hbsis.com.br/)| Campinas, SP<br/>Sorocaba, SP<br/> Blumenau, SC | GraphQL, Jest, Enzyme, Styled Components, Router, Webpack, Storybook, TypeScript
 [Helpay](https://helpay.com.br/)| Sorocaba, SP | Redux, Redux Thunk, Router, Styled Components, Typescript, Ant UI
-[Home Team](https://hometeam.com.br/) |  | Redux
+[Home Team](https://hometeam.com.br/) | | Redux
 [HostGator](https://www.hostgator.com.br) | Florianópolis, SC | Redux, Redux-Thunk, Router
 [Hotmart](https://www.hotmart.com) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, BH | MobX, Next.js, React Native, Redux, Styled Components, CSS Modules
 [Horizon](https://www.horizonci.com.br/) | Salvador, BA | Redux, React Native, Electron
@@ -487,9 +489,9 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [inDecks](https://indecks.online) | Piracicaba, SP | Redux, Material-UI, Webpack, Redux-Thunk, Jest, GraphQL
 [Infracommerce](http://www.infracommerce.com.br/) | São Paulo, SP | Flux/Redux, Redux Saga, Redux Form, Webpack, Storybook
 [inGaia](http://www.ingaia.com.br/) | Campinas, SP | Redux, Redux Saga, Redux Form, Styled Components, Storybook, Jest
-[Instituto de Pesquisa Ambiental da Amazônia](http://ipam.org.br) |  | React Native, Redux, Redux-thunk, React-Router, Immutable.js, create-react-app, Material-UI
+[Instituto de Pesquisa Ambiental da Amazônia](http://ipam.org.br) | | React Native, Redux, Redux-thunk, React-Router, Immutable.js, create-react-app, Material-UI
 [Intelie](https://intelie.com.br) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Redux Thunk,Styled Components, MobX, Jest, Enzyme, Flux
-[Intuitech](http://www.intuite.ch) |  | Redux, React Native
+[Intuitech](http://www.intuite.ch) | | Redux, React Native
 [Invillia](https://invillia.com/) | Araraquara, SP | React Native, Redux, Redux Thunk, Styled Components
 [ioasys](https://ioasys.com.br/) | Belo Horizonte, MG<br/>São Paulo, SP<br/>Lavras, MG<br/>Aracaju, SE | React Native, Redux, Redux Thunk, Ducks, Saga, Styled Components, Jest
 [Irriga Global](https://irriga.net/) | Santa Maria, RS | React Native, Redux | 🏠🏢
@@ -503,7 +505,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Kiper](https://kiper.com.br/trabalhe-conosco/) | Florianópolis, SC | React Native
 [Kovi](https://www.kovi.com.br/) | São Paulo, SP | Hooks, GraphQL, Apollo, Typescript, Styled Components, Jest
 [Krush](https://www.krush.com.br/) | Rio de Janeiro, RJ | React Native/Redux/Flux
-[kunst](https://kunst.com.br/) |   | Gatsby, Styled Components, Redux, GraphQL, Next.js, Apollo, React Native
+[kunst](https://kunst.com.br/) | | Gatsby, Styled Components, Redux, GraphQL, Next.js, Apollo, React Native
 [Labfy](https://labfy.digital) | Leme, SP | Redux, Material-UI, Webpack, Redux-Thunk, Jest, GraphQL, MongoDB, Relay
 [Laborit](http://www.laborit.com.br/) | São Paulo, SP, Ribeirão Preto — SP | Redux
 [Labcodes](http://labcodes.com.br/) | Recife, PE | Redux, Styled Components, Storybook, Jest, GraphQL, Enzyme, Webpack, Firebase, Apollo, Recompose, React-Router, Cypress
@@ -515,8 +517,8 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Liferay](https://liferay.com) | Recife, PE | Formik, Jest, GraphQL, Redux, Webpack
 [Light Up](http://mark-up.com.br/) | São Paulo, SP | Webpack, Styled Components
 [Liv Up](https://www.livup.com.br/) | São Paulo, SP | Next.js, Redux, Styled Components, GraphQL, React-Router, Webpack, Storybook, Cypress, React Native
-[Loggi](http://www.loggi.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, MG  | React Native, React Native Web, CSS Modules, Styled Components, React-Router, GraphQL, Relay, Redux, Redux-Thunk, Redux-forms, Enzyme, Jest, Storybook (Web/Native), Webpack, NightwatchJS, MS appcenter (code-push)
-[Logicalis](https://www.la.logicalis.com/pt-Latam/) |  | Redux, Redux-Thunk, Jest, Enzyme, create-react-app
+[Loggi](http://www.loggi.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, MG | React Native, React Native Web, CSS Modules, Styled Components, React-Router, GraphQL, Relay, Redux, Redux-Thunk, Redux-forms, Enzyme, Jest, Storybook (Web/Native), Webpack, NightwatchJS, MS appcenter (code-push)
+[Logicalis](https://www.la.logicalis.com/pt-Latam/) | | Redux, Redux-Thunk, Jest, Enzyme, create-react-app
 [Loldesign](https://www.loldesign.com.br) | São Paulo, SP |
 [Luby](https://www.luby.com.br/)| São Paulo, SP | React Native | 🏠🏢
 [LuizaLabs](https://medium.com/luizalabs) | Franca, SP | Mobx, Jest, Styled Components, Semantic-UI, create-react-app, Webpack, Typescript, React Native, Mocha, Nock
@@ -537,7 +539,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Meu Despachante](https://meudespachante.com.br/)| Sorocaba, SP | Redux, Redux Thunk, Router, Styled Components, Typescript, Ant UI
 [Meus Pedidos](https://www.meuspedidos.com.br/) | Joinville, SC | Redux
 [Ministério Público do Estado do Rio de Janeiro](https://apps.mprj.mp.br/sistema/inloco/) | Rio de Janeiro, RJ | GeoServer, Leaflet, Chart.js, Intro.js
-[MixBR Games](http://www.mixbrgames.com/) |  | Redux, Styled Components
+[MixBR Games](http://www.mixbrgames.com/) | | Redux, Styled Components
 [Mobills](https://www.mobills.com.br/) | Fortaleza, CE | Redux, React Router, Material-UI, Redux Form
 [Mobly](https://www.mobly.com.br/) | São Paulo, SP | React Native, GraphQL, Node.js, MongoDB, Docker
 [Monkey Exchange](https://www.monkey.exchange/) | São Paulo, SP | Redux, MobX
@@ -605,7 +607,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Som Livre](https://www.somlivre.com/) | Rio de Janeiro, RJ | React Native
 [SOMAR Meteorologia](http://somarmeteorologia.com.br) | São Paulo, SP | Redux, Styled Components, Webpack, Storybook, Jest, Router, Monorepo
 [Sotero Tech](https://www.soterotech.com.br/) | Lauro de Freitas, BA | Redux, React Native
-[Startaê](https://startae.com/) |  | Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
+[Startaê](https://startae.com/) | | Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
 [StartSe](https://www.startse.com/) | São Paulo, SP<br/> Palo Alto, CA | Redux, React Native, Graphql
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 [Studio Sol](https://www.studiosol.com.br/) | Belo Horizonte, MG | Redux, GraphQL, Relay
@@ -614,11 +616,11 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Suntech/Verint](https://www.suntech.com.br) | Florianópolis, SC | Hooks, Ant UI
 [Superlógica](https://www.superlogica.com/) | Campinas, SP | React Native, Redux
 [Superplayer](https://www.superplayer.fm) | São Paulo, SP<br/>Porto Alegre, RS | Redux, GraphQL
-[Taller](https://taller.net.br/) |  | Redux, Redux Boot, Jest, Enzyme, GraphQL, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
+[Taller](https://taller.net.br/) | | Redux, Redux Boot, Jest, Enzyme, GraphQL, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
 [Taqtile](https://www.taqtile.com.br/) | São Paulo, SP | React Native, MobX, GraphQL, Storybook, Styled Components, Jest
 [Teclógica](https://www.teclogica.com.br/) | Blumenau, SC | Redux, Redux-Thunk, Router, Webpack, Material-UI, create-react-app
-[Tegra](https://tegra.com.br/) | Sorocaba, SP<br/>São Paulo, SP  | React Native, Typescript, Jest, Enzyme, Recompose, Rxjs, Docz
-[Teravoz](https://teravoz.com.br) | São Paulo, SP  | Redux, TypeScript, Jest, AVA, SASS, Material-UI, Hooks
+[Tegra](https://tegra.com.br/) | Sorocaba, SP<br/>São Paulo, SP | React Native, Typescript, Jest, Enzyme, Recompose, Rxjs, Docz
+[Teravoz](https://teravoz.com.br) | São Paulo, SP | Redux, TypeScript, Jest, AVA, SASS, Material-UI, Hooks
 [Timcoo](http://timcoo.com.br) | Belo Horizonte, MG | Redux, Redux Thunk
 [TOTVS](https://www.totvs.com/home) | São Paulo, SP |
 [Trackmob](https://www.trackmob.com.br/) | Curitiba, PR | Redux, Router, React-Native
@@ -642,7 +644,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Wealth Systems](http://wssim.com.br) | Cascavel, PR | Immutable
 [Webedia](http://webedia.com.br/) | Rio de Janeiro, RJ | Redux, Jest, GraphQL
 [WebJump](http://www.webjump.com.br) | São Paulo, SP | GraphQL, Redux, Hooks, Styled Components, Router, Apollo, Jest, React Native, Enzyme
-[Welearn](https://br.welearnit.co) |  |
+[Welearn](https://br.welearnit.co) | |
 [Wevo](https://www.wevo.com.br) | São Paulo, SP<br/>Florianópolis, SC | RxJS
 [Wine.com.br](https://www.wine.com.br) | Vitória, ES | React Native, Redux, Redux Thunk, Immutable
 [Wizard](https://www.wizard.com.br) | São Paulo, SP | React Native, Redux, Sagas, Router
@@ -653,9 +655,10 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [ZeroSoft](https://www.zerosoft.com.br/) | Ribeirão Preto, SP | Redux, Styled Components, Router, Material-UI, Webpack, Router, React Native, Monorepo
 [Zimp](https://zimp.me/) | São Paulo, SP |
 [Zup IT Innovation](http://www.zup.com.br/) | São Paulo, SP<br/>Uberlândia, MG | Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable
-[ZX Ventures](https://zx-ventures.com/) |  | React-Native, Redux, GraphQL, Apollo/Relay
-[12min](https://12min.com/) |  | React Native, Redux, React Navigation, Saga, Cycle, Flow, Reactotron, ESLint(Airbnb)
->>>>>>> upstream/master
+[ZX Ventures](https://zx-ventures.com/) | | React-Native, Redux, GraphQL, Apollo/Relay
+[12min](https://12min.com/) | | React Native, Redux, React Navigation, Saga, Cycle, Flow, Reactotron, ESLint(Airbnb)
+
+> > > > > > > upstream/master
 
 ## Projetos
 

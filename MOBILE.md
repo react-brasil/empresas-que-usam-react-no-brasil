@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/-Empresas-61DAFB)](#Empresas)
 [![](https://img.shields.io/badge/-Projetos-61DAFB)](#Projetos)
 [![](https://img.shields.io/badge/-Contribuir-61DAFB)](#contribuições-dúvidas-e-melhorias-)
-[![](https://img.shields.io/badge/-reactconf-61DAFB)](https://reactconf.com.br/)
+[![](https://img.shields.io/badge/-React%20Conf-61DAFB)](https://reactconf.com.br/)
 <br>
 
 [![Slack](https://img.shields.io/badge/-Slack-212121?&labelColor=61DAFB&logo=slack&logoColor=212121&link=https://react.now.sh/)](https://react.now.sh/)
@@ -395,7 +395,7 @@ Redux, Jest, MobX, WebRTC
 
 [Fábrica de Software IFRS](https://github.com/fabsoftwareifrs)
 Bento Gonçalves, RS
-Sequelize, Express, Apollo, GraphQL, Node 
+Sequelize, Express, Apollo, GraphQL, Node
 
 [Face Digital](https://facedigital.com.br/)
 Joinville, SC
@@ -969,9 +969,10 @@ Curitiba, PR
 React Native, Redux, Redux-Thunk, Redux-Forms, MobX, Rematch, Router
 
 #
+
 [Salvus](https://salvus.me/)
 Recife, PE
-Redux, Redux Thunk, React Native 
+Redux, Redux Thunk, React Native
 
 [Samba Tech](https://sambatech.com/)
 Belo Horizonte, MG
