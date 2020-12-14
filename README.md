@@ -304,7 +304,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Trackmob](https://www.trackmob.com.br/) | Curitiba, PR | Redux, Router, React-Native
 [TradersClub](https://tradersclub.com.br) | São Paulo, SP | ReactNative, Redux Thunk, Router, Webpack
 [Trilogo](https://www.trilogo.com.br/) | Fortaleza, CE | Redux, Jest, Saga
-[UAUBox](https://uaubox.com.br/) | Jundiaí - SP | Next.js, Redux, Material-UI, create-react-app, Redux Saga, Gitlab, Nodejs
+[UAUBox](https://uaubox.com.br/) | Jundiaí - SP | Next.js, Redux, Material-UI, create-react-app, Redux Saga, Gitlab, Nodejs | 🏠🏢
 [Unbanked Pagamentos](https://www.unbanked.com.br) | Paulínia, SP | Redux, React Native, Router, Firebase, NativeBase
 [UPX Technologies](https://www.upx.com/) | Campinas, SP | Redux, Router, Jest, Gatsby
 [Unimed Fortaleza](https://www.unimedfortaleza.com.br/) | Fortaleza, CE | Redux, Saga, Redux Thunk, Hooks, Router, Webpack, create-react-app, React Admin, Ant UI | 🏢
