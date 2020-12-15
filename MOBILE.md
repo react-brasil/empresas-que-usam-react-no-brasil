@@ -96,6 +96,10 @@ Jest, Redux, Functional Programming, Styled Components
 São Paulo, SP
 Redux, React Native, Styled Components, Jest
 
+[Bem Care](https://bem.care/)
+São Paulo, SP
+Redux, React Native, Router, Hooks, Mongo DB
+
 [BIMachine](https://bimachine.com.br/)
 Lajeado, RS
 React Native, Redux, Router, Hooks, Typescript
