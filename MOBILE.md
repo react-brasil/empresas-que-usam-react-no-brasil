@@ -13,7 +13,7 @@ Typescript, Context API, Hooks, Atomic Design, Styled Components, Reach Router, 
 
 [Agenda Edu](https://agendaedu.com)
 Fortaleza, CE
-Typescript, Redux, Redux Saga, Hooks, React, React Native, Styled Components, Formik, Testing Library, Jest, Cypress, Enzyme, Storybook, ESLint, Husky, Prettier
+Typescript, Redux, Redux Saga, Hooks, React Native, Styled Components, Formik, Testing Library, Jest, Cypress, Enzyme, Storybook, ESLint, Husky, Prettier
 
 [Agfa HealthCare Brasil](https://global.agfahealthcare.com/brazil)
 Recife, PE
