@@ -1094,7 +1094,9 @@ ReactNative, Redux Thunk, Router, Webpack
 Fortaleza, CE
 Redux, Jest, Saga
 
-#
+[UAUBox](https://uaubox.com.br/)
+Jundiaí - SP
+Next.js, Redux, Material-UI, create-react-app, Redux Saga, Gitlab, Nodejs
 
 [Unbanked Pagamentos](https://www.unbanked.com.br)
 Paulínia, SP
