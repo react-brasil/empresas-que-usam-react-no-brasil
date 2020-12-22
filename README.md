@@ -59,6 +59,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [B2W](https://ri.b2w.digital/)| Rio de Janeiro, RJ<br/>São Paulo, SP | React Native, Redux, Jest, Immutable
 [BeeTech](https://www.beetech.global) | São Paulo, SP | Jest, Redux, Functional Programming, Styled Components
 [Beleza Na Web](https://www.belezanaweb.com.br/) | São Paulo, SP | Redux, React Native, Styled Components, Jest
+[Bem Care](https://bem.care/) | São Paulo, SP | Redux, React Native, Router, Hooks, Mongo DB
 [BIMachine](https://bimachine.com.br/) | Lajeado, RS | React Native, Redux, Router, Hooks, Typescript
 [BitX Software House](https://bybitx.com/) | Belém, PA | React Native, Router, Hooks, Context API
 [Brasal](http://brasal.com.br) | Brasília, DF<br/>Uberlândia, MG | React Native, Redux, React VR
