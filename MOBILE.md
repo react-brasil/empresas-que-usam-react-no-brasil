@@ -11,6 +11,10 @@ Redux, React Native
 Santo Cristo, RS
 Typescript, Context API, Hooks, Atomic Design, Styled Components, Reach Router, Formik, Testing Library, Cypress, ESLint, Husky, Prettier
 
+[Agenda Edu](https://agendaedu.com)
+Fortaleza, CE
+Typescript, Redux, Redux Saga, Hooks, React Native, Styled Components, Formik, Testing Library, Jest, Cypress, Enzyme, Storybook, ESLint, Husky, Prettier
+
 [Agfa HealthCare Brasil](https://global.agfahealthcare.com/brazil)
 Recife, PE
 Redux, React Native, Redux Form
