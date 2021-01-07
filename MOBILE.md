@@ -903,6 +903,10 @@ React Native, GraphQL, Relay, Redux, Jest, Styled Components
 São Paulo, SP
 Redux, Jest, Styled Components
 
+[Quóro](https://www.quoro.com.br)
+Santa Terezinha de Itaipu, PR 
+Typescript, Next.js, Relay, GraphQL, Context API, Hooks, react-hook-form, Recoil, TailwindCss, Styled Components, Jest, Playwright
+
 #
 
 [Raise Sistemas](https://raisesistemas.com.br)
