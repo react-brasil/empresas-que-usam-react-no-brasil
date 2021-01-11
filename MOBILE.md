@@ -358,6 +358,10 @@ Redux, Jest, CSS Modules
 Natal, RN
 Redux, Jest, MobX, WebRTC
 
+[Eyemoile](https://eyemobile.com.br/)
+Florianópolis, SC
+Redux, Hooks, Storybook, Formik, Jest
+
 #
 
 [Fábrica de Software IFRS](https://github.com/fabsoftwareifrs)

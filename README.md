@@ -124,6 +124,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Eventials](https://www.eventials.com/) | Blumenau, SC | Redux, Jest, Styled Components, Docz, Material-ui
 [Evino](https://evino.com.br/https://entria.com.br/) | São Paulo, SP | Redux, Jest, CSS Modules
 [Evolux](https://www.evolux.net.br/) | Natal, RN | Redux, Jest, MobX, WebRTC
+[Eyemobile](https://eyemobile.com.br/) | Florianópolis, SC | Redux, Hooks, Storybook, Formik, Jest | 🏠 e 🏢
 [Fábrica de Software IFRS](https://github.com/fabsoftwareifrs) | Bento Gonçalves, RS | Sequelize, Express, Apollo, GraphQL, Node 
 [Face Digital](https://facedigital.com.br/) | Joinville, SC | Redux, React Native, Redux Thunk, Next.js
 [Faicon](https://www.faicon.com/) | Rio de Janeiro, SP | MobX, JSS, Jest, Webpack, Storybook
