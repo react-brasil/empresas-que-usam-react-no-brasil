@@ -1062,6 +1062,10 @@ Campinas, SP  React Native, Redux
 [Superplayer](https://www.superplayer.fm)
 São Paulo, SP - Porto Alegre, RS  Redux, GraphQL
 
+[Sky.One](https://skyone.solutions/)
+São Paulo, SP
+TypeScript, Redux, Redux-Saga, Material-UI, Cypress, Router
+
 #
 
 [Taller](https://taller.net.br/)

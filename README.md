@@ -297,6 +297,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Suntech/Verint](https://www.suntech.com.br) | Florianópolis, SC | Hooks, Ant UI
 [Superlógica](https://www.superlogica.com/) | Campinas, SP | React Native, Redux
 [Superplayer](https://www.superplayer.fm) | São Paulo, SP<br/>Porto Alegre, RS | Redux, GraphQL
+[Sky.One](https://skyone.solutions/) | São Paulo, SP | TypeScript, Redux, Redux-Saga, Material-UI, Cypress, Router
 [Taller](https://taller.net.br/) |  | Redux, Redux Boot, Jest, Enzyme, GraphQL, Apollo, CSS Modules, Styled Components, Recompose, Ramda, Storybook
 [Taqtile](https://www.taqtile.com.br/) | São Paulo, SP | React Native, MobX, GraphQL, Storybook, Styled Components, Jest
 [Teclógica](https://www.teclogica.com.br/) | Blumenau, SC | Redux, Redux-Thunk, Router, Webpack, Material-UI, create-react-app
