@@ -322,6 +322,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Vinta Software](https://vintasoftware.com/) | Recife, PE | ESLint, Enzyme, Formik, ImmutableJS, Jest, Next.js, Normalizr, Prettier, React Router, Redux, Redux Form, Redux Saga, Redux Thunk, Styled Components, Webpack
 [Vizir Software Studio](https://vizir.com.br/) | São Paulo, SP | React Native, Redux, Apollo/GraphQL, Jest, Detox(e2e), Styled Components
 [VML Brasil](https://www.vml.com/brazil/) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Isomorphic, SSR, Saga, Jest, Ramda, ARc
+[Volanty](https://volanty.com/) | Rio de Janeiro, RJ<br/>São paulo, SP | Redux, Apollo/GraphQL, Next.JS, Jest, Ramda, Styled Components, Material-UI, Prettier, Formik, Storybook, MongoDB, Firebase | 🏢
 [Voltbras](https://voltbras.com.br/) | Florianópolis, SC | React Native, Redux, Apollo/GraphQL, Styled Components, NodeJS, Golang, Prisma
 [VTEX](https://pt.vtex.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Apollo GraphQL, Jest, React Native
 [WA Project](https://www.waproject.com.br/) | São Paulo, SP | Redux, Context API, Hooks, TypeScript, React Native, Material UI, Formik
