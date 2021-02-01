@@ -9,7 +9,7 @@ Redux, React Native
 
 [ACERTA! Crédito Fácil](https://acertapromotora.com.br)
 Santo Cristo, RS
-Typescript, Context API, Hooks, Atomic Design, Styled Components, Reach Router, Formik, Testing Library, Cypress, ESLint, Husky, Prettier
+Typescript, Context API, Hooks, Atomic Design, Styled Components, Reach Router, Formik, Testing Library, Cypress, ESLint, Husky, Prettier, Redux
 
 [Agfa HealthCare Brasil](https://global.agfahealthcare.com/brazil)
 Recife, PE
