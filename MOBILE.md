@@ -765,7 +765,7 @@ Blumenau, SC
 React Native, Redux, Saga, Styled Components, Hooks, Router, Jest, Formik
 🏠🏢
 
-[Mudi Saúde](https://mudisaude.com.br/)
+[Mudi Saúde](https://www.mudisaude.com.br/)
 São Paulo, SP
 React Native, Redux, Saga
 
