@@ -225,7 +225,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Monkey Exchange](https://www.monkey.exchange/) | São Paulo, SP | Redux, MobX
 [Mooven Consulting](http://www.moovenconsulting.com.br) | São Paulo, SP | Redux
 [Mout'S](https://mouts.info) | Blumenau, SC | React Native, Redux, Saga, Styled Components, Hooks, Router, Jest, Formik | 🏠🏢
-[Mudi Saúde](https://www.mudisaude.com.br/) | São Paulo, SP | React, React native, Redux, Saga
+[Mudi Saúde](https://www.mudisaude.com.br/) | São Paulo, SP | React native, Redux, Saga
 [Multiware Tecnologia](http://multiwaretecnologia.com.br) | Sinop, MT | React Native, Redux
 [Napp Solutions](https://nappsolutions.com/) | Leme, SP | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 [Nexo Jornal](https://nexojornal.com.br) | São Paulo, SP | SSR Node, Isomorphic, GraphQL, Hooks, Styled Components, Router, Jest, React Testing Library, Cypress, Storybook, Webpack, ESLint(Airbnb), Prettier, Formik, Docusaurus | 🏢
