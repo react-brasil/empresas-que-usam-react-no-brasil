@@ -281,6 +281,10 @@ React Native, Redux, Firebase, Styled Components, Jest
 São Paulo, SP - São Carlos, SP
 React Native, Redux, Jest
 
+[DokeHost](https://dokehost.com.br/)
+Uberlândia, MG
+NextJs, Redux, ReduxForm, Styled Components, React Native
+
 #
 
 [e-Core](https://www.e-core.com/)
