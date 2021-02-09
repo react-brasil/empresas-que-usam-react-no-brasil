@@ -1152,6 +1152,10 @@ React Native, Redux, Redux-Thunk, Redux Form, Jest, Webpack, Next.js, Docz, Grap
 [Vérios Investimentos](https://www.verios.com.br/)
 São Paulo, SP
 
+[Vialaser](https://www.vialaserdepilacao.com.br/)
+Tubarão, SC
+Redux, Context API, Material-UI, Jest, Styled Components, React Native
+
 [Vindi](https://vindi.com.br/)
 São Paulo, SP
 Redux, Saga
