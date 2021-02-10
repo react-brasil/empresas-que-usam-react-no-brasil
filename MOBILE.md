@@ -216,6 +216,11 @@ Typescript, Formik, CRA, Gatsby, Emotion, RTL, Jest, SWR, Redux, Lerna, single-s
 Salvador, BA
 Mobx, Redux, Jest
 
+[Cuidas](https://www.cuidas.com.br/)
+São Paulo, SP
+Typescript, GraphQL, Apollo, Jest, Redux, Styled Components, Lerna, Storybook
+🏢
+
 [Curso Ênfase](https://www.cursoenfase.com.br)
 São Carlos, SP - Rio de Janeiro, RJ
 GraphQL, Relay, Redux, Ducks, Material-ui, Webpack
