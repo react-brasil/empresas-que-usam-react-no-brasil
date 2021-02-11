@@ -852,6 +852,10 @@ Redux, Observable, Inferno
 [Pague Menos](https://www.paguemenos.com.br/)
 Redux, Saga
 
+[Paytrack](https://www.paytrack.com.br/)
+Blumenau, SC
+TypeScript, RxJS, Ant UI, Prettier
+
 [PICSIZE](https://picsize.com.br/)
 Belo Horizonte, MG
 Router, Webpack, Lodash
