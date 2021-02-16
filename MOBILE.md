@@ -835,6 +835,11 @@ São Paulo, SP  GraphQL, Apollo, Saga, Glamorous
 São Paulo, SP - Belo Horizonte, MG - Rio de Janeiro, RJ
 Redux, Reflux, Storybook
 
+[Origin Financial](https://www.useorigin.com/)
+São Paulo, SP
+Styled Components, Redux, Storybook, Custom Hooks, TypeScript, Formik
+🏠🏢
+
 [OSBR](https://www.osbr.com.br/)
 São Paulo, SP
 GraphQL, MongoDb, Redux, React Native
