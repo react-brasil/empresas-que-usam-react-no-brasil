@@ -108,6 +108,11 @@ Redux, React Native, Router, Hooks, Mongo DB
 Lajeado, RS
 React Native, Redux, Router, Hooks, Typescript
 
+[Bionexo](https://bionexo.com/)
+São Paulo, SP
+React, Redux, Router, Hooks, Jest, Enzyme
+🏠🏢
+
 [BitX Software House](https://bybitx.com/)
 Belém, PA
 React Native, Router, Hooks, Context API
