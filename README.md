@@ -62,7 +62,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Beleza Na Web](https://www.belezanaweb.com.br/) | São Paulo, SP | Redux, React Native, Styled Components, Jest
 [Bem Care](https://bem.care/) | São Paulo, SP | Redux, React Native, Router, Hooks, Mongo DB
 [BIMachine](https://bimachine.com.br/) | Lajeado, RS | React Native, Redux, Router, Hooks, Typescript
-[Bionexo](https://bionexo.com/) | São Paulo, SP | React, Redux, Router, Hooks, Jest, Enzyme | 🏠 e 🏢
+[Bionexo](https://bionexo.com/) | São Paulo, SP | Redux, Router, Hooks, Jest, Enzyme | 🏠 e 🏢
 [BitX Software House](https://bybitx.com/) | Belém, PA | React Native, Router, Hooks, Context API
 [Brasal](http://brasal.com.br) | Brasília, DF<br/>Uberlândia, MG | React Native, Redux, React VR
 [BovControl](https://bovcontrol.com) | São Paulo, SP | Redux, Saga, MobX

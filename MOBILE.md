@@ -110,7 +110,7 @@ React Native, Redux, Router, Hooks, Typescript
 
 [Bionexo](https://bionexo.com/)
 São Paulo, SP
-React, Redux, Router, Hooks, Jest, Enzyme
+Redux, Router, Hooks, Jest, Enzyme
 🏠🏢
 
 [BitX Software House](https://bybitx.com/)
