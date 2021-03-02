@@ -212,6 +212,10 @@ Redux, Webpack
 Porto Alegre, RS - Recife, PE - São Paulo, SP
 Typescript, Formik, CRA, Gatsby, Emotion, RTL, Jest, SWR, Redux, Lerna, single-spa
 
+[Croct](https://croct.com/)
+São Paulo, SP
+Typescript, CRA, Emotion, GraphQL, Relay, Jest, Cypress, React Testing Library, Hooks
+
 [Cubos](https://cubos.io)
 Salvador, BA
 Mobx, Redux, Jest
