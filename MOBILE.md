@@ -218,7 +218,7 @@ Mobx, Redux, Jest
 
 [Cuidas](https://www.cuidas.com.br/)
 São Paulo, SP
-Typescript, GraphQL, Apollo, Jest, Redux, Styled Components, Lerna, Storybook
+RN, Typescript, GraphQL, Apollo, Jest, Redux, Styled Components, Lerna, Storybook
 🏢
 
 [Curso Ênfase](https://www.cursoenfase.com.br)
