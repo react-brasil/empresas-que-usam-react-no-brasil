@@ -248,6 +248,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Pagar.me](https://pagar.me/) | São Paulo, SP | Redux, CSS Modules, Storybook
 [PagSeguro](https://www.pagseguro.com.br/) | São Paulo, SP | Redux, Observable, Inferno
 [Pague Menos](https://www.paguemenos.com.br/) | | Redux, Saga
+[Parnity](https://www.parnity.co/) | Belo Horizonte, MG<br />São Paulo, SP | Next.js, React Testing Library
 [Paytrack](https://www.paytrack.com.br/) | Blumenau, SC | TypeScript, RxJS, Ant UI, Prettier
 [PICSIZE](https://picsize.com.br/) | Belo Horizonte, MG | Router, Webpack, Lodash
 [Pier](https://pier.digital/) | São Paulo, SP | React Native, MobX, Jest, Lodash
