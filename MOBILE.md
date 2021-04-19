@@ -948,6 +948,11 @@ São Paulo, SP
 Redux, Redux Thunk, Ducks, Hooks, Material-UI, Styled Components, Jest, Immutable.js, TypeScript
 🏠 🏢
 
+[RD Station](https://www.rdstation.com/)
+Florianópolis, SC
+Redux, Hooks, Styled Components, Jest, Cypress, Enzyme, RTL, Webpack, Storybook
+🏠 🏢
+
 [Requisittus](https://requisittus.com.br)
 Lajeado, RS
 Redux, Router
