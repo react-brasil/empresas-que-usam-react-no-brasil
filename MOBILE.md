@@ -992,6 +992,10 @@ NodeJS, ReactJS e React Native.
 Curitiba, PR
 React Native, Redux, Redux-Thunk, Redux-Forms, MobX, Rematch, Router
 
+[Rumo Soluções](https://rumosolucoes.com/)
+Belo Horizonte, MG
+React Native, Redux, Saga, TypeScript, SASS 🏠 🏢
+
 #
 [Salvus](https://salvus.me/)
 Recife, PE
