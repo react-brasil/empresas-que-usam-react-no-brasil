@@ -37,7 +37,7 @@ Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil
 Nome | Cidade | Tecnologias Relacionadas | Alocação
 :------------: | ------------------------ | ------------ | -
 [Accenture](https://www.accenture.com/br-pt/careers/recife) | São Paulo, SP<br />Recife, PE | Redux, React Native
-[ACERTA! Crédito Fácil](https://acertapromotora.com.br) | Santo Cristo, RS<br />| Typescript, Context API, Hooks, Atomic Design, Styled Components, Reach Router, Formik, Testing Library, Cypress, ESLint, Husky, Prettier
+[ACERTA! Crédito Fácil](https://acertapromotora.com.br) | Santo Cristo, RS<br />| Typescript, Context API, Hooks, Atomic Design, Styled Components, Reach Router, Formik, Testing Library, Cypress, ESLint, Husky, Prettier, Redux
 [AFYA](https://afya.com.br)| São Paulo, SP | Next.js, Node.js, Webpack, MongoDB, AWS | 🏠 e 🏢
 [AgendaEdu](https://agendaedu.com) | Fortaleza, CE<br />| Typescript, Redux, Redux Saga, Hooks, React Native, Styled Components, Formik, Testing Library, Jest, Cypress, Enzyme, Storybook, ESLint, Husky, Prettier |  🏠 e 🏢
 [Agfa HealthCare Brasil](https://global.agfahealthcare.com/brazil)| Recife, PE | Redux, React Native, Redux Form
