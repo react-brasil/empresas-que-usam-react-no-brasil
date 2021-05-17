@@ -269,6 +269,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Quóro](https://www.quoro.com.br) | Santa Terezinha de Itaipu, PR | Typescript, Next.js, Relay, GraphQL, Context API, Hooks, react-hook-form, Recoil, TailwindCss, Styled Components, Jest, Playwright
 [Raise Sistemas](https://raisesistemas.com.br) | Rio de Janeiro, RJ | React Native
 [RankMyAPP](https://www.rankmyapp.com/) | São Paulo, SP | Redux, Redux Thunk, Ducks, Hooks, Material-UI, Styled Components, Jest, Immutable.js, TypeScript | 🏠 🏢
+[RD Station](https://www.rdstation.com/) | Florianópolis, SC | Redux, Hooks, Styled Components, Jest, Cypress, Enzyme, RTL, Webpack, Storybook | 🏠 🏢
 [Requisittus](https://requisittus.com.br) | Lajeado, RS | Redux, Router
 [Riachuelo](https://riachuelo.com.br/) | São Paulo, SP | Redux, Redux Thunk, Ducks, Next.js, Material-UI, Jest, Enzyme, TypeScript | 🏠 🏢
 [Rivendel](https://rivendel.com.br/) | São Paulo, SP | Treinamento/consultoria aos clientes e produtos internos com Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
