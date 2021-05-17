@@ -875,6 +875,11 @@ Redux, Observable, Inferno
 [Pague Menos](https://www.paguemenos.com.br/)
 Redux, Saga
 
+[Parnity](https://www.parnity.co/)
+Belo Horizonte, MG - São Paulo, SP
+Next.js, React Testing Library
+🏠🏢
+
 [Paytrack](https://www.paytrack.com.br/)
 Blumenau, SC
 TypeScript, RxJS, Ant UI, Prettier
