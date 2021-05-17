@@ -243,6 +243,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [NTConsult](http://www.ntconsult.com.br/sitentc/home/) | Porto Alegre, RS | React Native, Typescript, Jest
 [Nubank](https://nubank.com.br/) | São Paulo, SP<br/>Campinas, SP<br/>Rio de Janeiro — RJ | React Native, GraphQL
 [Nuvem Shop](https://www.nuvemshop.com.br/) | São Paulo, SP<br/>Belo Horizonte — MG | React Native, Redux, Next.js, Docz
+[Objective](https://www.objective.com.br/) | São Paulo, SP<br/>Curitiba, PR<br/>Maringá, PR | Typescript, Redux, React Native, Styled Components, Jest, Cypress, ESLint | 🏠🏢
 [Ochain](https://www.ochain.com.br/) | Florianópolis, SC | Styled Components, Material UI, Apollo, GraphQL, Prisma | 🏠🏢
 [OLX](http://www.olx.com.br/) | São Paulo, SP<br/>Belo Horizonte, MG<br/>Rio de Janeiro, RJ | Redux, Saga
 [OneMarket](https://onemarket.com.br) | São Paulo, SP | GraphQL, Apollo, Saga, Glamorous

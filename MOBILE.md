@@ -845,6 +845,10 @@ React Native, Redux, Next.js, Docz
 
 #
 
+[Objective](https://www.objective.com.br/) 
+São Paulo, SP - Curitiba, PR - Maringá, PR 
+Typescript, Redux, React Native, Styled Components, Jest, Cypress, ESLint
+
 [Ochain](https://www.ochain.com.br/)
 Florianópolis, SC
 Styled Components, Material UI, Apollo, GraphQL, Prisma
