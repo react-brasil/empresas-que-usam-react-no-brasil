@@ -93,6 +93,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Creditas](https://www.creditas.com/) | Porto Alegre, RS <br/> Recife, PE <br/> São Paulo, SP | Typescript, Formik, CRA, Gatsby, Emotion, RTL, Jest, SWR, Redux, Lerna, single-spa
 [Croct](https://croct.com/) | São Paulo, SP | Typescript, CRA, Emotion, GraphQL, Relay, Jest, Cypress, React Testing Library, Hooks | 🏠
 [Cubos](https://cubos.io) | Salvador, BA | Mobx, Redux, Jest
+[Cuidas](https://www.cuidas.com.br/) | São Paulo, SP | RN, Typescript, GraphQL, Apollo, Jest, Redux, Styled Components, Lerna, Storybook | 🏢 
 [Curso Ênfase](https://www.cursoenfase.com.br) | São Carlos, SP<br/>Rio de Janeiro, RJ | GraphQL, Relay, Redux, Ducks, Material-ui, Webpack
 [CWI Software](https://www.cwi.com.br/) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Porto Alegre, RS<br/>Passo Fundo, RS<br/>Gravataí, RS<br/>São Leopoldo, RS | Redux, React Native, Styled Components, Recompose
 [C6 Bank](https://www.c6bank.com/) | São Paulo, SP | Material UI, JSS, Redux, Gatsby, Storybook, React-Router, RTL, Jest, Formik
