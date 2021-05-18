@@ -813,6 +813,11 @@ React Native, Redux
 Leme, SP
 React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 
+[Nexodata](https://nexodata.com.br/)
+São Paulo, SP
+Styled Components, Webpack, AWS, Gatsby
+🏠🏢
+
 [Nexo Jornal](https://nexojornal.com.br)
 São Paulo, SP
 SSR Node, Isomorphic, GraphQL, Hooks, Styled Components, Router, Jest, React Testing Library, Cypress, Storybook, Webpack, ESLint(Airbnb), Prettier, Formik, Docusaurus

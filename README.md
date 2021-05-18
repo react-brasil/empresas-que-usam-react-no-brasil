@@ -236,6 +236,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Mudi Saúde](https://www.mudisaude.com.br/) | São Paulo, SP | React native, Redux, Saga
 [Multiware Tecnologia](http://multiwaretecnologia.com.br) | Sinop, MT | React Native, Redux
 [Napp Solutions](https://nappsolutions.com/) | Leme, SP | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
+[Nexodata](https://nexodata.com.br/) | São Paulo, SP | Styled Components, Webpack, AWS, Gatsby | 🏠🏢
 [Nexo Jornal](https://nexojornal.com.br) | São Paulo, SP | SSR Node, Isomorphic, GraphQL, Hooks, Styled Components, Router, Jest, React Testing Library, Cypress, Storybook, Webpack, ESLint(Airbnb), Prettier, Formik, Docusaurus | 🏢
 [NG Informática](https://www.ngi.com.br) | Joinville, SC | Redux, Ramda, GraphQL, Apollo, Flow, TypeScript, Material-UI, Flipper-UI, React Native, Expo, Styled Components, Docz, Gatsby, Cypress
 [Nodo](https://nodo.cc/) | Pelotas, RS | Next.js, React Native, Atomic Design, Hooks, Prettier, ESLint(Airbnb), Styled Components, Webpack, Typescript | 🏠🏢
