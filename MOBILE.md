@@ -929,6 +929,10 @@ Redux, Saga, Jest, Enzyme
 São Paulo, SP
 React Native, GraphQL, Relay, Redux, Jest, Styled Components
 
+[Quero2pay](https://www.quero2pay.com.br/)
+Franca, SP
+Styled Components, Webpack, Gatsby 🏢
+
 [QuintoAndar](https://quintoandar.com.br)
 São Paulo, SP
 Redux, Jest, Styled Components

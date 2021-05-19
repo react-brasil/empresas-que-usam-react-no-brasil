@@ -263,6 +263,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [PWI](https://www.pwi.com.br) | São Paulo, SP | React Native, redux, typescript, Enzyme
 [Qualyteam](http://www.qualyteam.com/) | Balneário Camboriú, SC | Redux, Saga, Jest, Enzyme
 [QUANTO](https://contaquanto.com.br/) | São Paulo, SP | React Native, GraphQL, Relay, Redux, Jest, Styled Components
+[Quero2pay](https://www.quero2pay.com.br/) | Franca, SP | Styled Components, Webpack, Gatsby 🏢
 [QuintoAndar](https://quintoandar.com.br) | São Paulo, SP | Redux, Jest, Styled Components
 [Quóro](https://www.quoro.com.br) | Santa Terezinha de Itaipu, PR | Typescript, Next.js, Relay, GraphQL, Context API, Hooks, react-hook-form, Recoil, TailwindCss, Styled Components, Jest, Playwright
 [Raise Sistemas](https://raisesistemas.com.br) | Rio de Janeiro, RJ | React Native
