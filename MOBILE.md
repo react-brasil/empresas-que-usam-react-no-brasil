@@ -865,7 +865,7 @@ Styled Components, Material UI, Apollo, GraphQL, Prisma
 
 [OLX](http://www.olx.com.br/)
 São Paulo, SP - Belo Horizonte, MG - Rio de Janeiro, RJ
-Redux, Saga
+React Native, Redux, Jest, Cypress, Styled Components, Storybook, Next.js
 🏠🏢
 
 [OneMarket](https://onemarket.com.br)
