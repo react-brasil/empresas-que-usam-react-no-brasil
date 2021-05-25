@@ -242,6 +242,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Ochain](https://www.ochain.com.br/) | Florianópolis, SC | Styled Components, Material UI, Apollo, GraphQL, Prisma | 🏠🏢
 [OLX](http://www.olx.com.br/) | São Paulo, SP<br/>Belo Horizonte, MG<br/>Rio de Janeiro, RJ | Redux, Saga
 [OneMarket](https://onemarket.com.br) | São Paulo, SP | GraphQL, Apollo, Saga, Glamorous
+[Onbank Soluções Financeiras](https://onbank.com.br/) | Styled Components, Gatsby, webpack, AWS
 [Oi](https://oi.com.br/) | São Paulo, SP<br/>Belo Horizonte, MG<br/>Rio de Janeiro, RJ | Redux, Reflux, Storybook
 [Origin Financial](https://www.useorigin.com/) | São Paulo, SP | Styled Components, Redux, Storybook, Custom Hooks, TypeScript, Formik | 🏠🏢
 [OSBR](https://www.osbr.com.br) | São Paulo, SP | GraphQL, MongoDb, Redux, React Native
