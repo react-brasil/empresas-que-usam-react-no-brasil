@@ -319,6 +319,10 @@ Feira de Santana, BA
 São Paulo, SP
 Redux
 
+[Education Journey](https://new.education-journey.com/)
+São Paulo, SP
+Styled Components, Next.js, webpack, Node.js
+
 [Sanar](https://www.sanarmed.com)
 Salvador, BA
 React Native, Apollo, NextJS, Gatsby, Styled Components, Jest, Testing Library, Detox, Storybook
