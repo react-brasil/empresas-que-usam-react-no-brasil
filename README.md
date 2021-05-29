@@ -231,6 +231,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Mout'S](https://mouts.info) | Blumenau, SC | React Native, Redux, Saga, Styled Components, Hooks, Router, Jest, Formik | 🏠🏢
 [Mudi Saúde](https://www.mudisaude.com.br/) | São Paulo, SP | React native, Redux, Saga
 [Multiware Tecnologia](http://multiwaretecnologia.com.br) | Sinop, MT | React Native, Redux
+[McKinsey](http://www.mckinsey.com) | São Paulo, SP | Adobe Analytics, Microsoft ASP.NET, Akamai, Boomerang | 🏢
 [Napp Solutions](https://nappsolutions.com/) | Leme, SP | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 [Nexo Jornal](https://nexojornal.com.br) | São Paulo, SP | SSR Node, Isomorphic, GraphQL, Hooks, Styled Components, Router, Jest, React Testing Library, Cypress, Storybook, Webpack, ESLint(Airbnb), Prettier, Formik, Docusaurus | 🏢
 [NG Informática](https://www.ngi.com.br) | Joinville, SC | Redux, Ramda, GraphQL, Apollo, Flow, TypeScript, Material-UI, Flipper-UI, React Native, Expo, Styled Components, Docz, Gatsby, Cypress

@@ -790,6 +790,9 @@ React Native, Redux, Saga
 Sinop, MT
 React Native, Redux
 
+[McKinsey](http://www.mckinsey.com)
+São Paulo, SP
+Adobe Analytics, Microsoft ASP.NET, Akamai, Boomerang
 #
 
 [Napp Solutions](https://nappsolutions.com/)
