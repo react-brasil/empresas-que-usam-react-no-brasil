@@ -403,6 +403,10 @@ Fortaleza, CE  Redux, Router
 João Pessoa, PB
 Redux, Redux-Thunk, Redux-Saga, Redux-form, Emotion, Jest
 
+[Fitch Ratings](https://www.fitchratings.com/)
+São Paulo, SP
+Gatsby, Emotion, webpack, AWS
+
 [Fred](https://fredbots.com/)
 São Paulo, SP
 Redux, Redux Thunk
