@@ -333,6 +333,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Voltbras](https://voltbras.com.br/) | Florianópolis, SC | React Native, Redux, Apollo/GraphQL, Styled Components, NodeJS, Golang, Prisma
 [VTEX](https://pt.vtex.com/) | São Paulo, SP<br/>Rio de Janeiro, RJ | Redux, Apollo GraphQL, Jest, React Native
 [WA Project](https://www.waproject.com.br/) | São Paulo, SP | Redux, Context API, Hooks, TypeScript, React Native, Material UI, Formik
+[WAP](https://loja.wap.ind.br/) | São José dos Pinhais, PR | webpack, Babel, VTEX, Underscore.js
 [Wealth Systems](http://wssim.com.br) | Cascavel, PR | Immutable
 [Webedia](http://webedia.com.br/) | Rio de Janeiro, RJ | Redux, Jest, GraphQL
 [WebJump](http://www.webjump.com.br) | São Paulo, SP | GraphQL, Redux, Hooks, Styled Components, Router, Apollo, Jest, React Native, Enzyme

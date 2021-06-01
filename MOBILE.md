@@ -1211,6 +1211,10 @@ Redux, Apollo GraphQL, Jest, React Native
 São Paulo, SP
 Redux, Context API, Hooks, TypeScript, React Native, Material UI, Formik
 
+[WAP](https://loja.wap.ind.br/)
+São José dos Pinhais, PR
+webpack, Babel, VTEX, Underscore.js
+
 [Wealth Systems](http://wssim.com.br)
 Cascavel, PR
 Immutable
