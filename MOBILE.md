@@ -62,6 +62,10 @@ React Native, Redux, Sagas, Firebase, Jest, Flow, Material-UI
 Campo Mourão, PR
 React Native, Redux
 
+[Apllos](https://www.apllos.com.br)
+São Paulo, SP
+Styled-components, Lodash, Nginx
+
 [AQUARELA](https://aquarela.studio/)
 Salvador, BA
 Redux, Jest, React Native, Reactotron, GraphQL, Redux Saga, Webpack, Next.js

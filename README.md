@@ -51,6 +51,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Ao Cubo](https://aocubo.com) | São Paulo, SP | React Native, Redux, Next, GraphQL | 🏢
 [App Masters](https://appmasters.io) | Juiz de Fora, MG | React Native, Redux, Sagas, Firebase, Jest, Flow, Material-UI
 [Appmoove](http://appmoove.com.br) | Campo Mourão, PR | React Native, Redux
+[Apllos](https://www.apllos.com.br) | São Paulo, SP | Styled-components, Lodash, Nginx | 🏢 
 [AQUARELA](https://aquarela.studio/) | Salvador, BA | Redux, Jest, React Native, Reactotron, GraphQL, Redux Saga, Webpack, Next.js
 [Arizona Marketing Flow](https://www.arizona.global/) | São Paulo, SP | Redux, RxJS
 [Arquivei](https://www.arquivei.com.br/) | São Carlos, SP | Redux, ImmutableJS, Redux Thunk, Styled Components, Jest, Webpack, Next.js
