@@ -250,7 +250,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Nuvem Shop](https://www.nuvemshop.com.br/) | São Paulo, SP<br/>Belo Horizonte — MG | React Native, Redux, Next.js, Docz
 [Objective](https://www.objective.com.br/) | São Paulo, SP<br/>Curitiba, PR<br/>Maringá, PR | Typescript, Redux, React Native, Styled Components, Jest, Cypress, ESLint | 🏠🏢
 [Ochain](https://www.ochain.com.br/) | Florianópolis, SC | Styled Components, Material UI, Apollo, GraphQL, Prisma | 🏠🏢
-[OLX](http://www.olx.com.br/) | São Paulo, SP<br/>Belo Horizonte, MG<br/>Rio de Janeiro, RJ | Redux, Saga
+[OLX](http://www.olx.com.br/) | São Paulo, SP<br/>Belo Horizonte, MG<br/>Rio de Janeiro, RJ | React Native, Redux, Jest, Cypress, Styled Components, Storybook, Next.js | 🏠🏢
 [OneMarket](https://onemarket.com.br) | São Paulo, SP | GraphQL, Apollo, Saga, Glamorous
 [Onbank Soluções Financeiras](https://onbank.com.br/) | Styled Components, Gatsby, webpack, AWS
 [Oi](https://oi.com.br/) | São Paulo, SP<br/>Belo Horizonte, MG<br/>Rio de Janeiro, RJ | Redux, Reflux, Storybook
