@@ -882,6 +882,9 @@ Redux, Saga
 [OneMarket](https://onemarket.com.br)
 São Paulo, SP  GraphQL, Apollo, Saga, Glamorous
 
+[Onbank Soluções Financeiras](https://onbank.com.br/)
+Salvador, BA - Styled Components, Gatsby, webpack, AWS
+
 [Oi](https://oi.com.br/)
 São Paulo, SP - Belo Horizonte, MG - Rio de Janeiro, RJ
 Redux, Reflux, Storybook
