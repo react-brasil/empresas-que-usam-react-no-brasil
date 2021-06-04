@@ -47,6 +47,10 @@ Redux, Redux Form, React Native
 São Paulo, SP
 Redux, RxJS
 
+[AME Digital](https://www.amedigital.com/)
+São Paulo, SP
+Styled Components, Next.JS, Webpack, Node.JS
+
 [Americanas](https://www.americanas.com.br/)
 São Paulo, SP
 

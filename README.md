@@ -47,6 +47,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [allya](https://www.allya.com.br/) | São Paulo, SP | Redux, React Native
 [Alumy](https://alumy.com) | Sorocaba, SP | Redux, Redux Form, React Native
 [AMARO](https://amaro.com/) | São Paulo, SP | Redux, RxJS
+[AME Digital](https://www.amedigital.com/) | São Paulo, SP | Styled Components, Next.JS, Webpack, Node.JS | 🏢
 [Americanas](https://www.americanas.com.br/) | São Paulo, SP |
 [ANTIDOTO DESIGN E TECNOLOGIA](https://www.antidotodesign.com.br/) | São Paulo, SP | React-Native, Redux, Feathersjs, Mongodb, Gunjs, Meteor
 [Ao Cubo](https://aocubo.com) | São Paulo, SP | React Native, Redux, Next, GraphQL | 🏢
