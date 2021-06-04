@@ -94,6 +94,9 @@ Redux
 São Paulo, SP
 React Native, Redux, Jest, Styled Components, Recompose, Redux Thunk, Firebase, Reselect, Redux Form
 
+[Axur](https://axur.com/pt/)
+Porto Alegre, Rio Grande do Sul
+Styled Components, Gatsby, webpack
 #
 
 [B2W](https://ri.b2w.digital/)
