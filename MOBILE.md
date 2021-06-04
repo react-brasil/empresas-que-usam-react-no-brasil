@@ -307,6 +307,10 @@ React Native, Redux, Firebase, Styled Components, Jest
 São Paulo, SP - São Carlos, SP
 React Native, Redux, Jest
 
+[Diletec](https://www.diletec.com.br/)  
+Belo Horizonte, MG
+React Native, Redux, Jest
+
 [DokeHost](https://dokehost.com.br/)
 Uberlândia, MG
 NextJs, Redux, ReduxForm, Styled Components, React Native
@@ -1161,6 +1165,10 @@ Redux, Redux-Thunk, Router, Webpack, Material-UI, create-react-app
 [Tegra](https://tegra.com.br/)
 Sorocaba, SP - São Paulo, SP
 React Native, Typescript, Jest, Enzyme, Recompose, Rxjs, Docz
+
+[Teknisa](https://www.teknisa.com/) 
+Belo Horizonte, MG
+React Native, Redux, Jest
 
 [Teravoz](https://teravoz.com.br)
 São Paulo, SP

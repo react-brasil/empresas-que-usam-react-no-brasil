@@ -111,6 +111,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Digital Pages](https://portugues.digitalpages.com.br/) | São Paulo, SP |
 [Digital Innovation One](http://digitalinnovation.one/) | Araraquara, SP | React Native, Redux, Firebase, Styled Components, Jest
 [Diin](https://diin.com.br/) | São Paulo, SP<br/>São Carlos, SP | React Native, Redux, Jest
+[Diletec](https://www.diletec.com.br/) | Belo Horizonte, MG<br/> | React Native, Redux, Jest
 [DokeHost](https://dokehost.com.br/) | Uberlândia, MG | NextJs, Redux, ReduxForm, Styled Components, React Native
 [e-Core](https://www.e-core.com/) | Porto Alegre, RS<br/>São Paulo, SP | Redux, Webpack
 [Easynvest](https://www.easynvest.com.br/) | São Paulo, SP | Jest, Redux, ReduxForm, Ducks, Styled Components
@@ -132,7 +133,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Evino](https://evino.com.br/https://entria.com.br/) | São Paulo, SP | Redux, Jest, CSS Modules
 [Evolux](https://www.evolux.net.br/) | Natal, RN | Redux, Jest, MobX, WebRTC
 [Eyemobile](https://eyemobile.com.br/) | Florianópolis, SC | Redux, Hooks, Storybook, Formik, Jest | 🏠 e 🏢
-[Fábrica de Software IFRS](https://github.com/fabsoftwareifrs) | Bento Gonçalves, RS | Sequelize, Express, Apollo, GraphQL, Node 
+[Fábrica de Software IFRS](https://github.com/fabsoftwareifrs) | Bento Gonçalves, RS | Sequelize, Express, Apollo, GraphQL, Node
 [Face Digital](https://facedigital.com.br/) | Joinville, SC | Redux, React Native, Redux Thunk, Next.js
 [Faicon](https://www.faicon.com/) | Rio de Janeiro, SP | MobX, JSS, Jest, Webpack, Storybook
 [Feedback House](https://feedback.house/) | São Paulo, SP | GraphQL, Relay, Styled Components, Jest, Formik, Webpack, Material-UI, React Native
@@ -320,6 +321,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Taqtile](https://www.taqtile.com.br/) | São Paulo, SP | React Native, MobX, GraphQL, Storybook, Styled Components, Jest
 [Teclógica](https://www.teclogica.com.br/) | Blumenau, SC | Redux, Redux-Thunk, Router, Webpack, Material-UI, create-react-app
 [Tegra](https://tegra.com.br/) | Sorocaba, SP<br/>São Paulo, SP  | React Native, Typescript, Jest, Enzyme, Recompose, Rxjs, Docz
+[Teknisa](https://www.teknisa.com/) | Belo Horizonte, MG<br/> | React Native, Redux, Jest
 [Teravoz](https://teravoz.com.br) | São Paulo, SP  | Redux, TypeScript, Jest, AVA, SASS, Material-UI, Hooks
 [Timcoo](http://timcoo.com.br) | Belo Horizonte, MG | Redux, Redux Thunk
 [TOTVS](https://www.totvs.com/home) | São Paulo, SP |
