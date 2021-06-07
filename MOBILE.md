@@ -92,6 +92,10 @@ React Native, Redux, Jest, Styled Components, Recompose, Redux Thunk, Firebase, 
 Rio de Janeiro, RJ - São Paulo, SP
 React Native, Redux, Jest, Immutable
 
+[Banco Inter](https://www.bancointer.com.br/)
+Belo Horizonte, MG
+React Native, Styled-components, webpack, Gatsby
+
 [BeeTech](https://www.beetech.global)
 São Paulo, SP
 Jest, Redux, Functional Programming, Styled Components
