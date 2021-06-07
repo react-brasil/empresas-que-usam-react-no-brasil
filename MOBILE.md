@@ -903,7 +903,7 @@ Redux, RxJS
 
 [Polishop](https://www.polishop.com.br/)
 São Paulo, SP
-React Native, Styled Components, React-dom
+React Native, Styled Components
 
 [Ponto GO](https://www.pontogo.com.br/)
 Fortaleza, CE
