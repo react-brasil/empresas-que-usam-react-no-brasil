@@ -354,6 +354,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Wealth Systems](http://wssim.com.br) | Cascavel, PR | Immutable
 [Webedia](http://webedia.com.br/) | Rio de Janeiro, RJ | Redux, Jest, GraphQL
 [WebJump](http://www.webjump.com.br) | São Paulo, SP | GraphQL, Redux, Hooks, Styled Components, Router, Apollo, Jest, React Native, Enzyme
+[Webmotors](https://www.webmotors.com.br/) | São Paulo, SP | Styled-components, webpack | 🏢
 [Welearn](https://br.welearnit.co) |  |
 [Wevo](https://www.wevo.com.br) | São Paulo, SP<br/>Florianópolis, SC | RxJS
 [Wine.com.br](https://www.wine.com.br) | Vitória, ES | React Native, Redux, Redux Thunk, Immutable
