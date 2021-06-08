@@ -901,6 +901,10 @@ Rio de Janeiro, RJ
 São Paulo, SP
 Redux, RxJS
 
+[Polishop](https://www.polishop.com.br/)
+São Paulo, SP
+React Native, Styled Components
+
 [Ponto GO](https://www.pontogo.com.br/)
 Fortaleza, CE
 React Native, Redux, Redux Saga, Firebase, Material-UI, Styled Components
