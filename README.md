@@ -249,6 +249,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [PagSeguro](https://www.pagseguro.com.br/) | São Paulo, SP | Redux, Observable, Inferno
 [Pague Menos](https://www.paguemenos.com.br/) | | Redux, Saga
 [Paytrack](https://www.paytrack.com.br/) | Blumenau, SC | TypeScript, RxJS, Ant UI, Prettier
+[Pão de açúcar](https://www.paodeacucar.com/) | São Paulo, SP | Next.js, Styled-components, webpack, Node.js, Emotion
 [PICSIZE](https://picsize.com.br/) | Belo Horizonte, MG | Router, Webpack, Lodash
 [Pier](https://pier.digital/) | São Paulo, SP | React Native, MobX, Jest, Lodash
 [Pipefy](https://pipefy.com) | São Paulo, SP<br/>Curitiba, PR | GraphQL, React Native
