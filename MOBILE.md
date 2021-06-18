@@ -838,7 +838,7 @@ React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 
 [Nata.House](https://nata.house)
 Belo Horizonte, MG
-React-Native, Styled-Components, Redux, Jest, React Testing Library, ESLint(Airbnb), Prettier, Formik
+ReactJs, React-Native, SCSS, Styled-Components, Redux, Jest, React Testing Library, ESLint(Airbnb), Prettier, Formik
 
 [Nexodata](https://nexodata.com.br/)
 São Paulo, SP
