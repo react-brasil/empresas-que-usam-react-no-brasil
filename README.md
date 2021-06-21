@@ -257,7 +257,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Popcode Mobile Solutions](https://popcode.com.br/) | Aracaju, SE | React Native, Redux, Sagas, Firebase, Jest, Flow | 🏠🏢
 [Pragmatismo.io](http://pragmatismo.io) | Rio de Janeiro, RJ |
 [Printi](https://printi.com.br) | São Paulo, SP | Redux, RxJS
-[Polishop](https://www.polishop.com.br/) | São Paulo, SP | React Native, Styled Components| 🏢
+[Polishop](https://www.polishop.com.br/) | São Paulo, SP | React Native, Styled Components | 🏢
 [Ponto GO](https://www.pontogo.com.br/) | Fortaleza, CE | React Native, Redux, Redux Saga, Firebase, Material-UI, Styled Components | 🏢
 [Poupachef](https://poupachef.com.br) | São Paulo, SP | React Native, Redux | 🏠 🏢
 [ProFUSION](https://profusion.mobi) | Campinas, SP | React Native, Redux, Redux Saga, GraphQL, Material-UI, Styled Components, Flow, TypeScript
