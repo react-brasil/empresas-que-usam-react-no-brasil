@@ -841,6 +841,10 @@ React Native, Redux
 Leme, SP
 React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 
+[Nata.House](https://nata.house)
+Belo Horizonte, MG
+React-Native, SCSS, Styled-Components, Redux, Jest, React Testing Library, ESLint(Airbnb), Prettier, Formik
+
 [Nexodata](https://nexodata.com.br/)
 São Paulo, SP
 Styled Components, Webpack, AWS, Gatsby
