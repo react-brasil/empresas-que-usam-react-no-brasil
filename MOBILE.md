@@ -1144,6 +1144,10 @@ Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
 São Paulo, SP<br/> Palo Alto, CA
 Redux, React Native, Graphql
 
+[Stone](https://www.stone.com.br/)
+São Paulo, SP
+React-Native, Next.js, Node.js, Styled Components, webpack
+
 [STQ Digital](https://stqpublicidade.com.br/)
 São Paulo, SP  React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 

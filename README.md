@@ -315,6 +315,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Sotero Tech](https://www.soterotech.com.br/) | Lauro de Freitas, BA | Redux, React Native
 [Startaê](https://startae.com/) |  | Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
 [StartSe](https://www.startse.com/) | São Paulo, SP<br/> Palo Alto, CA | Redux, React Native, Graphql
+[Stone](https://www.stone.com.br/) | São Paulo, SP | React-Native, Next.js, Node.js, Styled Components, webpack | 🏢
 [stq digital](https://stqpublicidade.com.br/) | São Paulo, SP | React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 [Studio Sol](https://www.studiosol.com.br/) | Belo Horizonte, MG | Redux, GraphQL, Relay
 [Submarino](https://www.submarino.com.br/) | São Paulo, SP |
