@@ -371,6 +371,11 @@ Redux
 São Paulo, SP
 NextJs, Redux, ReduxForm, Styled Components, React Native
 
+[enContact](https://www.encontact.com.br/)
+São Paulo, SP
+TypeScript, i18n, Hooks, webpack, Node.js, WebSocket/SignalR, Styled Components, Jest, Testing Library
+🏠 ou 🏢
+
 [eNe Soluções](http://enesolucoes.com.br/)
 Uberlândia, MG
 GraphQL, Jest, Next.js, React Native, Redux, Reselect
