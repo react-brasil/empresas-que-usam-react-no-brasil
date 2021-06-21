@@ -932,6 +932,10 @@ Next.js, React Testing Library
 Blumenau, SC
 TypeScript, RxJS, Ant UI, Prettier
 
+[Pão de açúcar](https://www.paodeacucar.com/)
+São Paulo, SP
+Next.js, Styled-components, webpack, Node.js, Emotion
+
 [PICSIZE](https://picsize.com.br/)
 Belo Horizonte, MG
 Router, Webpack, Lodash
