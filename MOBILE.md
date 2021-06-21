@@ -373,7 +373,7 @@ NextJs, Redux, ReduxForm, Styled Components, React Native
 
 [enContact](https://www.encontact.com.br/)
 São Paulo, SP
-typescript, i18n, Hooks, webpack, Node.js, WebSocket/SignalR, Styled Components, Jest, Testing Library
+TypeScript, i18n, Hooks, webpack, Node.js, WebSocket/SignalR, Styled Components, Jest, Testing Library
 🏠 ou 🏢
 
 [eNe Soluções](http://enesolucoes.com.br/)
