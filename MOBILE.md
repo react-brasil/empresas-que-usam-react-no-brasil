@@ -635,6 +635,10 @@ São Paulo, SP
 React Native, Redux
 🏢
 
+[Joyjet](https://joyjet.com/) 
+Fortaleza, CE
+React, React Native, Redux, TypeScript, NextJS, RTKQ, HooksForm, Styled Components, PWA | 🏠
+
 [JP7](https://www.jp7.com.br)
 São Paulo, SP
 React Native, Redux, GraphQL

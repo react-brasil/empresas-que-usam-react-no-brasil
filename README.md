@@ -192,6 +192,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Irriga Global](https://irriga.net/) | Santa Maria, RS | React Native, Redux | 🏠🏢
 [Isobar Brasil](http://www.isobar.com/br/en/) | São Paulo, SP |
 [JetSoft](https://www.jetsoft.com.br/) | São Paulo, SP | React Native, Redux | 🏢
+[Joyjet](https://joyjet.com/) | Fortaleza, CE | React Native, Redux, TypeScript, NextJS, RTKQ, HooksForm, Styled Components, PWA | 🏠
 [JP7](https://www.jp7.com.br) | São Paulo, SP | React Native, Redux, GraphQL
 [Junto Seguros](https://www.juntoseguros.com/) | Curitiba, PR | Styled Components, MobX, Jest, Storybook
 [Juntos Somos Mais](https://www.juntossomosmais.com.br/) | São Paulo, SP | React Native, Jest, Enzyme, Styled Components, Storybook | 🏠🏢
