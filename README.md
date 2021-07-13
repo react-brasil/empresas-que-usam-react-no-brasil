@@ -278,6 +278,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Printi](https://printi.com.br) | São Paulo, SP | Redux, RxJS
 [Polishop](https://www.polishop.com.br/) | São Paulo, SP | React Native, Styled Components | 🏢
 [Ponto GO](https://www.pontogo.com.br/) | Fortaleza, CE | React Native, Redux, Redux Saga, Firebase, Material-UI, Styled Components | 🏢
+[Portão 3](https://www.portao3.com.br/) | Uberlândia, MG | TypeScript, React Native, Redux, NodeJS, Formik | 🏠 🏢
 [Poupachef](https://poupachef.com.br) | São Paulo, SP | React Native, Redux | 🏠 🏢
 [ProFUSION](https://profusion.mobi) | Campinas, SP | React Native, Redux, Redux Saga, GraphQL, Material-UI, Styled Components, Flow, TypeScript
 [PWI](https://www.pwi.com.br) | São Paulo, SP | React Native, redux, typescript, Enzyme
