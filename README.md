@@ -245,7 +245,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Multiware Tecnologia](http://multiwaretecnologia.com.br) | Sinop, MT | React Native, Redux
 [Napp Solutions](https://nappsolutions.com/) | Leme, SP | React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 [Nata.House](https://nata.house) | Belo Horizonte, MG | React-Native, SCSS, Styled-Components, Redux, Jest, React Testing Library, ESLint(Airbnb), Prettier, Formik
-[Nexodata](https://nexodata.com.br/) | São Paulo, SP | Styled Components, Webpack, AWS, Gatsby | 🏢
+[Nexodata](https://nexodata.com.br/) | São Paulo, SP | Styled Components, Webpack, AWS, Gatsby | 🏠🏢
 [Nexo Jornal](https://nexojornal.com.br) | São Paulo, SP | Next.js, SSR Node, Isomorphic, GraphQL, Hooks, Styled Components, Jest, React Testing Library, Cypress, Storybook, Webpack, ESLint(Airbnb), Prettier, React Hook Forms , Docusaurus | 🏠
 [NG Informática](https://www.ngi.com.br) | Joinville, SC | Redux, Ramda, GraphQL, Apollo, Flow, TypeScript, Material-UI, Flipper-UI, React Native, Expo, Styled Components, Docz, Gatsby, Cypress
 [Nodo](https://nodo.cc/) | Pelotas, RS | Next.js, React Native, Atomic Design, Hooks, Prettier, ESLint(Airbnb), Styled Components, Webpack, Typescript | 🏠🏢
