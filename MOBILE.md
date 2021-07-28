@@ -904,6 +904,11 @@ São Paulo, SP - Belo Horizonte, MG - Rio de Janeiro, RJ
 React Native, Redux, Jest, Cypress, Styled Components, Storybook, Next.js
 🏠🏢
 
+[Oito.work](https://oito.work)
+São Paulo, SP - Belo Horizonte, MG - Curitiba - PR, Salvador - BA
+React Native, Mobx, Jest, Cypress, Styled Components, Web3js, Ethers
+🏠
+
 [OneMarket](https://onemarket.com.br)
 São Paulo, SP  GraphQL, Apollo, Saga, Glamorous
 
