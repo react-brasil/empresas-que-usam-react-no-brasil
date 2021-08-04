@@ -130,7 +130,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [enContact](https://www.encontact.com.br/) | São Paulo, SP | TypeScript, i18n, Hooks, webpack, Node.js, WebSocket/SignalR, Styled Components, Jest, Testing Library | 🏠 ou 🏢
 [eNe Soluções](http://enesolucoes.com.br/) | Uberlândia, MG | GraphQL, Jest, Next.js, React Native, Redux, Reselect
 [Energisa](https://www.energisa.com.br/) | João Pessoal, PB | React Native, Styled Components, Redux, Detox
-[Enext](https://enext.com.br/) | São Paulo, SP | Styled Components
+[Enext](https://enext.com.br/) | São Paulo, SP | Styled Components | 🏠
 [Entria](https://entria.com.br/) | São Paulo, SP | GraphQL, Relay, Styled Components, Jest, Formik, Webpack, Material-UI, React Native
 [Escalaí - Startup](http://escalai.com.br/) | Rio de Janeiro, RJ | React Native
 [Escavador](https://www.escavador.com) | Salvador, BA | React Native, Redux, Redux-Thunk, Normalizr, Jest, Flow, Webpack
