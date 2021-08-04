@@ -384,6 +384,10 @@ GraphQL, Jest, Next.js, React Native, Redux, Reselect
 João Pessoa, PB
 React Native, Styled Components, Redux, Detox
 
+[Enext](https://enext.com.br/)
+São Paulo, SP
+Redux, Styled Components
+
 [Entria](https://entria.com.br/)
 São Paulo, SP
 GraphQL, Relay, Styled Components, Jest, Formik, Webpack, Material-UI, React Native
