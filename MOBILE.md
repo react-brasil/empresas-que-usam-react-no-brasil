@@ -386,7 +386,7 @@ React Native, Styled Components, Redux, Detox
 
 [Enext](https://enext.com.br/)
 São Paulo, SP
-Redux, Styled Components
+Redux, Styled Components, GraphQL
 🏠
 
 [Entria](https://entria.com.br/)
