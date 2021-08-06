@@ -1370,6 +1370,10 @@ React-Native, Redux Persist, Saga, Reactotron, ESLint(Airbnb), Styled Components
 São Paulo, SP
 Redux, Jest, GraphQL
 
+[Zenklub](https://zenklub.com.br/)
+São Paulo, SP
+React Native, Redux, Redux Thunk, Redux Persist, Storybook, Firebase, TypeScript, Jest, NodeJS
+
 [ZeroSoft](https://www.zerosoft.com.br/)
 Ribeirão Preto, SP
 Redux, Styled Components, Router, Material-UI, Webpack, Router, React Native, Monorepo
