@@ -372,6 +372,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Yube](http://www.yube.com.br/) | São Paulo, SP | JSS, Apollo/GraphQL, Jest, Enzyme
 [Zaal Tecnologia](http://www.zaal.com.br/) | Três Rios, RJ | React-Native, Redux Persist, Saga, Reactotron, ESLint(Airbnb), Styled Components, Hooks, Prettier, Formik, Ducks, Ant UI, Jest
 [Zap Imóveis](https://www.zapimoveis.com.br/) | São Paulo, SP | Redux, Jest, GraphQL
+[Zenklub](https://zenklub.com.br/) | São Paulo, SP | React Native, Redux, Redux Thunk, Redux Persist, Storybook, Firebase, TypeScript, Jest, NodeJS
 [ZeroSoft](https://www.zerosoft.com.br/) | Ribeirão Preto, SP | Redux, Styled Components, Router, Material-UI, Webpack, Router, React Native, Monorepo
 [Zimp](https://zimp.me/) | São Paulo, SP |
 [Zup IT Innovation](http://www.zup.com.br/) | São Paulo, SP<br/>Uberlândia, MG | Redux, Saga, MobX, Jest, Enzyme, GraphQL, Apollo, Styled Components, Immutable
