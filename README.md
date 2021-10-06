@@ -264,7 +264,7 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [Origin Financial](https://www.useorigin.com/) | São Paulo, SP | Styled Components, Redux, Storybook, Custom Hooks, TypeScript, Formik | 🏠🏢
 [OSBR](https://www.osbr.com.br) | São Paulo, SP | GraphQL, MongoDb, Redux, React Native
 [Pagar.me](https://pagar.me/) | São Paulo, SP | Redux, CSS Modules, Storybook
-[PagSeguro](https://www.pagseguro.com.br/) | São Paulo, SP | Redux, Observable, Inferno
+[PagSeguro](https://www.pagseguro.com.br/) | São Paulo, SP | Next.js, Redux, Redux-Thunk, Redux-Form, CSS Modules, Jest, Observable, Inferno | 🏠🏢
 [Pague Menos](https://www.paguemenos.com.br/) | | Redux, Saga
 [Parnity](https://www.parnity.co/) | Belo Horizonte, MG<br />São Paulo, SP | Next.js, React Testing Library | 🏠🏢
 [Paytrack](https://www.paytrack.com.br/) | Blumenau, SC | TypeScript, RxJS, Ant UI, Prettier

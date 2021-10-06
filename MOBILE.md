@@ -936,7 +936,8 @@ Redux, CSS Modules, Storybook
 
 [PagSeguro](https://www.pagseguro.com.br/)
 São Paulo, SP
-Redux, Observable, Inferno
+Next.js, Redux, Redux-Thunk, Redux-Form, CSS Modules, Jest, Observable, Inferno
+🏠🏢
 
 [Pague Menos](https://www.paguemenos.com.br/)
 Redux, Saga
