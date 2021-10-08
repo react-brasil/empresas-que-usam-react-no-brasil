@@ -901,7 +901,7 @@ Styled Components, Material UI, Apollo, GraphQL, Prisma
 
 [Oito.work](https://oito.work)
 São Paulo, SP - Belo Horizonte, MG - Curitiba - PR, Salvador - BA
-React Native, Mobx, Jest, Cypress, Styled Components, Web3js, Ethers
+React Native, GraphQL, Apollo, Mobx, Jest, Cypress, Styled Components, Ethers, Web3.js, Material UI, Chakra UI
 🏠
 
 [OLX](http://www.olx.com.br/)
