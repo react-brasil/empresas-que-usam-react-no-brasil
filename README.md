@@ -696,7 +696,6 @@ Nome | Cidade | Tecnologias Relacionadas | Alocação
 [ZX Ventures](https://zx-ventures.com/) | | React-Native, Redux, GraphQL, Apollo/Relay
 [12min](https://12min.com/) | | React Native, Redux, React Navigation, Saga, Cycle, Flow, Reactotron, ESLint(Airbnb)
 
-> > > > > > > upstream/master
 
 ## Projetos
 
