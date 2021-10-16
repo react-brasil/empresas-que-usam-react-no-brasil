@@ -1427,6 +1427,10 @@ Redux, Jest, GraphQL
 São Paulo, SP
 React Native, Redux, Redux Thunk, Redux Persist, Storybook, Firebase, TypeScript, Jest, NodeJS
 
+[Zeropay](https://zeropay.io/)
+Recife, PE
+React Native, React Router Dom, React Navigation, Firebase, TypeScript, NodeJS, Context API, Hooks, Styled Components, Formik, ESLint 🏠 🏢
+
 [ZeroSoft](https://www.zerosoft.com.br/)
 Ribeirão Preto, SP
 Redux, Styled Components, Router, Material-UI, Webpack, Router, React Native, Monorepo
