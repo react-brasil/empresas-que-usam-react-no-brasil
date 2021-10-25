@@ -707,7 +707,10 @@ GraphQL, Relay, Recompose, React Native, Jest, Storybook, create-react-app, Webp
 São Paulo, SP
 Hooks, Router, GraphQL, Apollo, TypeScript, Styled Components, Grommet.io, Jest, Enzyme
 
-[Kroton](https://kroton.com.br/)  Valinhos, SP, Redux-Thunk, Enzyme, Jest, SASS, 🏠 🏢
+[Kroton](https://kroton.com.br/)
+Valinhos, SP
+Redux-Thunk, Enzyme, Jest, SASS
+🏠 🏢
 
 [Krush](https://www.krush.com.br/)
 Rio de Janeiro, RJ
