@@ -1489,6 +1489,8 @@ Redux, React Router, Material-UI, Redux Form
 
 [Keepfy](https://keepfy.com) GraphQL, Apollo, Docz, TypeScript, React Native, Cypress, Flipper-UI, Styled Components
 
+[7az](https://www.7az.com.br) Hooks, SASS, Atomic Design, Reach Router, React Native, AWS, ASP.NET MVC, PostgreSQL, React Navigation, Facebook Fresco
+
 ## Licença
 
 [MIT](/LICENSE)
