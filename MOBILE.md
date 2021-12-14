@@ -1214,6 +1214,11 @@ Redux, ReactNative
 Joinville, SC
 Redux
 
+[Softwrap](https://softwrap.com.br/)
+São Paulo, SP
+React Native, Styled Components, Hooks, Redux, Firebase, Storybook
+🏠 
+
 [Som Livre](https://www.somlivre.com/)
 Rio de Janeiro, RJ
 React Native
