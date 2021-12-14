@@ -1206,13 +1206,13 @@ React Native
 Joinville, SC
 React Native, Redux
 
-[Softplan](https://www.softplan.com.br/)
-Florianópolis, SC
-Redux, ReactNative
-
 [Softin Sistemas](https://softin.com.br/)
 Joinville, SC
 Redux
+
+[Softplan](https://www.softplan.com.br/)
+Florianópolis, SC
+Redux, ReactNative
 
 [Softwrap](https://softwrap.com.br/)
 São Paulo, SP
