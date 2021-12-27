@@ -1116,6 +1116,10 @@ São Paulo, SP
 Redux, Redux Thunk, Ducks, Next.js, Material-UI, Jest, Enzyme, TypeScript
 🏠 🏢
 
+[Riderize] (https://www.riderize.com)
+Rio do Sul, SC
+React Native, Apollo/GraphQL, NextJS, TypeScript, Relay, Recoil
+
 [Rivendel](https://rivendel.com.br/)
 São Paulo, SP
 Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
