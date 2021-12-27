@@ -1464,6 +1464,8 @@ React-Native, Redux, GraphQL, Apollo/Relay
 [12min](https://12min.com/)
 React Native, Redux, React Navigation, Saga, Cycle, Flow, Reactotron, ESLint(Airbnb)
 
+[7az](https://www.7az.com.br) Hooks, SASS, Atomic Design, Reach Router, React Native, AWS, ASP.NET MVC, PostgreSQL, React Navigation, Facebook Fresco
+
 ## Projetos
 
 [BeerSwarm](https://beerswarm.com/)
