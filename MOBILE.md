@@ -512,10 +512,13 @@ Blumenau, SC
 Redux, React Native, Styled Components, GraphQl, Apollo, Ducks, Jest, Enzyme, Hooks, Ramda, ESLint(Standard), Final Form, Parcel, ImmutableJS
 
 #
-
 [Gamers Club](https://vagas.gamersclub.com.br)
 Sorocaba, SP
 Redux, Router, Jest, Enzyme, Saga, Typescript, Storybook
+
+[Gavea Marketplace](https://gavea.com/)
+Rio de Janeiro, RJ
+Redux-Saga, React Native, ContextApi, React Query, Hooks, Jest, Cypress, Router, Typescript, Storybook, Formik, NextJs, Electron
 
 [Geekie](http://www.geekie.com.br/)
 São Paulo, SP
