@@ -1230,8 +1230,13 @@ Redux, Styled Components, Webpack, Storybook, Jest, Router, Monorepo
 Lauro de Freitas, BA
 Redux, React Native
 
+[Smarten](https://smarten.com.br)
+Marau, RS
+React-Native, Redux, Next.js, Styled Components
+
 [Startaê](https://startae.com/)
 Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
+
 
 [StartSe](https://www.startse.com/)
 São Paulo, SP<br/> Palo Alto, CA
