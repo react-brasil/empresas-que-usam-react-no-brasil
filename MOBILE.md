@@ -1237,7 +1237,6 @@ React-Native, Redux, Next.js, Styled Components
 [Startaê](https://startae.com/)
 Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
 
-
 [StartSe](https://www.startse.com/)
 São Paulo, SP<br/> Palo Alto, CA
 Redux, React Native, Graphql
