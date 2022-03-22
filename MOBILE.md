@@ -292,7 +292,8 @@ Typescript, CRA, Emotion, GraphQL, Relay, Jest, Cypress, React Testing Library, 
 
 [Cubos](https://cubos.io)
 Salvador, BA
-Mobx, Redux, Jest
+Typescript, Context API, Hooks, SASS, Jest, Storybook, Webpack, Next.js
+🏠 🏢
 
 [Cuidas](https://www.cuidas.com.br/)
 São Paulo, SP
