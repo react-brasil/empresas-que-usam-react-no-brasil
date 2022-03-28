@@ -292,7 +292,8 @@ Typescript, CRA, Emotion, GraphQL, Relay, Jest, Cypress, React Testing Library, 
 
 [Cubos](https://cubos.io)
 Salvador, BA
-Mobx, Redux, Jest
+Typescript, Context API, Hooks, SASS, Jest, Storybook, Webpack, Next.js
+🏠 🏢
 
 [Cuidas](https://www.cuidas.com.br/)
 São Paulo, SP
@@ -512,10 +513,13 @@ Blumenau, SC
 Redux, React Native, Styled Components, GraphQl, Apollo, Ducks, Jest, Enzyme, Hooks, Ramda, ESLint(Standard), Final Form, Parcel, ImmutableJS
 
 #
-
 [Gamers Club](https://vagas.gamersclub.com.br)
 Sorocaba, SP
 Redux, Router, Jest, Enzyme, Saga, Typescript, Storybook
+
+[Gavea Marketplace](https://gavea.com/)
+Rio de Janeiro, RJ
+Redux-Saga, React Native, ContextApi, React Query, Hooks, Jest, Cypress, Router, Typescript, Storybook, Formik, NextJs, Electron
 
 [Geekie](http://www.geekie.com.br/)
 São Paulo, SP
@@ -1116,6 +1120,10 @@ São Paulo, SP
 Redux, Redux Thunk, Ducks, Next.js, Material-UI, Jest, Enzyme, TypeScript
 🏠 🏢
 
+[Riderize] (https://www.riderize.com)
+Rio do Sul, SC
+React Native, Apollo/GraphQL, NextJS, TypeScript, Relay, Recoil
+
 [Rivendel](https://rivendel.com.br/)
 São Paulo, SP
 Redux, Saga, Material-UI, Immutable.js, Jest, Relay/GraphQL, React-Leaflet, Redux-Immutable.
@@ -1230,6 +1238,10 @@ Redux, Styled Components, Webpack, Storybook, Jest, Router, Monorepo
 [Sotero Tech](https://www.soterotech.com.br/)
 Lauro de Freitas, BA
 Redux, React Native
+
+[Smarten](https://smarten.com.br)
+Marau, RS
+React-Native, Redux, Next.js, Styled Components
 
 [Startaê](https://startae.com/)
 Gatsby, Recompose, Styled Components, React Router, Redux, GraphQL, Apollo
@@ -1464,6 +1476,8 @@ React-Native, Redux, GraphQL, Apollo/Relay
 
 [12min](https://12min.com/)
 React Native, Redux, React Navigation, Saga, Cycle, Flow, Reactotron, ESLint(Airbnb)
+
+[7az](https://www.7az.com.br) Hooks, SASS, Atomic Design, Reach Router, React Native, AWS, ASP.NET MVC, PostgreSQL, React Navigation, Facebook Fresco
 
 ## Projetos
 
