@@ -377,6 +377,10 @@ React Native, Redux, Jest
 Uberlândia, MG
 NextJs, Redux, ReduxForm, Styled Components, React Native
 
+[DoroTech](https://www.dorotech.com.br/)
+Barueri, SP
+NextJs, Redux, Metronic, React, IoT, TypeScript, React Native 🏠 
+
 #
 
 [e-Core](https://www.e-core.com/)
