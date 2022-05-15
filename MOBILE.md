@@ -64,6 +64,11 @@ Typescript, Redux, Redux Saga, Hooks, React Native, Styled Components, Formik, T
 Recife, PE
 Redux, React Native, Redux Form
 
+[Agile Content](https://www.agilecontent.com/) 
+São Paulo, SP 
+Typescript, React Native, NextJS, Redux, Redux Toolkit, SWR, Eslint, Stylelint, Husky, Prettier, Jest, Testing Library 
+🏠 🏢 
+
 [Agilize Contabilidade Online](https://www.agilize.com.br/)
 Salvador, BA
 Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
