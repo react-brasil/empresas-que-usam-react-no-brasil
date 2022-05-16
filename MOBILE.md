@@ -1214,13 +1214,18 @@ React Native
 Joinville, SC
 React Native, Redux
 
+[Softin Sistemas](https://softin.com.br/)
+Joinville, SC
+Redux
+
 [Softplan](https://www.softplan.com.br/)
 Florianópolis, SC
 Redux, ReactNative
 
-[Softin Sistemas](https://softin.com.br/)
-Joinville, SC
-Redux
+[Softwrap](https://softwrap.com.br/)
+São Paulo, SP
+React Native, Styled Components, Hooks, Redux, Firebase, Storybook
+🏠 
 
 [Som Livre](https://www.somlivre.com/)
 Rio de Janeiro, RJ
