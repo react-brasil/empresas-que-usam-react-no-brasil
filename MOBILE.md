@@ -379,7 +379,7 @@ NextJs, Redux, ReduxForm, Styled Components, React Native
 
 [DoroTech](https://www.dorotech.com.br/)
 Barueri, SP
-NextJs, Redux, Metronic, React, IoT, TypeScript, React Native 🏠 
+NextJs, Redux, Metronic, IoT, TypeScript, React Native 🏠 
 
 #
 
