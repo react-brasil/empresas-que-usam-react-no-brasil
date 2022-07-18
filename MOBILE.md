@@ -1074,6 +1074,10 @@ São Paulo, SP
 React Native, Redux
 🏠 🏢
 
+[Proffer](https://proffer.com.br/)
+Rio de Janeiro, RJ
+🏠
+
 [ProFUSION](https://profusion.mobi)
 Campinas, SP
 React Native, Redux, Redux Saga, GraphQL, Material-UI, Styled Components, Flow, TypeScript
