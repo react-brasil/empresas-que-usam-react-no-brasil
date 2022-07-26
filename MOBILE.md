@@ -918,6 +918,11 @@ React-Native, Native Base, Redux, GraphQL, MongoDB, Relay
 Belo Horizonte, MG
 React-Native, SCSS, Styled-Components, Redux, Jest, React Testing Library, ESLint(Airbnb), Prettier, Formik
 
+[Newtail](https://newtail.com.br)
+Rio de Janeiro, RJ
+Typescript, Next.js, Styled Components, React Native, Storybook, Context, Hooks, Redux, React Testing, Cypress
+🏠
+
 [Nexodata](https://nexodata.com.br/)
 São Paulo, SP
 Styled Components, Webpack, AWS, Gatsby
