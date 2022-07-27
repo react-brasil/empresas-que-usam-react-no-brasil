@@ -1434,6 +1434,10 @@ GraphQL, Redux, Hooks, Styled Components, Router, Apollo, Jest, React Native, En
 São Paulo, SP
 Styled-components, webpack
 
+[Wedy](https://www.wedy.com/)
+NextJS, TailwindCSS, GraphQL, SWR, ESLint, Prettier
+🏠
+
 [Welearn](https://br.welearnit.co)
 
 [Wevo](https://www.wevo.com.br)
