@@ -1275,6 +1275,11 @@ React-Native, Next.js, Node.js, Styled Components, webpack
 [STQ Digital](https://stqpublicidade.com.br/)
 São Paulo, SP React-Native, GraphQL, Redux, Relay, Immutable, Styled Components
 
+[Strider](https://www.onstrider.com/)
+Belo Horizonte, MG 
+Typescript, Node.Js, Jest, PostgreSQL, Heroku, Hooks, Context API
+🏠
+
 [Studio Sol](https://www.studiosol.com.br/)
 Belo Horizonte, MG Redux, GraphQL, Relay
 
