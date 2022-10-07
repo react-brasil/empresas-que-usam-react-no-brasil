@@ -861,7 +861,7 @@ Belo Horizonte, MG - Manaus, AM
 React Native, Redux, Next.js, Styled Components, Jest
 
 [Mercado Livre](https://www.mercadolivre.com.br/)
-São Paulo, SP
+Florianópolis, SC - São Paulo, SP
 GraphQL, Redux
 
 [Meu Despachante](https://meudespachante.com.br/)
