@@ -786,6 +786,11 @@ Webpack, Styled Components
 São Paulo, SP
 Next.js, Redux, Styled Components, GraphQL, React-Router, Webpack, Storybook, Cypress, React Native
 
+[Looqbox](https://www.looqbox.com)
+São Paulo, SP
+ReactNative, Babel, Webpack, MongoDB, Jenkins, Redux, TypeScript, StoryBook, React-Router, Styled Components, Firebase
+🏠 🏢
+
 [Loggi](http://www.loggi.com/)
 São Paulo, SP - Rio de Janeiro, RJ - Belo Horizonte, MG
 React Native, React Native Web, CSS Modules, Styled Components, React-Router, GraphQL, Relay, Redux, Redux-Thunk, Redux-forms, Enzyme, Jest, Storybook (Web/Native), Webpack, NightwatchJS, MS appcenter (code-push)
