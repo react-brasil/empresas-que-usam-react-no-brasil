@@ -1457,6 +1457,10 @@ React Native, Redux, Redux Thunk, Immutable
 São Paulo, SP
 React Native, Redux, Sagas, Router
 
+[Woovi](https://www.woovi.com)
+São Paulo, SP
+Redux, Router, Relay, GraphQL, Styled Components, Emotion, Webpack
+
 #
 
 [XP Investimentos](https://www.xpi.com.br/)
