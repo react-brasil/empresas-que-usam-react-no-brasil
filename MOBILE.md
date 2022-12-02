@@ -796,6 +796,11 @@ Redux, Redux-Thunk, Jest, Enzyme, create-react-app
 [Loldesign](https://www.loldesign.com.br)
 São Paulo, SP
 
+[Looqbox](https://www.looqbox.com)
+São Paulo, SP
+ReactNative, Babel, Webpack, MongoDB, Jenkins, Redux, TypeScript, StoryBook, React-Router, Styled Components, Firebase
+🏠 🏢
+
 [Luby](https://www.luby.com.br/)
 São Paulo, SP
 React Native
