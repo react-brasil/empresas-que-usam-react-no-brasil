@@ -1361,6 +1361,10 @@ ReactNative, Redux Thunk, Router, Webpack
 Fortaleza, CE
 Redux, Jest, Saga
 
+[TruckPag](https://www.truckpag.com.br/)
+Cascavél - PR
+JavaScript, TypeScript, React Query, Material-UI, Jest, Storybook
+
 [UAUBox](https://uaubox.com.br/)
 Jundiaí - SP
 Next.js, Redux, Material-UI, create-react-app, Redux Saga, Gitlab, Nodejs
