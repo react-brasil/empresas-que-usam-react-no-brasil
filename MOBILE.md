@@ -517,6 +517,10 @@ Redux, Redux-Thunk, Redux-Saga, Redux-form, Emotion, Jest
 São Paulo, SP
 Redux, Redux Thunk
 
+[Flash Benefícios](https://www.flashapp.com.br/)
+São Paulo, SP
+Typescript, Single-SPA GraphQL, Jest, React Native
+
 [Fundação CERTI](https://certi.org.br/)
 Florianópolis, SC
 Redux, Apollo, Relay, Jest
