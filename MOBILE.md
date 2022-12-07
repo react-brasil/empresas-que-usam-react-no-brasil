@@ -100,6 +100,10 @@ Styled Components, Next.JS, Webpack, Node.JS
 [Americanas](https://www.americanas.com.br/)
 São Paulo, SP
 
+[Andra Sistemas](https://andrasistemas.com.br)
+Campinas, SP 
+Next.js, Node.js, Cloud, Material-UI, RESTFull 🏠
+
 [ANTIDOTO DESIGN E TECNOLOGIA](https://www.antidotodesign.com.br/)
 São Paulo, SP
 React-Native, Redux, Feathersjs, Mongodb, Gunjs, Meteor
