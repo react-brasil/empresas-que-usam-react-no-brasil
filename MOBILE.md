@@ -873,6 +873,10 @@ Redux, Mongo DB, elasticsearch
 Belo Horizonte, MG - Manaus, AM
 React Native, Redux, Next.js, Styled Components, Jest
 
+[Stimper](https://www.stimper.com.br/)
+Brasília, DF
+Redux, React Router, Redux Form, React Native, Typescript, Styled Components
+
 [Mercado Livre](https://www.mercadolivre.com.br/)
 Florianópolis, SC - São Paulo, SP
 GraphQL, Redux
