@@ -667,6 +667,10 @@ MobX, JSS, Jest, Webpack, Storybook
 Piracicaba, SP
 Redux, Material-UI, Webpack, Redux-Thunk, Jest, GraphQL
 
+[Influencer.Me](https://getinfluencer.me)
+Dourados, MS
+React Native, Redux, React-Router
+
 [Infracommerce](http://www.infracommerce.com.br/)
 São Paulo, SP
 Flux/Redux, Redux Saga, Redux Form, Webpack, Storybook
