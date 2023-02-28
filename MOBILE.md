@@ -102,7 +102,7 @@ São Paulo, SP
 
 [Andra Sistemas](https://andrasistemas.com.br)
 Campinas, SP
-Next.js, Node.js, Cloud, Material-UI, RESTFull
+Next.js, Node.js, Cloud, Material-UI, RESTFul
 
 [ANTIDOTO DESIGN E TECNOLOGIA](https://www.antidotodesign.com.br/)
 São Paulo, SP
