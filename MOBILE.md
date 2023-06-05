@@ -367,6 +367,10 @@ Flux, Jest, MobX, React Native, Redux
 [Diebold Nixdorf](https://www.dieboldnixdorf.com.br/)
 Indaiatuba, SP
 
+[Diel Energia](https://dielenergia.com)
+São Paulo, SP
+TypeScript, Styled Components
+
 [Digibee](https://www.digibee.com.br/)
 São Paulo, SP
 React-Native, Rematch, Redux, GraphQL, Styled Components
