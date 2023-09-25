@@ -1104,6 +1104,11 @@ São Paulo, SP
 React Native, Redux
 🏠 🏢
 
+[Proansi Tecnologia](https://proansi.com.br/)
+São José do Rio Preto, SP
+React Native, Material-UI
+🏢
+
 [Proffer](https://proffer.com.br/)
 Rio de Janeiro, RJ
 🏠
