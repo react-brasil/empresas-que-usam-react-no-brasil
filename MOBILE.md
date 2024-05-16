@@ -674,7 +674,7 @@ React Native, Redux, GraphQL, Apollo, Jest, Enzyme, Deck&#46;gl, Mapbox, Leaflet
 
 [Inboarding](https://www.inboarding.co/carreira)
 Joinville, SC
-React, Material UI, Typescript, Jest, Vitest            
+Typescript, Material UI, Jest, Vitest            
 
 [Incentive-me](https://www.incentive-me.com/)
 Rio de Janeiro, RJ
