@@ -672,6 +672,10 @@ Redux, Saga, Styled Components
 Recife, PE
 React Native, Redux, GraphQL, Apollo, Jest, Enzyme, Deck&#46;gl, Mapbox, Leaflet, Semantic-UI, Storybook, Webpack
 
+[Inboarding](https://www.inboarding.co/carreira)
+Joinville, SC
+React, Material UI, Typescript, Jest, Vitest            
+
 [Incentive-me](https://www.incentive-me.com/)
 Rio de Janeiro, RJ
 MobX, JSS, Jest, Webpack, Storybook
