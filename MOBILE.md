@@ -44,6 +44,10 @@ Para propor melhorias, basta abrir uma **[issue](https://github.com/react-brasil
 
 ## Empresas
 
+[3WFacoty.Tech! Fábrica de Software e SaaS](https://3wfactory.tech)
+Curitiba, PR
+React Native, Typescript, Context API, Hooks, Atomic Design, ESLint, Husky, Prettier, Zustand
+
 [Accenture](https://www.accenture.com/br-pt/careers/recife)
 São Paulo, SP - Recife, PE
 Redux, React Native
